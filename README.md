@@ -2,6 +2,7 @@
 Provides exercises which enable you to get to know the NBility Model
 
 # Pre-knowledge
+Participants of the workshop are expected to have bacis knowlge of [NBility model](https://www.edsn.nl/nbility-model/) and [Archimate](https://www.opengroup.org/archimate-forum/archimate-overview). 
 
 # Preparation
 
