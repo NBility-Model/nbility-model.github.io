@@ -1,5 +1,5 @@
 ## Import archi model in Bizzdesign
-
+Pre-requisites en Doel
 1.	Check the file format of the file you want to import 
 2.	Open Bizzdesign. On the landing page you will see the option to go to the modeler, click on Enterprise Studio Online. See Image below.
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Landing%20page%20BiZZdesign.png)
