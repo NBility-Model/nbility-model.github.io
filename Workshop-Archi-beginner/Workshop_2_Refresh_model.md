@@ -1,6 +1,6 @@
 ## Refresh model
 
-**It is important to refresh the model from Github prior to making any changes to avoid overwriting upstream changes made since the local repo copy was pulled from the server**.  Regular refreshes also help to keep local repo copies updated with changes made to the upstream repository. 
+**IMPORTANT: To ensure that the local repository remains synchronized with the upstream repository and to prevent overwriting any changes made since the last pull from the server, it is crucial to refresh the model from GitHub before applying any modifications.** Regular refreshs of the model not only maintain alignment with the upstream repository but also mitigate the risk of merge conflicts.
 
 1. To refresh your local copy of the model, open the model / branch from the Collaboration Workspace and select [**Refresh Model**] from the **Collaboration** application menu.
 
