@@ -12,4 +12,4 @@
 
 ![coArchi-publish-changes](https://github.com/NBility-Model/.github/blob/main/images/Publish%20changes.PNG)
 
-4. To ensure that your changes have been successfully committed and published, you can verify by visiting https://github.com/NBility-Model to see if your commit appears in the specific branch you've worked on.
+4. To ensure that your changes have been successfully committed and published, you can verify by visiting your topic branch on https://github.com/NBility-Model to see if your commit appears in the specific branch you've worked on.
