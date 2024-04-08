@@ -3,6 +3,16 @@ Provides exercises which enable you to get to know the NBility Model
 
 # Pre-knowledge
 
+# Preparation
+
+1. [Setting up and configuring Archi and the plug-in](https://github.com/NBility-Model/NBility-Workshop/blob/main/Preparation/Preparation_1_Download_and_install_the_coArchi_plug-in.md)
+2. [Preparing your Github account to configure Archi integration](https://github.com/NBility-Model/NBility-Workshop/blob/main/Preparation/Preparation_2_Preparing-your_Github_account_to_configure_Archi_integration.md)
+3. [Import the Nbility model into Archi from Github](https://github.com/NBility-Model/NBility-Workshop/blob/main/Preparation/Preparation_3_Import_the_model_into_Archi_from_Github.md)
+
+# Workshop Archi Beginner
+
+# Workshop Bizzdesign
+
 # License
 This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
 
