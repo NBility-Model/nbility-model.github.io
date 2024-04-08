@@ -10,9 +10,11 @@
 5. After choosing this option, the modeler opens. On the left you will find the list of all ArchiMate elements. Below on this left panel you will see five tabs, Create, Model Browser, Properties, Documentation and Viewpoints. Click on Model Browser.
 6. Once the model browser opens, you will see _Empty model with total view_. Click on the drop down menu left to it and select it. See image below.
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Empty%20model%20with%20total%20view.png)
-8.	Put the file in the proper folder, i.e, Home Folder. 
-9.	Select a ArchiMate model. If you don’t select an ArchiMate model the Import option, see Image below, will not be clickable. 
-10.	Select Import > XMI/XML.
-11.	From the pop menu navigate to the Home Folder where you have saved the file to be imported. Select the file and press OK.
-12.	The ArchiMate mode, i.e., elements, relationships and view will now be impo
+7. Once you select the model - in the options tab above select Archimate and then Import > XMI/XML. See image.
+   ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Import%20options.png)
+9.	Put the file in the proper folder, i.e, Home Folder. 
+10.	Select a ArchiMate model. If you don’t select an ArchiMate model the Import option, see Image below, will not be clickable. 
+11.	Select Import > XMI/XML.
+12.	From the pop menu navigate to the Home Folder where you have saved the file to be imported. Select the file and press OK.
+13.	The ArchiMate mode, i.e., elements, relationships and view will now be impo
 
