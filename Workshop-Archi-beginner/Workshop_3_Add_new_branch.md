@@ -12,8 +12,13 @@ To protect the integrity of the main branch and avoid overwriting updates from s
 
 ![coArchi-add-branche](https://github.com/NBility-Model/.github/blob/main/images/Add%20branch.PNG)
 
-3. [**Add branch**] will create a local branch while [**Add branch and checkout**] will create the local branch and set it as the active branch.  Neither of these actions will create the upstream branch (on Github server).
+3. Select [**Add branch and checkout**]. This will create the local topic branch and set it as the active branch. This action won't create the upstream branch (on [Github server](https://github.com/NBility-Model) yet).
 
 ![coArchi-add-branch](https://github.com/NBility-Model/.github/blob/main/images/Add_branch_part%202.PNG)
 
-4. To commit and publish the new branch, following the steps from [**Commiting changes**] and [**Publishing Changes**].
+4. The final step is to publish the new topic branch. This will make the new topic branch available on [GitHub.co](https://github.com/NBility-Model). To publish your new topic branch, select [**Publish changes**] from the **Collaboration** menu.
+
+![coArchi-publish-changes](https://github.com/NBility-Model/.github/blob/main/images/Publish%20changes.PNG)
+
+5. To ensure that your new topic branch have been successfully published, you can verify by visiting your topic branch on https://github.com/NBility-Model to see if your new topic branch appears in the specific repository you've worked on.
+
