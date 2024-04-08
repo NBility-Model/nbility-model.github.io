@@ -18,6 +18,9 @@ Participants of the workshop are expected to have bacis knowlge of [NBility mode
 4. [Switch branch](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_4_Switch_branch.md)
 5. [Commit and publish_change](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_4_Commit_and_publish_change.md)
 6. [Create Pull Request Review and Merge Topic Branch](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_5_Merge_change.md)
+7. [Export model to Open Echange XML File](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_7_Export_model_to_XML_file.md)
+8. [Export model to CSV files](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_8_Export_model_to_CSV_files.md)
+9. [Generate model in PDF, MS Word or MS Powerpoint](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_9_Generate_PDF_or_MS_Word_or_MS_Powerpoint.md)
 
 # Workshop Bizzdesign
 1. [Import archi NBility model in Bizzdesign](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Bizzdesign/Workshop_1_Import_archi_model_in_Bizzdesign.md)
