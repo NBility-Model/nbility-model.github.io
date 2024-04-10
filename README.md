@@ -2,7 +2,7 @@
 Provides exercises which enable you to get to know the NBility Model
 
 # Pre-knowledge
-Participants of the workshop are expected to have bacis knowledge of [NBility model](https://www.edsn.nl/nbility-model/) and [Archimate](https://www.opengroup.org/archimate-forum/archimate-overview). 
+Participants of the workshop are expected to have bacis knowledge of [NBility model](https://www.edsn.nl/nbility-model/), [Archimate](https://www.opengroup.org/archimate-forum/archimate-overview) and [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow). 
 
 # Preparation
 
