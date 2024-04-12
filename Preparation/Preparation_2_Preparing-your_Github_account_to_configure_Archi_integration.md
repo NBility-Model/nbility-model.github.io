@@ -1,7 +1,8 @@
 ## Preparing your Github account to configure Archi integration
 
 1. Log onto your GitHub Account at [GitHub.com](github.com) or create a GitHub account at [GitHub.com](github.com)
-2. To configure Archi for Github integration you would need to create a Personal Access Token (PAT) from your user account.  For a detailed overview of the process you can visit https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+2. **Only for the EDSNS workshop**: Share your GitHUb Account name with workshop facilitors (Jonas & Prince) via email. 
+3. To configure Archi for Github integration you would need to create a Personal Access Token (PAT) from your user account.  For a detailed overview of the process you can visit https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 Alternatively, you can follow the steps below:
 
