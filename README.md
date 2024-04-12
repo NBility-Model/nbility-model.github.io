@@ -29,7 +29,7 @@ Participants of the workshop are expected to have bacis knowledge of [NBility mo
 This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
 
 # Contributing
-Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [CONTRIBUTING.md](CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](PROJECT_GOVERNANCE.md) for details on the process for submitting pull requests to us.
+Please read [CODE_OF_CONDUCT.md](https://github.com/NBility-Model/.github/blob/main/CODE_OF_CONDUCT.md), [CONTRIBUTING.md](https://github.com/NBility-Model/.github/blob/main/CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](https://github.com/NBility-Model/.github/blob/main/PROJECT_GOVERNANCE.md) for details on the process for submitting pull requests to us.
 
 # Contact
 Please read [SUPPORT.md](SUPPORT.md) for how to connect and get into contact with the NBility project
