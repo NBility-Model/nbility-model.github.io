@@ -16,6 +16,6 @@ This is a step by step guide to import a .xml file in Bizzdesign Enterprise Stud
 7.	Put the file in the proper folder, i.e, Home Folder. 
 8.	Select a ArchiMate model. If you don’t select an ArchiMate model the Import option, see Image below, will not be clickable. 
 9.	Select Import > XMI/XML.
-10.	From the pop menu navigate to the Home Folder where you have saved the file to be imported. Select the file and press OK.
-11.	The ArchiMate mode, i.e., elements, relationships and view will now be impo
+10.	From the pop menu navigate to the Home Folder where you saved the .xml file to be imported in Step. Select the file and press OK.
+11.	The architecture model containing all views, elements, relationships will now be ready to be edited in the model browser. You may rename the 
 
