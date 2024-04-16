@@ -5,36 +5,37 @@ This is a step by step guide to import a .xml file in Bizzdesign Enterprise Stud
    
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Landing%20page%20BiZZdesign.png)
   	
-3. Having clicked on the Enterprise Studio Online, you will find yourself in the online modeling environment. Set on the Expert Mode (right corner). See Image below
-4. 
+2. Having clicked on the Enterprise Studio Online, you will find yourself in the online modeling environment. Set on the Expert Mode (right corner). See Image below
+ 
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Modeler%20landing%20page.png)
    
-5. On the top you will see an option My Files. Click on it.
-6. 
+3. On the top you will see an option My Files. Click on it.
+ 
  ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Home%20Folder%20option.png)
 
-7. A pop up window open. Click Home folder and Upload Files. Navigate to the folder on your local machine where you have saved the .xml file. Select it and Upload. When the upload is successful close this window.
-8. 
+4. A pop up window open. Click Home folder and Upload Files. Navigate to the folder on your local machine where you have saved the .xml file. Select it and Upload. When the upload is successful close this window.
+
  ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/My%20Files.png)
 
-9.	Back in the modelling environment, open an exisiting project or make a new project. To create a new project, click on File (left hand corner). A menu opens up. Choose, _New>ArchiMate>Empty model with total view_.
+5.	Back in the modelling environment, open an exisiting project or make a new project. To create a new project, click on File (left hand corner). A menu opens up. Choose, _New>ArchiMate>Empty model with total view_.
 
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Creating%20an%20empty%20model%20with%20total%20view.png)
   	
-7. After choosing this option, the modeler opens. Below on this left panel you will see five tabs, Create, Model Browser, Properties, Documentation and Viewpoints. Click on Model Browser.
-8. Once the model browser opens, you will see _Empty model with total view_. Click on the drop down menu left to it and select it. See image below.
-9. 
+6. After choosing this option, the modeler opens. Below on this left panel you will see five tabs, Create, Model Browser, Properties, Documentation and Viewpoints. Click on Model Browser.
+
+7. Once the model browser opens, you will see _Empty model with total view_. Click on the drop down menu left to it and select it. See image below.
+   
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Empty%20model%20with%20total%20view.png)
    
-10. Once you select the model - in the options tab above select Archimate and then Import > XMI/XML. See image.
-11. 
+8. Once you select the model - in the options tab above select Archimate and then Import > XMI/XML. See image.
+ 
    ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Import%20options.png)
    
-12.	From the pop up window, navigate to the Home Folder where you saved the .xml file to be imported in Step 4. Select the file and press OK.
+9.	From the pop up window, navigate to the Home Folder where you saved the .xml file to be imported in Step 4. Select the file and press OK.
 
  ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Home%20Folder%20structure.png)
  
-11.	The architecture model containing all views, elements, relationships will now be ready to be edited in the model browser. You may rename the repository if you like.
+10.	The architecture model containing all views, elements, relationships will now be ready to be edited in the model browser. You may rename the repository if you like.
  
  ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/View%20original%20Model.png)
 
