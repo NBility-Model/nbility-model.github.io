@@ -17,3 +17,7 @@ This is a step by step guide to import a .xml file in Bizzdesign Enterprise Stud
 12.	From the pop menu navigate to the Home Folder where you saved the .xml file to be imported in Step. Select the file and press OK.
 13.	The architecture model containing all views, elements, relationships will now be ready to be edited in the model browser. You may rename the repository if you like. 
 
+ ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Home%20Folder%20option.png)
+ ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/Home%20Folder%20structure.png)
+ ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/My%20Files.png)
+ ![coArchi-refresh-model](https://github.com/NBility-Model/.github/blob/main/images/View%20original%20Model.png)
