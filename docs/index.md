@@ -21,4 +21,3 @@ Use the navigation menu in the left sidebar to access the pages in the documenta
 ## Other resources
 
 - [Explanation of the NBility model at EDSN](https://www.edsn.nl/nbility-model/)
-- [Workshops](https://github.com/NBility-Model/NBility-Workshop)
