@@ -1,6 +1,6 @@
 site_name: Nbility Model
 site_url: https://nbility-model.github.io/
-repo_url: https://github.com/NBility-Model/.github
+repo_url: https://github.com/NBility-Model/nbility-model.github.io
 edit_uri: edit/main/docs/
 theme:
   name: material
