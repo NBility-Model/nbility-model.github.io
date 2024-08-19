@@ -1,4 +1,8 @@
-## Generate model in PDF, MS Word or MS Powerpoint
+---
+title: "Generate model in PDF, Word, Powerpoint"
+---
+
+# Generating a model in PDF, MS Word or MS Powerpoint
 
 1. In archi, select [Report] and then [Jasper] in the File menu.
 

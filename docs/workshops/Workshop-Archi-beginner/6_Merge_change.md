@@ -1,4 +1,8 @@
-## Create Pull Request Review and Merge Topic Branch
+---
+title: "Merge change"
+---
+
+# Creating a pull request review and merging topic branch
 
 On regular intervals all committed and published branches need to be merged into the main branch which will trickle down into all subsequent branches.
 

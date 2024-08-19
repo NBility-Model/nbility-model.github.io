@@ -1,8 +1,12 @@
-## Add new branch
+---
+title: "Add new branch"
+---
+
+# Adding a new branch
 
 To protect the integrity of the main branch and avoid overwriting updates from someone else, it is recommended to create a branch for each new piece of work.  Branches could be named by feature_[**topic name**] or fix_[**topic name**].  Branches can be created either through the coArchi plugin or via Github.com.
 
-### Via the coArchi plugin
+## Via the coArchi plugin
 
 1. In Archi, select [**Toggle Branches View**] from the **Collaboration** menu.
 
@@ -20,5 +24,5 @@ To protect the integrity of the main branch and avoid overwriting updates from s
 
 ![coArchi-publish-changes](/images/Publish%20changes.PNG)
 
-5. To ensure that your new topic branch have been successfully published, you can verify by visiting your topic branch on https://github.com/NBility-Model to see if your new topic branch appears in the specific repository you've worked on.
+5. To ensure that your new topic branch have been successfully published, you can verify by visiting your topic branch on <https://github.com/NBility-Model> to see if your new topic branch appears in the specific repository you've worked on.
 

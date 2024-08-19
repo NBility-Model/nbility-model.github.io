@@ -1,4 +1,8 @@
-## Committing and publishing changes
+---
+title: "Commit and publish changes"
+---
+
+# Committing and publishing changes
 
 1. To commit your latest changes, select [**Commit changes**] from the **Collaboration** menu. 
 
