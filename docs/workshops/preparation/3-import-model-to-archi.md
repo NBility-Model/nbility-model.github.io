@@ -1,10 +1,10 @@
-## Import the model into Archi from Github
+# Import the model from GitHub into Archi
 
 Once you have configured Archi and coArchi, and generated your Github Personal Access Token (PAT) you will be able to import the Nbility model into archi.
 
 1. In Archi, select [**Import Remote Model to Workspace**] from **Collaboration** menu.  You may need to provide Archi a master password to unlock this feature. **IMPORTANT**: YOU CANNOT RETRIEVE THE MASTER PASSWORD AFTERWARDS. IF YOU LOOSE IT YOU MAY WILL NEED TO REINSTALL ARCHI.
 
-![coArchi-add-remote-model](https://github.com/NBility-Model/.github/blob/main/images/Add%20remote%20model.PNG)
+![coArchi-add-remote-model](/images/Add%20remote%20model.PNG)
 
 2. In the **Add Remote Model** modal, provide the following information:
 
@@ -18,4 +18,4 @@ It is possible that you could use your GitHub credentials as-is in the screen.  
 
 To obtain the repo URL, you can copy of from the **Clone** address:
 
-![coArchi-clone](https://github.com/NBility-Model/.github/blob/main/images/Clone%20address.PNG)
+![coArchi-clone](/images/Clone%20address.PNG)

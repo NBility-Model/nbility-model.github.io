@@ -4,7 +4,7 @@ title: "Import Archi model in Bizzdesign"
 
 # Importing an Archi model in Bizzdesign
 
-This is a step by step guide to import a `.xml` file in Bizzdesign Enterprise Studio. By following this guide you will be able to import architecture elements, element properties and relationships between elements contained in the .xml file. A pre-requisite to this guide, is that you already have generated an .xml file from an architecture modeling tool like Archi (see guide [Export model to XML file](/workshops/Workshop-Archi-beginner/7_Export_model_to_XML_file)). 
+This is a step by step guide to import a `.xml` file in Bizzdesign Enterprise Studio. By following this guide you will be able to import architecture elements, element properties and relationships between elements contained in the .xml file. A pre-requisite to this guide, is that you already have generated an .xml file from an architecture modeling tool like Archi (see guide [Export model to XML file](/workshops/archi-beginner/7-export-xml/)). 
 
 1.	Open Bizzdesign. On the landing page you will see the option to go to the modeler, click on Enterprise Studio Online.
    
