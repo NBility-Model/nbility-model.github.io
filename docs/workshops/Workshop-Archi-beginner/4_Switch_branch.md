@@ -3,4 +3,4 @@
 1. In archi, select [**Toggle Branches View**] from the **Collaboration** menu.
 2. In archi, right click on the branch you like to switch to and click on [**Switch branch**].
 
-![coArchi-switch-branch](https://github.com/NBility-Model/.github/blob/main/images/Switch%20Branch.PNG)
+![coArchi-switch-branch](/images/Switch%20Branch.PNG)
