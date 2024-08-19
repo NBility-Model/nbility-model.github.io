@@ -2,9 +2,13 @@
 
 This repository hosts the source code for the Nbility-model documentation website at <https://nbility-model.github.io>.
 
-## Testing the documentation site locally
+## Testing/previewing the documentation site locally
 
-The documentation website is built with [mkdocs](https://www.mkdocs.org/), using the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
+The documentation website is built with [mkdocs](https://www.mkdocs.org/), using the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).
+
+To test the documentation site locally, first clone the repository, install the package [`mkdocs-material` from PyPI](https://pypi.org/project/mkdocs-material/), and run `mkdocs serve`.
+Detailed instructions [at the Material for MkDocs documentation site](https://squidfunk.github.io/mkdocs-material/creating-your-site/#previewing-as-you-write).
+
 
 ## Deployment
 
