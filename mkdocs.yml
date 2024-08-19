@@ -1,0 +1,11 @@
+site_name: Nbility Model
+site_url: https://nbility-model.github.io/
+repo_url: https://github.com/NBility-Model/.github
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  features:
+    - content.action.edit
+  palette:
+    primary: green
+  language: en
