@@ -1,6 +1,6 @@
 # Preparing your GitHub account to configure Archi integration
 
-1. Log onto your GitHub Account at [GitHub.com](github.com) or create a GitHub account at [GitHub.com](github.com)
+1. Log onto your GitHub Account at [GitHub.com](https://github.com) or create a GitHub account at [GitHub.com](https://github.com)
 2. Please share your GitHub account name by emailing it to OSPO@alliander.com, so that we can add you to the NBility-Model GitHub organization.
 3. Accept the invitation to join the NBility-Model GitHub organization. Note that this process may take some time as it requires manual intervention by the NBility-Model maintainers. In the meantime, you can proceed with step 4.
 4. To configure Archi for Github integration you would need to create a Personal Access Token (PAT) from your user account.  For a detailed overview of the process you can visit https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-toke
