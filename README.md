@@ -1,35 +1,32 @@
-# NBility-Workshop
-Provides exercises which enable you to contribute to the NBility Model
+# nbility-model.github.io
 
-# Pre-knowledge
-Participants of the workshop are expected to have bacis knowledge of [NBility model](https://www.edsn.nl/nbility-model/), [Archimate](https://www.opengroup.org/archimate-forum/archimate-overview) and [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow). 
+This repository hosts the source code for the Nbility-model documentation website at <https://nbility-model.github.io>.
 
-# Preparation
+## Testing/previewing the documentation site locally
 
-1. [Setting up and configuring Archi and the plug-in](https://github.com/NBility-Model/NBility-Workshop/blob/main/Preparation/Preparation_1_Download_and_install_the_coArchi_plug-in.md)
-2. [Preparing your Github account to configure Archi integration](https://github.com/NBility-Model/NBility-Workshop/blob/main/Preparation/Preparation_2_Preparing-your_Github_account_to_configure_Archi_integration.md)
-3. [Import the Nbility model into Archi from Github](https://github.com/NBility-Model/NBility-Workshop/blob/main/Preparation/Preparation_3_Import_the_model_into_Archi_from_Github.md)
+The documentation website is built with [mkdocs](https://www.mkdocs.org/), using the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
-# Workshop Archi Beginner
+To test the documentation site locally, first clone the repository, install the package [`mkdocs-material` from PyPI](https://pypi.org/project/mkdocs-material/), and run `mkdocs serve`.
+Detailed instructions [at the Material for MkDocs documentation site](https://squidfunk.github.io/mkdocs-material/creating-your-site/#previewing-as-you-write).
 
-1. [Navigating the Archi UI](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_1_Navigating_the_UI.md)
-2. [Refresh NBility model](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_2_Refresh_model.md)
-3. [Add new branch](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_3_Add_new_branch.md)
-4. [Switch branch](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_4_Switch_branch.md)
-5. [Commit and publish_change](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_5_Commit_and_publish_change.md)
-6. [Create Pull Request Review and Merge Topic Branch](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_6_Merge_change.md)
-7. [Export model to Open Echange XML File](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_7_Export_model_to_XML_file.md)
-8. [Export model to CSV files](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_8_Export_model_to_CSV_files.md)
-9. [Generate model in PDF, MS Word or MS Powerpoint](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Archi-beginner/Workshop_9_Generate_PDF_or_MS_Word_or_MS_Powerpoint.md)
 
-# Workshop Bizzdesign
-1. [Import archi NBility model in Bizzdesign](https://github.com/NBility-Model/NBility-Workshop/blob/main/Workshop-Bizzdesign/Workshop_1_Import_archi_model_in_Bizzdesign.md)
+## Deployment
 
-# License
-This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
+The website is deployed using [GitHub Pages](https://docs.github.com/en/pages).
+Deployment is automated using [GitHub Actions](https://docs.github.com/en/actions), so that on each commit on the main branch, the website is rebuilt.
+We follow the exact same steps as outlined in the [documentation on publishing your site, by Materials for MkDocs](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#github-pages).
 
-# Contributing
-Please read [CODE_OF_CONDUCT.md](https://github.com/NBility-Model/.github/blob/main/CODE_OF_CONDUCT.md), [CONTRIBUTING.md](https://github.com/NBility-Model/.github/blob/main/CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](https://github.com/NBility-Model/.github/blob/main/PROJECT_GOVERNANCE.md) for details on the process for submitting pull requests to us.
+**Note**: while we use GitHub Actions for automating deployment, we *do not use* the ['deploy-pages'](https://github.com/actions/deploy-pages) action that GitHub offers.
+Instead, MkDocs pushes the site to a separate branch `gh-pages` which is then used as the website root for GitHub Pages.
 
-# Contact
-Please read [SUPPORT.md](SUPPORT.md) for how to connect and get into contact with the NBility project
+
+## Submitting feedback
+
+On each page on the documentation website, you find the following icon on the right-hand page: 
+![Edit icon](docs/images/edit-icon.png)
+
+Pressing this button will lead you directly to the source code of the corresponding page in GitHub.
+Here, you can commit a change, which you can later merge into the website by submitting a pull request.
+
+To learn more about contributing, check out our [contributing guide](https://nbility-model.github.io/CONTRIBUTING/).
+
