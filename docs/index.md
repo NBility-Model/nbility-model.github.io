@@ -14,6 +14,10 @@ NBility is a capability model for a grid operator. It has been created to simpli
 
 The NBility model is maintained by the Dutch Distribution System Operators. A User Group, where users of NBility can exchange experiences and make suggestions for improvement, is being established.
 
+## Viewing the model
+
+You can view the NBility model without needing to install Archi by following this link: [View NBility Model](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
+
 ## Navigating the documentation
 
 Use the navigation menu in the left sidebar to access the pages in the documentation.
@@ -21,3 +25,4 @@ Use the navigation menu in the left sidebar to access the pages in the documenta
 ## Other resources
 
 - [Explanation of the NBility model at EDSN](https://www.edsn.nl/nbility-model/)
+- [GitHub organisation](https://github.com/NBility-Model)
