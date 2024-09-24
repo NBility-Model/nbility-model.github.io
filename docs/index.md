@@ -33,5 +33,6 @@ If you’d like to contribute to the LF Energy ArchiMate models, you’ll need t
 ## Additional Information
 For more details on the NBility model, please explore the following resources:
 
-- [Explanation of the NBility model at EDSN](https://www.edsn.nl/nbility-model/)
+-  [NBility Model Github](https://github.com/NBility-Model) 
+-  [Explanation of the NBility model at EDSN](https://www.edsn.nl/nbility-model/)
 -  Watch the recording of our introductory webinar (held on September, 2024): [Webinar NBility September, 2024 (YouTube)](https://www.youtube.com/watch?v=Vv1gV4KiHbY) (English)
