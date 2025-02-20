@@ -1,5 +1,5 @@
 ---
-title: "Navigate the UI"
+title: "2.2.1. Navigate the UI"
 ---
 
 # 2.2.1. Navigating the user interface

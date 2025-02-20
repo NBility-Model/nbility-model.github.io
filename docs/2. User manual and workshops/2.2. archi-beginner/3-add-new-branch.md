@@ -1,5 +1,5 @@
 ---
-title: "Add new branch"
+title: "2.2.3. Add new branch"
 ---
 
 # 2.2.3. Adding a new branch

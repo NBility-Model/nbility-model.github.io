@@ -1,5 +1,5 @@
 ---
-title: "Switch branch"
+title: "2.2.4. Switch branch"
 ---
 
 # 2.2.4. Switching branches

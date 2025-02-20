@@ -1,5 +1,5 @@
 ---
-title: "Refresh model"
+title: "2.2.2. Refresh model"
 ---
 
 # 2.2.2. Refreshing the model

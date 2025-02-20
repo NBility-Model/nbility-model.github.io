@@ -1,5 +1,5 @@
 ---
-title: "Commit and publish changes"
+title: "2.2.5. Commit and publish changes"
 ---
 
 # 2.2.5. Committing and publishing changes

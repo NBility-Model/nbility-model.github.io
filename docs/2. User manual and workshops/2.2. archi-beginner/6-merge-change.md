@@ -1,5 +1,5 @@
 ---
-title: "Merge change"
+title: "2.2.6. Merge change"
 ---
 
 # 2.2.6. Creating a pull request review and merging topic branch

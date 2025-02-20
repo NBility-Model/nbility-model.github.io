@@ -1,5 +1,5 @@
 ---
-title: "Export to XML"
+title: "2.2.7. Export to XML"
 ---
 
 # 2.2.7. Exporting a model to an Open Exchange XML file
