@@ -2,7 +2,7 @@
 title: "Export to XML"
 ---
 
-# Exporting a model to an Open Exchange XML file
+# 5.2.7. Exporting a model to an Open Exchange XML file
 
 1. Open Archi on your local machine and select the architecture repository which you would like to export. For the purpose of this example, we choose Nbility-business-capabilities-EN. See image below.
    

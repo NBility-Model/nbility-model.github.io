@@ -2,7 +2,7 @@
 title: "Commit and publish changes"
 ---
 
-# Committing and publishing changes
+# 5.2.5. Committing and publishing changes
 
 1. To commit your latest changes, select [**Commit changes**] from the **Collaboration** menu. 
 

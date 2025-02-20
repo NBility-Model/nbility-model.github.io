@@ -1,4 +1,4 @@
-# Getting Help
+# 6. Getting Help
 
 There are a few ways to connect with the `<YOUR_PROJECT_NAME>` project:
 

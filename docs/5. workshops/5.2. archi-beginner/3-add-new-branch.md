@@ -2,7 +2,7 @@
 title: "Add new branch"
 ---
 
-# Adding a new branch
+# 5.2.3. Adding a new branch
 
 To protect the integrity of the main branch and avoid overwriting updates from someone else, it is recommended to create a branch for each new piece of work.  Branches could be named by feature_[**topic name**] or fix_[**topic name**].  Branches can be created either through the coArchi plugin or via Github.com.
 

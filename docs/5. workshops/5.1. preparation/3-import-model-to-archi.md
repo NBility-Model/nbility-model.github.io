@@ -1,4 +1,4 @@
-# 1.1.3. Import the model from GitHub into Archi
+# 5.1.3. Import the model from GitHub into Archi
 
 Once you have configured Archi and coArchi, and generated your Github Personal Access Token (PAT) you will be able to import the Nbility model into archi.
 

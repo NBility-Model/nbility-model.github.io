@@ -2,7 +2,7 @@
 title: "Export to CSV"
 ---
 
-# Exporting a model to an Open Exchange CSV file
+# 5.2.8. Exporting a model to an Open Exchange CSV file
 
 1. Open Archi on your local machine and select the architecture repository which you would like to export. For the purpose of this example, we choose Nbility-business-capabilities-EN. See image below.
    
