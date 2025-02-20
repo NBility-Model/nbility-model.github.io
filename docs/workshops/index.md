@@ -1,4 +1,4 @@
-# 1. Workshops
+# Workshops
 
 In this section, you can find exercises which enable you to contribute to the NBility Model.
 
