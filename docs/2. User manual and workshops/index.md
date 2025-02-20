@@ -1,4 +1,4 @@
-# 5. User manual and workshops
+# 2. User manual and workshops
 
 In this section, you can find exercises which enable you to contribute to the NBility Model.
 
