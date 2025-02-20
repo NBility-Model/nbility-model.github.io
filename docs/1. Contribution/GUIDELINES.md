@@ -1,4 +1,4 @@
-# 3. NBility model design guidelines
+# NBility model design guidelines
 
 NBility model adheres to generic design rules. Every adjustment and/or expansion should conform to these rules. These guidelines consist of:
 

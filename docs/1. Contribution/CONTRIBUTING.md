@@ -1,4 +1,4 @@
-# 1. Contributing to NBility-Model
+# Contributing to NBility-Model
 
 Thank you for considering contributing to the NBility-Model project! We appreciate your interest and look forward to your contributions. Follow the guidelines below to ensure a smooth and collaborative experience.
 

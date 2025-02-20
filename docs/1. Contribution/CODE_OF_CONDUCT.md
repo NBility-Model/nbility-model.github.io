@@ -1,4 +1,4 @@
-# 2. Code of Conduct
+# Code of Conduct
 
 <!--
 SPDX-FileCopyrightText: 2014 Coraline Ada Ehmke
