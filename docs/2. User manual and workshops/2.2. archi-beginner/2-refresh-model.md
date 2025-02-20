@@ -2,7 +2,7 @@
 title: "Refresh model"
 ---
 
-# 5.2.2. Refreshing the model
+# 2.2.2. Refreshing the model
 
 **IMPORTANT: To ensure that the local repository remains synchronized with the upstream repository and to prevent overwriting any changes made since the last pull from the server, it is crucial to refresh the model from GitHub before applying any modifications.** Regular refreshs of the model not only maintain alignment with the upstream repository but also mitigate the risk of merge conflicts.
 

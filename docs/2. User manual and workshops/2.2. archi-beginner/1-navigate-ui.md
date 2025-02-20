@@ -2,7 +2,7 @@
 title: "Navigate the UI"
 ---
 
-# 5.2.1. Navigating the user interface
+# 2.2.1. Navigating the user interface
 
 1. In Archi, select [**Toggle Collaboration Workspace**] and [**Toggle Branches View**] from the **Collaboration** menu.  The Workspace and Branch windows will be docked within Archi.  Archi/coArchi supports repository branches.
 

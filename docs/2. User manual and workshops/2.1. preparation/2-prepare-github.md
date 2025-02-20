@@ -1,4 +1,4 @@
-# 5.1.2. Preparing your GitHub account to configure Archi integration
+# 2.1.2. Preparing your GitHub account to configure Archi integration
 
 1. Log onto your GitHub Account at [GitHub.com](https://github.com) or create a GitHub account at [GitHub.com](https://github.com)
 2. Please share your GitHub account name by emailing it to OSPO@alliander.com, so that we can add you to the NBility-Model GitHub organization.

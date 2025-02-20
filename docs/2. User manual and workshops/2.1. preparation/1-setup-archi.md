@@ -1,4 +1,4 @@
-# 5.1.1. Setting up and configuring Archi and the plug-in
+# 2.1.1. Setting up and configuring Archi and the plug-in
 
 ## Installing Archi
 
