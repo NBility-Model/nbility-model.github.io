@@ -1,5 +1,5 @@
-site_name: Nbility Model
-site_url: https://nbility-model.github.io/
+site_name: NBility
+site_url: https://nbility.netbeheernederland.nl/
 repo_url: https://github.com/NBility-Model/nbility-model.github.io
 edit_uri: edit/main/docs/
 theme:
@@ -7,5 +7,11 @@ theme:
   features:
     - content.action.edit
   palette:
-    primary: green
+    primary: white
   language: en
+  font:
+    text: Poppins
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+extra_css:
+  - stylesheets/extra.css
