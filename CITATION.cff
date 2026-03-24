@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use NBility or its underlying theoretical work, please cite the following publication."
+
+title: "NBility"
+authors:
+  - name: "Netbeheer Nederland"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Severin"
+      given-names: "Sefanja"
+    - family-names: "Roelens"
+      given-names: "Ben"
+    - family-names: "Roubtsova"
+      given-names: "Ella"
+    - family-names: "Sales"
+      given-names: "Tiago Prince"
+    - family-names: "van der Knaap"
+      given-names: "Ton"
+    - family-names: "Joosten"
+      given-names: "Stef"
+  title: "Semantically Coherent Business Architecture Models: Integrating Capabilities, Value Streams, and Business Objects"
+  year: 2025
+  conference:
+    name: "18th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling (PoEM 2025)"
+  url: "https://ceur-ws.org/Vol-4171/paper_41.pdf"
