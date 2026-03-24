@@ -6,6 +6,8 @@ title: Home
 
 ![NBility logo](images/logo.webp)
 
+**[View the model](model)**
+
 ## Introduction
 
 NBility is a comprehensive capability model designed for grid operators. It was developed to streamline collaboration within the utility sector and with the suppliers and advisors of grid operators. The NBility model comprises three key components:
@@ -17,9 +19,9 @@ NBility is a comprehensive capability model designed for grid operators. It was 
 The NBility model is actively maintained by the Dutch Distribution System Operators. Additionally, a User Group is being established to facilitate the exchange of experiences among users and to gather suggestions for future improvements.
 
 ## Viewing the Model
-You can view the NBility model without needing to install Archi by following this link: [View NBility Model](https://nbility.netbeheernederland.nl/NBility-business-capabilities-Archi/).
+You can view the NBility model without needing to install Archi by following this link: [View NBility Model](model).
 
-![NBility](https://nbility.netbeheernederland.nl/NBility-business-capabilities-Archi/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
+![NBility](https://nbility.netbeheernederland.nl/model/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
 
 ## Navigating the documentation
 
