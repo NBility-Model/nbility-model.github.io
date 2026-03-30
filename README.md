@@ -1,6 +1,6 @@
 # nbility-model.github.io
 
-This repository hosts the source code for the Nbility-model documentation website at <https://nbility-model.github.io>.
+This repository hosts the source code for the Nbility-model documentation website at <[https://nbility-model.github.io](https://nbility.netbeheernederland.nl/)>.
 
 ## Testing/previewing the documentation site locally
 
