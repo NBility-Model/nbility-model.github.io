@@ -1,38 +1,46 @@
 ---
-title: Home
+title: Startpagina
+nav_order: 1
 ---
 
 # NBility
 
-![NBility logo](images/logo.webp)
+<img src="{{ site.baseurl }}/assets/images/nbility-logo.svg" alt="NBility-logo" style="max-width:400px" />
 
-**[View the model](model)**
+Het [**NBility-model**](/model) is een gezamenlijk model van de Nederlandse netbeheerders en beschrijft hun business capabilities, bedrijfsobjecten en waardestromen.
 
-## Introduction
+NBility staat voor **N**etbeheerder **B**usiness Capab**ility**. Het capabilitymodel is opgesteld om handvatten te bieden aan verandering binnen de netbeheerders.
 
-NBility is a comprehensive capability model designed for grid operators. It was developed to streamline collaboration within the utility sector and with the suppliers and advisors of grid operators. The NBility model comprises three key components:
+## Het NBility-model
 
-* A capability model
-* A related object model
-* A value stream model
+Door een gedeeld model te gebruiken wordt het eenvoudiger voor netbeheerders onderling en voor hun leveranciers om samen te werken, doordat ze dezelfde taal spreken.​
 
-The NBility model is actively maintained by the Dutch Distribution System Operators. Additionally, a User Group is being established to facilitate the exchange of experiences among users and to gather suggestions for future improvements.
+Eventuele wijzigingen worden twee keer per jaar verwerkt in publieke releases. Releases worden op deze pagina gepubliceerd.
 
-## Viewing the Model
-You can view the NBility model without needing to install Archi by following this link: [View NBility Model](model).
+*Laatste release: februari 2025*
 
-![NBility](https://nbility.netbeheernederland.nl/model/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
+## NBility-bestanden
 
-## Navigating the documentation
+Bij de release van NBility worden een aantal bestanden geleverd, deze staan hieronder.
 
-Use the navigation menu in the left sidebar to access the pages in the documentation.
+| Bestand | Toelichting |
+|:--------|:------------|
+| [Introductie NBility v2.3 (pptx)]({{ site.baseurl }}/resources/Introductie-presentatie-NBility-2.3.pptx) | Een korte introductie over wat het NBility model inhoudt en de toegevoegde waarde ervan. Hierin zijn ook de meestgestelde vragen opgenomen. |
+| [Model NBility v2.3 (pptx)]({{ site.baseurl }}/resources/NBility-Model-2.3.pptx) | Het NBility-model in PowerPoint |
+| [Model NBility v2.3 (xlsx)]({{ site.baseurl }}/resources/NBility-2.3-Excell.xlsx) | Het NBility-model in Excel |
 
-## Editing the Model
-If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [contributing](1.%20Contribution/CONTRIBUTING/) or check out our [workshops](2.%20User%20manual%20and%20workshops/).
+## Organisatie
 
-## Additional Information
-For more details on the NBility model, please explore the following resources:
+Het NBility-model wordt onderhouden door de gezamenlijke netbeheerders. Een User Group waar gebruikers van NBility ervaringen kunnen uitwisselen en suggesties kunnen doen voor verbetering, wordt opgericht.
 
--  [NBility Model Github](https://github.com/NBility-Model) 
--  [Explanation of the NBility model at EDSN](https://www.edsn.nl/nbility-model/)
--  Watch the recording of our introductory webinar (held on September, 2024): [Webinar NBility September, 2024 (YouTube)](https://www.youtube.com/watch?v=Vv1gV4KiHbY) (English)
+## Aanvullend
+
+Op 15 september 2021 vond een webinar plaats waarin het NBility model geïntroduceerd werd. Kijk hier de opname terug: [**Webinar NBility – 15 september 2021**](https://youtu.be/hpRPoQU_ids) (YouTube)
+
+## Voorgaande versies
+
+Hier staan de documenten van voorgaande NBility versies.
+
+* [Versie 2.2]({{ site.baseurl }}/resources/NBility-Model-2.2.zip)
+* [Versie 2.1]({{ site.baseurl }}/resources/NBility-v2.1.zip)
+* [Versie 2.0]({{ site.baseurl }}/resources/NBility-2.0.zip)
