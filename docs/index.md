@@ -3,9 +3,14 @@ title: Startpagina
 nav_order: 1
 ---
 
-# NBility
-
 <img src="{{ site.baseurl }}/assets/images/nbility-logo.svg" alt="NBility-logo" style="max-width:400px" />
+
+{: .note-title }
+> Preview: versie 2.4
+>
+> De [volgende versie](/review-2.4/) van NBility bevindt zich momenteel in de reviewfase.
+
+# NBility
 
 Het [**NBility-model**](/model) is een gezamenlijk model van de Nederlandse netbeheerders en beschrijft hun business capabilities, bedrijfsobjecten en waardestromen.
 

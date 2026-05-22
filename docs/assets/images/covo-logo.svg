@@ -1,0 +1,55 @@
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    :root {
+      --color: #000000;
+      --thickness: 6;
+    }
+  </style>
+
+  <!-- Lines/Back -->
+  <g id="Lines-Back" 
+     style="fill:none; stroke:var(--color); stroke-width:var(--thickness); stroke-linecap:round; stroke-linejoin:round;">
+    <path d="M 64,16 V 64" />
+    <path d="M 105.56922,88 64,64" />
+    <path d="M 22.43078,88 64,64" />
+  </g>
+
+  <!-- Faces -->
+  <g id="Faces" style="fill-opacity:0.5; stroke:none;">
+    <path d="M 64,64 105.56922,40 64,16 22.43078,40 Z" fill="#a000ff" />
+    <path d="M 22.43078,40 V 88 L 64,112 V 64 Z" fill="#6000ff" />
+    <path d="M 64,112 105.56922,88 V 40 L 64,64 Z" fill="#1000ff" />
+  </g>
+
+  <!-- Lines/Front -->
+  <g id="Lines-Front" 
+     style="fill:none; stroke:var(--color); stroke-width:var(--thickness); stroke-linecap:round; stroke-linejoin:round;">
+    <path d="M 105.56922,40 64,64" />
+    <path d="M 64,112 V 64" />
+    <path d="M 22.43078,40 64,64" />
+  </g>
+
+  <!-- Hexagon -->
+  <path id="Hexagon" 
+        d="M 64,16 L 105.56922,40 V 88 L 64,112 L 22.43078,88 V 40 Z" 
+        style="fill:none; stroke:var(--color); stroke-width:var(--thickness); stroke-linejoin:round;" />
+
+  <!-- Circles -->
+  <defs>
+    <circle id="C-Master" cx="0" cy="0" r="10" />
+  </defs>
+  <g id="Circles" style="fill:var(--color); stroke:none;">
+    <use href="#C-Master" x="64" y="16" />
+    <use href="#C-Master" x="105.56922" y="40" />
+    <use href="#C-Master" x="105.56922" y="88" />
+    <use href="#C-Master" x="64" y="112" />
+    <use href="#C-Master" x="22.43078" y="88" />
+    <use href="#C-Master" x="22.43078" y="40" />
+  </g>
+</svg>
