@@ -1,55 +1,91 @@
 <svg
-   width="128"
-   height="128"
-   viewBox="0 0 128 128"
-   version="1.1"
-   xmlns="http://www.w3.org/2000/svg">
+  width="384"
+  height="128"
+  viewBox="0 0 384 128"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <!--
+    ================================================
+    LOGO LICENSE
+    ================================================
+    © 2026 Asjer Severin
+    This logo design and artwork are licensed under the
+    Creative Commons Attribution 4.0 International License (CC BY 4.0).
+    To view a copy of this license, visit:
+    http://creativecommons.org/licenses/by/4.0/
+
+    ================================================
+    EMBEDDED FONTS LICENSE
+    ================================================
+    This SVG embeds subsetted derivatives of the "Google Sans"
+    font, which is licensed under the
+    SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 (https://openfontlicense.org)
+
+    - Google Sans:
+      Designed by Google
+      Available at https://fonts.google.com/specimen/Google+Sans
+  -->
 
   <style>
     :root {
       --color: #000000;
       --thickness: 6;
+      --c1: #a000ff;
+      --c2: #6000ff;
+      --c3: #1000ff;
     }
   </style>
 
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Google Sans Covo';
+        font-style: normal;
+        font-weight: normal;
+        src: url(data:font/woff2;base64,d09GMgABAAAAAAUAABEAAAAAChAAAASgAA0AgwAAAAAAAAAAAAAAAAAAAAAAAAAAGYNuGhYbgVIcgTgGYD9TVEFUeABEEQgKggiCCAE2AiQDEAsKAAQgBYR0ByAMBxveCAgeA+7MiCjeSrc6RVslYdK4jhvx0Fqf9Xp6/80BAYYkkZGgoqLQsz0SLsIB7///XnYHm2pKp1QKISm8ys68YdCTZhbmW0p/8p9ENLz7AoABL5mIrf//XtX3czMf5QRo3nMCFOBoMGQ3Yw6QMdvixII8/KCx8h7W0pi6aFpBKlSQEmjNrbVF9p3YaWOJyAjZp8e/fwVBi6qPPHnIC+B+JV4AeQQDZeLVYRIHS6+hwZQt12WjCY7cNEuUGwYJWeCLwSpRnhnRIAm+WIy8BL8sgo6KE3dZJBN6j5UFRcZ9jqfS9VAaRkV4xSQYFeNfRRyVxa8aWZNi26s8R+VUGAT2IJDqkiIEevRB/tsgdVbiEZiBQJq7CUDgHgKpAdFYtf+/kDe3/dlPGipKXuklbvkfcAfgF0XY3+SU6JDu38/iU58yi9yzE2G2fnJidwvJi8tsSXstuySv3cx2ZpXXeG1j2BnXusuW8OKWU5lE3T+XxTvGuGSXvt2JQhgEED3STQq6PA0E/QBFRCOCPm4YzmHbjroWYIJQYgYdWSiLA5QBEy4rGDv0kCgBQxFm4cSexU4BhpqvZTYSo/xB4ZHB6e51SQAnBFH11opWFLSKKdSYJ4tKA923dF/stxTvM320FJB5XMWLM8sXvjICJgMGDBhwFAc8iimKYw4YMGDAirkc5jAHzM3lMAfMYQ64CL9HEjCEc8ujJ0gPtoDa+JUTOpRPSgewN02SC1pCEY7xJnceuhLW2KqtL/0XoDO3ZgKB/K+8gUncKESrYhg1llE+fNQ7XOEG3nhGWeFJsfNIcZnCl/L2qyynCKTSGidaGiVK3LkBQ8Cbu97XJaPKCURR4g/QaJR4AQQUNBhGJRhGbRHQahVsRWvb7k5sd6q7v7tT3GGk24WBiApaVBwG3gFUQBSZOszFnv3kkdBn3MvN+s54/nx9y7Zbv/SZ/uyZty6p0nq5sfUEmnuXhN5bz1InZkCqUT1gOVz//n07jzu0n3UwfuZMf5SFUNaHNJ1TSeiQdPZFv0Opw/t3V4U9jSzl8jbytTWFD2jTrXnnUtYO6Io5mXMz0LqBjKFHp8/8sKEhJybUZpgpWQgTE8+kx5Ra8jcK1TXPEKe3lrCRr6kufPD0aP69Pn/Bbt8uW/8zy3bPV18HjyjQ37ujgg/2DHDO+61Vqd7B8wmHOgD4Vb3p5b+a3381KztRFHoUEIKS7ve9im0kswBxsVoaNNV787tCQu0yUFDjTZM+MInO1ksw0HcaqXbA5yCMETY0i1aLjRXOYTXJD+xYFh9rjwmpG1O48YmZ0B2R8ehJk6noxSkL0Yet79CXfdahP2V2/O2BNNllK1GPYSQmBkYyEiUZJR2phRFCqiQSGXAQUjOWoBeJIRGZIVoyUjErmZFI0osUzcBEZmQ1SCItES+Joa+tnkggz9eO9w5bSswUO5UQcXRSpEqUPPtXc1Wi0SrlboGUTDAvyllAV22DvExmIhKQw36WbumQVDp6qdJopeg3eGVaD5mJFos7DzIZDqnHGqodWsQv1AQxsOKwJJUkLB0kWTUZi2OipQK6A7UQg9/k//tfqmcBAAA=) format('woff2');
+      }
+    </style>
+  </defs>
+
   <!-- Lines/Back -->
-  <g id="Lines-Back" 
-     style="fill:none; stroke:var(--color); stroke-width:var(--thickness); stroke-linecap:round; stroke-linejoin:round;">
+  <g style="stroke-width:var(--thickness); stroke:var(--color);">
     <path d="M 64,16 V 64" />
     <path d="M 105.56922,88 64,64" />
     <path d="M 22.43078,88 64,64" />
   </g>
 
   <!-- Faces -->
-  <g id="Faces" style="fill-opacity:0.5; stroke:none;">
-    <path d="M 64,64 105.56922,40 64,16 22.43078,40 Z" fill="#a000ff" />
-    <path d="M 22.43078,40 V 88 L 64,112 V 64 Z" fill="#6000ff" />
-    <path d="M 64,112 105.56922,88 V 40 L 64,64 Z" fill="#1000ff" />
+  <g style="fill-opacity:0.5;">
+    <path d="M 64,64 105.56922,40 64,16 22.43078,40 Z" fill="var(--c1)" />
+    <path d="M 22.43078,40 V 88 L 64,112 V 64 Z"       fill="var(--c2)" />
+    <path d="M 64,112 105.56922,88 V 40 L 64,64 Z"     fill="var(--c3)" />
   </g>
 
   <!-- Lines/Front -->
-  <g id="Lines-Front" 
-     style="fill:none; stroke:var(--color); stroke-width:var(--thickness); stroke-linecap:round; stroke-linejoin:round;">
+  <g style="stroke-width:var(--thickness); stroke:var(--color);">
     <path d="M 105.56922,40 64,64" />
     <path d="M 64,112 V 64" />
     <path d="M 22.43078,40 64,64" />
   </g>
 
   <!-- Hexagon -->
-  <path id="Hexagon" 
-        d="M 64,16 L 105.56922,40 V 88 L 64,112 L 22.43078,88 V 40 Z" 
-        style="fill:none; stroke:var(--color); stroke-width:var(--thickness); stroke-linejoin:round;" />
+  <path d="M 64,16 L 105.56922,40 V 88 L 64,112 L 22.43078,88 V 40 Z" 
+    style="stroke-width:var(--thickness); stroke:var(--color); fill:none;" />
 
   <!-- Circles -->
-  <defs>
-    <circle id="C-Master" cx="0" cy="0" r="10" />
-  </defs>
-  <g id="Circles" style="fill:var(--color); stroke:none;">
-    <use href="#C-Master" x="64" y="16" />
-    <use href="#C-Master" x="105.56922" y="40" />
-    <use href="#C-Master" x="105.56922" y="88" />
-    <use href="#C-Master" x="64" y="112" />
-    <use href="#C-Master" x="22.43078" y="88" />
-    <use href="#C-Master" x="22.43078" y="40" />
+  <g style="fill:var(--color);">
+    <circle r="10" cx="64"        cy="16"  />
+    <circle r="10" cx="105.56922" cy="40"  />
+    <circle r="10" cx="105.56922" cy="88"  />
+    <circle r="10" cx="64"        cy="112" />
+    <circle r="10" cx="22.43078"  cy="88"  />
+    <circle r="10" cx="22.43078"  cy="40"  />
   </g>
+
+  <!-- Text -->
+  <text x="128" y="65" dominant-baseline="central" style="fill:var(--color);
+    font-family:'Google Sans Covo'; font-size:80px; font-style:normal; font-weight:normal">
+    COVO
+  </text>
 </svg>

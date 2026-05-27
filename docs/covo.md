@@ -3,7 +3,7 @@ title: COVO
 nav_order: 5
 ---
 
-<div style="display:flex; align-items:center; font-weight:bold; color:black" class="text-alpha"><img src="{{ site.baseurl }}/assets/images/covo-logo.svg" alt="COVO-logo" style="height:3em" /> COVO</div>
+![COVO Logo]({{ site.baseurl }}/assets/images/covo-logo.svg)
 
 Naast het inhoudelijke referentiemodel werken wij ook aan het metamodel achter NBility: de Capability-Object-Value Ontology (COVO). Dit doen we in samenwerking met onderzoekers van de Open Universiteit. Door deze brug tussen theorie en praktijk zorgen we ervoor dat NBility niet alleen in de praktijk werkt, maar ook goed onderbouwd is.
 
