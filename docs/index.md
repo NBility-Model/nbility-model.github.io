@@ -5,10 +5,6 @@ nav_order: 1
 
 <img src="{{ site.baseurl }}/assets/images/nbility-logo.svg" alt="NBility-logo" style="max-width:400px" />
 
-{: .note-title }
-> Preview: versie 2.4
->
-> De [volgende versie](/review-2.4/) van NBility bevindt zich momenteel in de reviewfase.
 
 # NBility
 
@@ -22,7 +18,7 @@ Door een gedeeld model te gebruiken wordt het eenvoudiger voor netbeheerders ond
 
 Eventuele wijzigingen worden twee keer per jaar verwerkt in publieke releases. Releases worden op deze pagina gepubliceerd.
 
-*Laatste release: februari 2025*
+*Laatste release: juni 2026*
 
 ## NBility-bestanden
 
@@ -30,9 +26,9 @@ Bij de release van NBility worden een aantal bestanden geleverd, deze staan hier
 
 | Bestand | Toelichting |
 |:--------|:------------|
-| [Introductie NBility v2.3 (pptx)]({{ site.baseurl }}/resources/Introductie-presentatie-NBility-2.3.pptx) | Een korte introductie over wat het NBility model inhoudt en de toegevoegde waarde ervan. Hierin zijn ook de meestgestelde vragen opgenomen. |
-| [Model NBility v2.3 (pptx)]({{ site.baseurl }}/resources/NBility-Model-2.3.pptx) | Het NBility-model in PowerPoint |
-| [Model NBility v2.3 (xlsx)]({{ site.baseurl }}/resources/NBility-2.3-Excell.xlsx) | Het NBility-model in Excel |
+| [Introductie NBility v2.4 (pptx)]({{ site.baseurl }}/resources/Introductie-presentatie-NBility-2.4.pptx) | Een korte introductie over wat het NBility model inhoudt en de toegevoegde waarde ervan. Hierin zijn ook de meestgestelde vragen opgenomen. |
+| [Model NBility v2.4 (pptx)]({{ site.baseurl }}/resources/NBility-Model-2.4.pptx) | Het NBility-model in PowerPoint |
+| [Model NBility v2.4 (xlsx)]({{ site.baseurl }}/resources/NBility-Model-2.4-Excell.xlsx) | Het NBility-model in Excel |
 
 ## Organisatie
 
@@ -46,6 +42,7 @@ Op 15 september 2021 vond een webinar plaats waarin het NBility model geïntrodu
 
 Hier staan de documenten van voorgaande NBility versies.
 
+* [Versie 2.3]({{ site.baseurl }}/resources/NBility-Model-2.3.zip)
 * [Versie 2.2]({{ site.baseurl }}/resources/NBility-Model-2.2.zip)
 * [Versie 2.1]({{ site.baseurl }}/resources/NBility-v2.1.zip)
 * [Versie 2.0]({{ site.baseurl }}/resources/NBility-2.0.zip)
