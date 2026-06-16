@@ -5,7 +5,6 @@ nav_order: 1
 
 <img src="{{ site.baseurl }}/assets/images/nbility-logo.svg" alt="NBility-logo" style="max-width:400px" />
 
-
 # NBility
 
 Het [**NBility-model**](/model) is een gezamenlijk model van de Nederlandse netbeheerders en beschrijft hun business capabilities, bedrijfsobjecten en waardestromen.
@@ -28,7 +27,7 @@ Bij de release van NBility worden een aantal bestanden geleverd, deze staan hier
 |:--------|:------------|
 | [Introductie NBility v2.4 (pptx)]({{ site.baseurl }}/resources/Introductie-presentatie-NBility-2.4.pptx) | Een korte introductie over wat het NBility model inhoudt en de toegevoegde waarde ervan. Hierin zijn ook de meestgestelde vragen opgenomen. |
 | [Model NBility v2.4 (pptx)]({{ site.baseurl }}/resources/NBility-Model-2.4.pptx) | Het NBility-model in PowerPoint |
-| [Model NBility v2.4 (xlsx)]({{ site.baseurl }}/resources/NBility-Model-2.4-Excell.xlsx) | Het NBility-model in Excel |
+| [Model NBility v2.4 (xlsx)]({{ site.baseurl }}/resources/NBility-Model-2.4-Excel.xlsx) | Het NBility-model in Excel |
 
 ## Organisatie
 
