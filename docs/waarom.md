@@ -5,7 +5,7 @@ nav_order: 5
 
 # Waarom NBility?
 
-De energietransitie vraagt om een ongekende versnelling en intensieve samenwerking. Als netbeheerders staan we voor exact dezelfde uitdagingen, maar historisch gezien spreken we allemaal onze eigen taal. Dit maakt samenwerken, van elkaar leren en systemen koppelen complex.
+De energietransitie vraagt om een ongekende versnelling en intensieve samenwerking. Als netbeheerders staan we voor dezelfde uitdagingen, maar historisch gezien spreken we allemaal onze eigen taal. Dit maakt samenwerken, van elkaar leren en systemen koppelen complex.
 
 NBility lost dit op. Het is het gezamenlijke referentiemodel dat dient als onze gemeenschappelijke taal. Het beschrijft heel eenvoudig *wat* we als netbeheerders doen, onafhankelijk van *hoe* we dit intern hebben georganiseerd. Dit zorgt voor stabiliteit, rust en een helder overzicht.
 
