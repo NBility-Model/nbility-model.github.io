@@ -1,9 +1,3 @@
----
-title: Getting Help
-parent: English
-nav_order: 99
----
-
 # Getting Help
 
 There are a few ways to connect with the `<YOUR_PROJECT_NAME>` project:

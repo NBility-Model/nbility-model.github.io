@@ -1,9 +1,3 @@
----
-title: Project Governance
-parent: Contributing
-nav_order: 40
----
-
 # Project Governance
 
 The basic principle is that decisions are based on consensus. If this decision making process takes too long or a decision is required, the project committee has the authority to make a decision.

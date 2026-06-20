@@ -1,9 +1,3 @@
----
-title: License
-parent: Contributing
-nav_order: 30
----
-
 # License
 
 This project is licensed under the **Creative Commons Attribution 4.0 International Public License (CC BY 4.0)**.

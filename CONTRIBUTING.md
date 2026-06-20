@@ -1,9 +1,3 @@
----
-title: Contributing
-parent: English
-nav_order: 10
----
-
 # Contributing
 
 Thank you for considering contributing to the NBility-Model project! We appreciate your interest and look forward to your contributions. Follow the guidelines below to ensure a smooth and collaborative experience.
@@ -109,7 +103,7 @@ Using the planning board helps keep the project organized, ensures transparency,
 
 To ensure a stable and efficient release process, NBility-Model follows a branching strategy inspired by the [Stable Mainline Branching Model](https://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/) for Git. The following diagram illustrates the branching strategy:
 
-![branch_strategie]({{ site.baseurl }}/images/Branch%20strategy.png)
+![branch_strategie](img/Branch%20strategy.png)
 
 Source diagram: <https://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/>
 
@@ -184,7 +178,7 @@ Feature branches exist parallel to the main branches. Users can make changes and
 
 After opening [Archi](https://www.archimatetool.com/), from the menu, choose _Collaboration_ and then click _Toggle collaboration_. This will open the collaboration workspace showing all repositories where multiple users are collaborating. Clicking on a repository will show all feature branches and the users who created these branches, as shown in Figure 1 below.
 
-![coArchi-github-settings]({{ site.baseurl }}/images/Fig%201%20Collaboration.png)
+![coArchi-github-settings](img/Fig%201%20Collaboration.png)
 Fig. 2
 
 ### Consistency in Commits to Main Branch
@@ -200,13 +194,13 @@ NBility model adheres to generic design guidelines. Every adjustment and/or expa
 * Model explenation / design choices
 * Consistency rules
 
-For more information on these guidelines, see [GUIDELINES.md](GUIDELINES.html)
+For more information on these guidelines, see [GUIDELINES.md](GUIDELINES.md)
 
 ### Submitting Contributions
 
-Contributions for contributors should be submitted as GitHub pull requests. See [Creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) if you're unfamiliar with this concept. When submitting a pull request, please ensure:
+Contributions for contributors should be submitted as GitHub pull requests. See [our wiki](https://github.com/NBility-Model/nbility-model.github.io/wiki) if you're unfamiliar with this concept. When submitting a pull request, please ensure:
 
-* Your code adheres to the project's [design guidelines](GUIDELINES.html).
+* Your code adheres to the project's [design guidelines](GUIDELINES.md).
 * You have tested your changes thoroughly.
 * You have updated any relevant documentation.
 

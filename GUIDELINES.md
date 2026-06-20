@@ -1,9 +1,3 @@
----
-title: Design Guidelines
-parent: Contributing
-nav_order: 20
----
-
 # Design Guidelines
 
 NBility model adheres to generic design rules. Every adjustment and/or expansion should conform to these rules. These guidelines consist of:
@@ -17,7 +11,7 @@ NBility model adheres to generic design rules. Every adjustment and/or expansion
 
 NBility uses a metamodel:
 
-![NBility_metamodel]({{ site.baseurl }}/images/NBility%20metamodel.png)
+![NBility_metamodel](img/NBility%20metamodel.png)
 
 The definitions of the elements and relationships in the metamodel are as follows:
 
@@ -68,10 +62,10 @@ The model is created with some design choices which are explained below. Every a
 * Two Capability groupings: NBility consists of two Capability groupings: the core capability group (identification starts with 'C'); and the enterprise capability group  (identification starts with 'E')
   * Core capabilities are capabilities specific for a grid operator
   * Enterprise capabilities are capabilities directing and supporting the business including capabilities developing and maintaining the production factors of a grid operator (such as employees, digital products, office buildings).
-* Two value stream groupings: Capabilities (core and enterprise) deliver value working together in a value stream context. NBility consists of two value stream groups: externally focused primary value streams realising the grid operator business (identification starts with 'P') and internally focused supporting value streams (identification starts with 'I').
-* Identification: Every capability and value stream has an identification. 
+* Two value stream groupings: Capabilities (core and enterprise) deliver value working together in a value stream context. NBility consists of two value stream groups: externally focused primary value streams realising the grid operator business (identification starts with 'C') and internally focused supporting value streams (identification starts with 'E').
+* Identification: Every capability and value stream has an identification.
   * Capability identification starts with the grouping identification ('C', 'E') and contains a number within a level and a dot '.' for every level. E.g. C.1; E.1.2.1.
-  * Value stream identification starts with the grouping identification ('P', 'I') and contains a letter for every valuestream, e.g. P.A, E.B
+  * Value stream identification starts with the grouping identification ('C', 'E') and contains a letter for every valuestream, e.g. C.A, C.B
 * Service decoupling: Core value streams do not contain enterprise domain capabilities because these are decoupled via internal services realised by internal value streams.
 
 * Business capabilities/functions and business objects are part of the enterprise architecture capability (E.1.3.1). The translation to enterprise design (e.g. data, processes, supporting digital products, employees with knowledge and experience, office building) is part of the domains managing these production factors (E.2-E.7).  

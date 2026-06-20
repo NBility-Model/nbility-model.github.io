@@ -3,6 +3,9 @@ title: Startpagina
 nav_order: 1
 ---
 
+[English](english)
+{: .float-right }
+
 <img src="{{ site.baseurl }}/assets/images/nbility-logo.svg" alt="NBility-logo" style="max-width:400px" />
 
 # NBility

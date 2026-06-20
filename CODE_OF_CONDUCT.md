@@ -1,9 +1,3 @@
----
-title: Code of Conduct
-parent: Contributing
-nav_order: 10
----
-
 # Code of Conduct
 
 <!--
