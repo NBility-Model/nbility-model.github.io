@@ -48,3 +48,7 @@ Hier staan de documenten van voorgaande NBility versies.
 * [Versie 2.2]({{ site.baseurl }}/resources/NBility-Model-2.2.zip)
 * [Versie 2.1]({{ site.baseurl }}/resources/NBility-v2.1.zip)
 * [Versie 2.0]({{ site.baseurl }}/resources/NBility-2.0.zip)
+
+## Contact
+
+Heb je vragen of suggesties over de inhoud van het NBility-model? Ga dan naar onze [gesprekken op GitHub](https://github.com/orgs/NBility-Model/discussions).
