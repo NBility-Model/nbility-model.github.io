@@ -28,7 +28,7 @@ Bij de release van NBility worden een aantal bestanden geleverd, deze staan hier
 
 | Bestand | Toelichting |
 |:--------|:------------|
-| [Introductie NBility v2.4 (pptx)]({{ site.baseurl }}/resources/Introductie-presentatie-NBility-2.4.pptx) | Een korte introductie over wat het NBility model inhoudt en de toegevoegde waarde ervan. Hierin zijn ook de meestgestelde vragen opgenomen. |
+| [Introductie NBility v2.4 (pptx)]({{ site.baseurl }}/resources/Introductie-presentatie-NBility-2.4.pptx) | Een korte introductie over wat het NBility-model inhoudt en de toegevoegde waarde ervan. Hierin zijn ook de meestgestelde vragen opgenomen. |
 | [Model NBility v2.4 (pptx)]({{ site.baseurl }}/resources/NBility-Model-2.4.pptx) | Het NBility-model in PowerPoint |
 | [Model NBility v2.4 (xlsx)]({{ site.baseurl }}/resources/NBility-Model-2.4-Excel.xlsx) | Het NBility-model in Excel |
 

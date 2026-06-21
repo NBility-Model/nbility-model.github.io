@@ -15,9 +15,7 @@ Dit leggen we hieronder uit aan de hand van de waardestroom [C.A. Aanleggen en w
 
 ## Waar kijk je naar?
 
-Een waardestroomdiagram laat zien hoe we waarde leveren aan een stakeholder.
-
-Rechtsboven zie je het resultaat: een product (`Aansluiting`) voor een specifieke stakeholder (`Netgebruiker`) die daar waarde aan ontleent (`Aangesloten object gereed voor gewenste energie-uitwisseling`). Van daaruit lees je het diagram van rechts naar links en van boven naar beneden:
+Een waardestroomdiagram toont hoe we waarde leveren aan een stakeholder. Rechtsboven zie je het resultaat: een product (`Aansluiting`) voor een stakeholder (`Netgebruiker`) die daar waarde aan ontleent (`Aangesloten object gereed voor gewenste energie-uitwisseling`). Van daaruit lees je het diagram van rechts naar links en van boven naar beneden:
 
 - **Van rechts naar links** zie je welke fasen nodig zijn om deze waarde te realiseren.
 - **Van boven naar beneden** zie je hoe deze fasen worden uitgevoerd: door capabilities die objecten in de juiste toestand brengen.

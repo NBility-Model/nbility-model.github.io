@@ -7,7 +7,7 @@ nav_order: 15
 
 # Metamodel
 
-Naast het inhoudelijke referentiemodel werken wij ook aan het metamodel achter NBility: de Capability-Object-Value Ontology (COVO). Dit doen we in samenwerking met onderzoekers van de [Open Universiteit](https://www.ou.nl/). Door deze brug tussen theorie en praktijk zorgen we ervoor dat NBility niet alleen in de praktijk werkt, maar ook goed onderbouwd is.
+Naast het inhoudelijke model werken wij ook aan het metamodel achter NBility: de Capability-Object-Value Ontology (COVO). Dit doen we in samenwerking met onderzoekers van de [Open Universiteit](https://www.ou.nl/). Door deze brug tussen theorie en praktijk zorgen we ervoor dat NBility niet alleen in de praktijk werkt, maar ook goed onderbouwd is.
 
 Op deze pagina vind je de publiek beschikbare bronnen, tools en academische publicaties rondom COVO:
 

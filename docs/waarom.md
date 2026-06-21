@@ -7,7 +7,7 @@ nav_order: 5
 
 De energietransitie vraagt niet alleen om versnelling, maar vooral om **samenhang**. Netbeheerders werken aan dezelfde opgave, maar doen dat vanuit verschillende structuren, systemen en terminologieën. Daardoor ontstaan fricties precies daar waar samenwerking nodig is.
 
-NBility doet dit met één simpele maar krachtige keuze: we spreken af *wat we doen*, los van *hoe we dat organiseren*. Het resultaat is een stabiele, gedeelde taal die helpt om verandering beheersbaar te maken.
+NBility brengt samenhang met een simpele maar krachtige keuze: we spreken af *wat we doen*, los van *hoe we dat organiseren*. Het resultaat is een stabiele, gedeelde taal die helpt om verandering beheersbaar te maken.
 
 ## Wat betekent dat concreet?
 
