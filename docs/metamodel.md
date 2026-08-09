@@ -11,11 +11,14 @@ Naast het inhoudelijke model werken wij ook aan het metamodel achter NBility: de
 
 Op deze pagina vind je de publiek beschikbare bronnen, tools en academische publicaties rondom COVO:
 
-* **Wetenschappelijke publicatie** ([Semantically Coherent Business Architecture Models](https://www.researchgate.net/publication/401169619_Semantically_Coherent_Business_Architecture_Models_Integrating_Capabilities_Value_Streams_and_Business_Objects)): lees hoe we capabilities, objecten en waardestromen aan elkaar koppelen, op elk niveau in de hiërarchie (winnaar van de [Best Forum Paper Award](https://www.researchgate.net/publication/405373674_Best_Forum_Paper_Award)).
+* **Wetenschappelijke publicaties**:
+  * [Semantically Coherent Business Architecture Models](https://www.researchgate.net/publication/401169619_Semantically_Coherent_Business_Architecture_Models_Integrating_Capabilities_Value_Streams_and_Business_Objects): de theoretische fundering waarin we capabilities, objecten en waardestromen koppelen op elk hiërarchieniveau (winnaar van de Best Forum Paper Award).
+  * [Semantic Symmetry in Business Architecture](https://www.researchgate.net/publication/412048045_Semantic_Symmetry_in_Business_Architecture_Demarcating_Capability_Boundaries_with_Object_Models): hoe we capability-grenzen scherp afbakenen door gedragsafhankelijkheden te spiegelen aan de onderliggende objectstructuur.
+  * [Demarcating Capability Boundaries in Practice: The COVO Validator for ArchiMate](https://www.researchgate.net/publication/412048614_Demarcating_Capability_Boundaries_in_Practice_The_COVO_Validator_for_ArchiMate): de wetenschappelijke onderbouwing en opzet van onze geautomatiseerde ArchiMate-validatietooling.
 * **De spelregels** ([COVO op GitHub](https://github.com/sefanja/COVO/blob/main/v2/constraints.md)): de ontologie in OntoUML met de consistentieregels in eerstegraads logica.
 * **Open-source tooling** ([COVO Validator](https://github.com/sefanja/COVO-Validator)): een geautomatiseerd script om modellen zoals NBility te valideren tegen onze regels.
 
-Momenteel doen wij onderzoek naar het modelleren van capabilitynetwerken, in samenhang met objectmodellen. Daarnaast ontwikkelen we een modelleerprocedure die van nature onze regels volgt. Zodra de resultaten hiervan zijn gepubliceerd, worden ze hier toegevoegd.
+Momenteel doen wij onderzoek naar een modelleerprocedure die van nature onze consistentieregels volgt (*correctness by construction*). Zodra de resultaten hiervan zijn gepubliceerd, worden ze hier toegevoegd.
 
 ## Samenwerken of meer weten?
 
