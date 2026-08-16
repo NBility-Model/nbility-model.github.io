@@ -1,0 +1,3667 @@
+version: '2.4'
+metadata:
+  source: NBility-Model-2.4-Excel.xlsx
+  generated: '2026-07-12'
+  license: CC BY 4.0
+  url: https://nbility.netbeheernederland.nl/
+capabilities:
+- id: C.1
+  level: 1
+  parent_id: null
+  name: Klanten bedienen
+  name_en: Serve customers
+  description: Het vermogen om klanten te bedienen, zodat zij onze producten en diensten
+    afnemen en optimaal gebruiken.
+  description_en: The ability to optimally serve our customers in their use of our
+    products and services
+- id: C.1.1
+  level: 2
+  parent_id: C.1
+  name: Klanten bedienen en relaties onderhouden
+  name_en: Serve customers and maintain relations
+  description: Het vermogen om klanten te bedienen en relaties met klanten te onderhouden.
+  description_en: The ability to serve customers and maintain relationships to customers
+- id: C.1.1.1
+  level: 3
+  parent_id: C.1.1
+  name: Service verlenen aan klanten in kanalen
+  name_en: Provide service to customers using channels
+  description: Het vermogen om klanten diensten en ondersteuning aan te bieden via
+    (digitale) kanalen zoals website, social media, email, telefoon, etc
+  description_en: The ability to offer customers and market parties services and support
+    via (digital) channels, e.g. via telephone, email, website, social media, etc.
+- id: C.1.1.2
+  level: 3
+  parent_id: C.1.1
+  name: Melding/vraag/verzoek van klanten behandelen
+  name_en: Handle customer report/question/request
+  description: Het vermogen om meldingen, vragen en verzoeken van klanten in behandeling
+    te nemen en naar tevredenheid af te handelen. Hieronder valt tevens het proces
+    van interesse bij de klant tot aanvraag, aangezien dit hele traject klantspecifiek
+    is.
+  description_en: The ability to handle and satisfactorily solve customer reports,
+    questions and requests. This also includes the process from customer interest
+    to request, as this entire process is customer specific.
+- id: C.1.1.3
+  level: 3
+  parent_id: C.1.1
+  name: Contactpersoon/verantwoordelijke voor locatie bepalen
+  name_en: Determine contact person/responsible person for location
+  description: Het vermogen om de contactpersoon/verantwoordelijke voor een locatie
+    te achterhalen. Bv. via de eigenaar van een perceel.
+  description_en: The ability to identify the contact person/responsible person for
+    a location. E.g. through the land owner.
+- id: C.1.1.4
+  level: 3
+  parent_id: C.1.1
+  name: Relatie met klanten onderhouden
+  name_en: Maintain relationship with customers
+  description: Het vermogen om positieve en constructieve relaties te onderhouden
+    met klanten.
+  description_en: The ability to maintain positive and constructive relationships
+    with customers.
+- id: C.1.1.5
+  level: 3
+  parent_id: C.1.1
+  name: Transportbehoefte inventariseren
+  name_en: Collect energy transport demand
+  description: 'Het vermogen om de behoefte aan energietransport van partijen in de
+    omgeving in te schatten door (in overleggen) informatie te verzamelen en te verwerken.
+    Denk hierbij aan RES, overheids- en zakelijke initiatieven en periodieke uitvraag
+    bij betsaande klanten. Hierin wordt ook getoonde interesse vanuit klanten meegenomen
+    (voortraject bij C.1.1.2). Dit omvat ook het opstellen van gebruiksprofielen:
+    energie-uitwisselingspatronen per klantcategorie.'
+  description_en: The ability to estimate the energy transport demand of parties in
+    the area by collecting and processing information (in consultations), such as
+    Regional Energy Strategy (RES), government and business initiatives. This also
+    includes interest shown by customers (preliminary phase at C.1.1.2)
+- id: C.1.1.6
+  level: 3
+  parent_id: C.1.1
+  name: Klantervaring monitoren en beïnvloeden
+  name_en: Monitor and influence customer experience
+  description: Het vermogen om klantervaringen (anoniem) via diverse (social media)
+    kanalen te meten, te monitoren en hierop te reageren.
+  description_en: The ability to measure, monitor and influence the customer experience
+    through various (social media) channels.
+- id: C.1.2
+  level: 2
+  parent_id: C.1
+  name: Klantovereenkomsten verwerven en beheren
+  name_en: Acquire and manage customer agreements
+  description: Het vermogen om overeenkomsten met klanten aan te gaan en te beheren.
+  description_en: The ability to enter into and manage agreements with customers.
+- id: C.1.2.1
+  level: 3
+  parent_id: C.1.2
+  name: Producten aan klanten offreren
+  name_en: Quote products to customers
+  description: Het vermogen om klanten productoffertes met de juiste prijsopgave aan
+    te bieden.
+  description_en: The ability to provide customers with fitting product quotes.
+- id: C.1.2.2
+  level: 3
+  parent_id: C.1.2
+  name: Klantovereenkomsten afsluiten en beheren
+  name_en: Conclude and manage customer agreements
+  description: Het vermogen om met afnemers afspraken te maken / overeenkomsten af
+    te sluiten over producten en dienstverlening, inclusief managen van de prestaties
+    en het beheren van overeenkomstenregister. Dit gaat ook over aanpassen en beeïndigen
+    van overeenkomsten en SLA's.
+  description_en: The ability to make agreements/contracts with customers about products
+    and services, including performance management and contract register management.
+    This also includes adjusting and terminating customer contracts and SLAs.
+- id: C.1.2.3
+  level: 3
+  parent_id: C.1.2
+  name: Producten en diensten ontwikkelen en beheren
+  name_en: Develop and manage products and services
+  description: Het vermogen om producten en diensten te ontwikkelen en te beheren.
+    Dit omvat ook het ontwikkelen van klantreizen per doelgroep en het beheren van
+    tarieven.
+  description_en: The ability fo develop and manage products and services. This includes
+    developing customer journeys and managing tariffs.
+- id: C.1.3
+  level: 2
+  parent_id: C.1
+  name: Factureren en innen
+  name_en: Invoice and collect
+  description: Het vermogen om facturen op te maken, te versturen en gelden te innnen
+    c.q. betalingen te verwerken
+  description_en: The ability to create and send invoices and collect payments.
+- id: C.1.3.1
+  level: 3
+  parent_id: C.1.3
+  name: Vergoeding voor geleverde diensten berekenen
+  name_en: Calculate compensation for services rendered
+  description: Het vermogen om op basis van juiste gegevens (o.a. overeenkomst- en
+    projectgegevens, aantallen, prijzen of verbruik) een waarde voor een geleverde
+    dienst te berekenen.
+  description_en: The ability to calculate a value for a service provided based on
+    the correct data (including contract and project data, quantities, prices or consumption).
+- id: C.1.3.2
+  level: 3
+  parent_id: C.1.3
+  name: Factuur maken en versturen
+  name_en: Create and send invoice
+  description: Het vermogen om een factuur met de juiste inhoud en in de juiste vorm
+    bij de klant te bezorgen.
+  description_en: The ability to deliver an invoice with the correct content and layout
+    to the customer (can also be a market party).
+- id: C.1.3.3
+  level: 3
+  parent_id: C.1.3
+  name: Openstaande vorderingen innen
+  name_en: Manage and collect outstanding claims
+  description: Het vermogen om openstaande vorderingen, rekening houdend met wettelijke
+    termijnen, op tijd betaald te krijgen. Denk hierbij ook aan het inschakelen van
+    een deurwaarder of het treffen van een betalingsregeling. Het ontvangen en verwerken
+    van de betaling is onderdeel van capability 7.2.3 Liquide middelen beheren resp.
+    E.7.3.1 Gebeurtenissen financieel verwerken.
+  description_en: The ability to get outstanding claims paid on time, taking into
+    account legal deadlines. This also includes engaging a claims collector or making
+    a payment arrangement. Receiving and processing the payment is part of capability
+    'E.7.2.3 - Manage liquid assets' and 'E.7.3.1 - Manage financial transactions'.
+- id: C.1.4
+  level: 2
+  parent_id: C.1
+  name: Inkomstenverlies beperken
+  name_en: Limit revenue loss
+  description: Het vermogen om inkomstenverlies op te sporen, oorzaken te onderkennen
+    en weg te nemen c.q te herstellen. Dit geldt zowel voor klant als voor de netbeheerder
+    met eerlijke verdeling van kosten en opbrengsten als resultaat.
+  description_en: The ability to detect revenue loss, identify causes and remove or
+    repair them. This applies to both customer and grid operator and results in a
+    fair distribution of costs and revenue.
+- id: C.1.4.1
+  level: 3
+  parent_id: C.1.4
+  name: Schade verhalen veroorzaakt door derden
+  name_en: Claim damages caused by third parties
+  description: Het vermogen om schade veroorzaakt door derden vergoed te krijgen.
+    Denk hierbij aan het aansprakelijk stellen van veroorzakers van vandalisme aan
+    het net of schade door een aannemer.
+  description_en: The ability to recover damages caused by third parties. For instance
+    holding accountable those responsible for vandalism to the grid or damage by a
+    contractor.
+- id: C.1.4.2
+  level: 3
+  parent_id: C.1.4
+  name: Storingscompensatie bepalen
+  name_en: Determine disturbance compensation
+  description: Het vermogen om een financiële compensatie voor klanten te bepalen
+    bij langdurige uitval van de dienstverlening.
+  description_en: The ability to determine financial compensation for customers in
+    the event of a prolonged service outage.
+- id: C.1.4.3
+  level: 3
+  parent_id: C.1.4
+  name: Schadevergoeding bij schade veroorzaakt door werkzaamheden bepalen
+  name_en: Determine compensation for damage caused by work activities
+  description: Het vermogen om een compensatie voor klanten te bepalen wanneer een
+    werknemer of aannemer bij de klant schade heeft veroorzaakt
+  description_en: The ability to determine financial compensation for customers when
+    an employee or contractor has caused damage to the customer.
+- id: C.1.4.4
+  level: 3
+  parent_id: C.1.4
+  name: Contractloze aansluitingen bewaken/verminderen
+  name_en: Monitor and reduce connections without contracts
+  description: Het vermogen om administratief netverlies en gemiste inkomsten te verkleinen
+    door het aantal contractloze aansluitingen (aansluitingen zonder overeenkomst)
+    te verkleinen alsook de duur van contractloos zijn.
+  description_en: The ability to reduce administrative grid losses and missed income
+    by reducing the number and duration of connections without contracts.
+- id: C.1.4.5
+  level: 3
+  parent_id: C.1.4
+  name: Energiediefstal bestrijden
+  name_en: Limit energy theft
+  description: Het vermogen om technische en administratieve energiediefstal op te
+    sporen en te verkleinen, in de energienetten (tot en met de slimme meter) en in
+    de processen. Samenwerken met opsporingsinstanties, zoals politie en brandweer.
+    Bedrijfsinterne klantaansluitinggerelateerde energiediefstal opsporen en verkleinen.
+  description_en: The ability to track down and reduce technical and administrative
+    energy theft in the grid (including the smart meter) and in the processes. The
+    abilitity to cooperatie with investigative agencies, like police and fire brigade.
+    The ability to track down and reduce customer connection related incompany energy
+    theft.
+- id: C.1.4.6
+  level: 3
+  parent_id: C.1.4
+  name: Netverlies compenseren
+  name_en: Compensate for grid losses
+  description: Het vermogen om het technische dan wel administratieve verschil tussen
+    de invoeding en afname te compenseren door het verkrijgen van energie.
+  description_en: The ability to compensate for the technical or administrative difference
+    between input and consumption by obtaining energy.
+- id: C.2
+  level: 1
+  parent_id: null
+  name: Energie transporteren
+  name_en: Transport energy
+  description: Het vermogen om energieaanbod en -afname bij elkaar te brengen, te
+    balanceren en in continuïteit te waarborgen, zodat de klanten energie krijgen
+    binnen de geldende eisen.
+  description_en: The ability to bring together, balance and ensure continuity of
+    energy supply and consumption, so that customers receive energy within the applicable
+    requirements.
+- id: C.2.1
+  level: 2
+  parent_id: C.2
+  name: Energietransport verzorgen
+  name_en: Realise energy transport
+  description: Het vermogen om in het moment vraag en aanbod van energie vast te stellen
+    en op elkaar af te stemmen.
+  description_en: The ability to determine and coordinate supply and demand of energy
+    in the moment.
+- id: C.2.1.1
+  level: 3
+  parent_id: C.2.1
+  name: Energietransport bewaken
+  name_en: Monitor energy transport
+  description: Het vermogen om de energievraag-/aanbodbalans van het netwerk en transportproblemen
+    te monitoren.
+  description_en: The ability to monitor the energy injection and offtake for the
+    grid and transport problems.
+- id: C.2.1.2
+  level: 3
+  parent_id: C.2.1
+  name: Werking van netcomponenten bewaken
+  name_en: Monitor the operation of grid components
+  description: Het vermogen om van individuele netcomponenten die samen het energienet
+    vormen de prestaties te monitoren, te besturen, op afstand te configureren. Denk
+    hierbij aan primaire, secundaire, tertiaire en telecom netcomponenten. En denk
+    hierbij aan updaten van firmware en digitale configuratie.
+  description_en: The ability to monitor, control, and remotely configure the performance
+    of individual assets that make up the energy grid. This includes primary, secondary,
+    tertiary and telecom grid components. This includes updating firmware and digital
+    configuration.
+- id: C.2.1.3
+  level: 3
+  parent_id: C.2.1
+  name: Energietransport besturen
+  name_en: Control energy transport
+  description: 'Het vermogen om stuuracties op netcomponenten te bepalen teneinde
+    de energie te transporteren en de balans te handhaven. Inclusief reageren op verzoek
+    andere netbeheerder, bv. activatie balancing van LNB; direct besluiten bij netuitval
+    of technische congestie (incl. melden aan relevante netbeheerder). NB: Het versturen
+    van de acties zelf zit in C.2.1.4 of in C.6 (via de markt).'
+  description_en: 'The ability to determine control actions on grid components to
+    keep energy flowing and maintain balance. Including responding to requests from
+    other grid operators, e.g. activation balancing from TSO; Implement immediate
+    action in the event of grid failure or technical congestion (including reporting
+    to relevant grid operator). NB: Sending the control actions is part of C.2.1.4
+    or C.6 (via the market).'
+- id: C.2.1.4
+  level: 3
+  parent_id: C.2.1
+  name: Energienetten bedienen op afstand
+  name_en: Remotely operate energy grids
+  description: Het vermogen om stuuracties op netcomponenten te effectueren (verrebediening)
+    en een netdeel in of uit bedrijf te nemen, inclusief volgordeafhankelijkheid van
+    dergelijke acties. Dit kan zowel in het kader van storingen en onderhoud zijn
+    als voor nieuwbouw. Bedieningsplannen zijn hiervoor input.
+  description_en: The ability to effect control actions on grid components and take
+    a grid part into or out of operation (remote switching), including controlling
+    the sequence of these actions. This can be in the context of maintenance as well
+    as for new construction. Circuit plans are input for this.
+- id: C.2.1.5
+  level: 3
+  parent_id: C.2.1
+  name: Energienetten opnemen in de besturing van energietransport
+  name_en: Include energy grids in the control of energy transport
+  description: Het vermogen om netcomponenten op te nemen in de besturing van het
+    energienet, zoals zichtbaar maken in de monitoring en aanstuurbaar maken door
+    SCADA.
+  description_en: The ability to include grid components in the operations of the
+    energy grid, such as visibility in the monitoring and control of SCADA.
+- id: C.2.2
+  level: 2
+  parent_id: C.2
+  name: Energietransport herstellen
+  name_en: Restore energy transport
+  description: Het vermogen om afwijkingen op energie transport te herstellen
+  description_en: The ability to correct anomalies in energy transport.
+- id: C.2.2.1
+  level: 3
+  parent_id: C.2.2
+  name: Storingen classificeren
+  name_en: Classify disturbances
+  description: Het vermogen om het type storing te bepalen mede aan de hand van een
+    inschatting van lokale omstandigheden (bv locatie gaslek, aantal parts per million
+    (PPM), gereguleerde-, sector- en interne richtlijnen, impact of mogelijke impact).
+  description_en: The ability to determine the type of failure partly based on an
+    estimate of local conditions (eg location of gas leak, number of parts per million
+    (ppm), regulated, sector and internal guidelines, impact or possible impact).
+- id: C.2.2.2
+  level: 3
+  parent_id: C.2.2
+  name: Storingen toewijzen
+  name_en: Assign disturbances
+  description: Het vermogen om een monteur aan de storing te koppelen voor lokale
+    analyse en herstel, al dan niet voorzien van een urgentie of prioriteit van de
+    storing.
+  description_en: The ability to assign a technician to the fault for local analysis
+    and remediation, whether or not provided with an urgency or priority of the fault.
+- id: C.2.2.3
+  level: 3
+  parent_id: C.2.2
+  name: Storingen analyseren
+  name_en: Analyse disturbances
+  description: Het vermogen om (momentaan) de oorzaak/oorzaken en/of gevolgen van
+    de storing te achterhalen. Ten behoeve van oplossen van de storing, veelal door
+    de monteur en/of bedrijfsvoerder.
+  description_en: The ability to (instantly) determine the cause/causes and/or consequences
+    of the malfunction, for the purpose of solving the malfunction, usually by the
+    technician and/or operator.
+- id: C.2.2.4
+  level: 3
+  parent_id: C.2.2
+  name: Storingen en onderbrekingen oplossen
+  name_en: Recover from disturbances and outages
+  description: Het vermogen om het energienet 'in operatie' te brengen om de onderbreking
+    bij afnemers (verbruikersminuten) te minimaliseren.
+  description_en: The ability to put the energy grid 'in operation' in order to minimise
+    the disturbance impact (outage minutes of consumers).
+- id: C.2.2.5
+  level: 3
+  parent_id: C.2.2
+  name: Definitief herstel storingen initiëren
+  name_en: Initiate permanent disturbance recovery
+  description: Het vermogen om het energienet 'in standaard operatie' te brengen in
+    de nasleep van een storing.
+  description_en: The ability to bring the energy grid 'into standard operation' after
+    maintenance or to bring it back in the aftermath of a failure.
+- id: C.2.3
+  level: 2
+  parent_id: C.2
+  name: Transport- en bedieningsplannen maken
+  name_en: Create transport and switching plans
+  description: Het vermogen om energietransport te plannen en de werkzaamheden af
+    te stemmen op veiligheidseisen, operationele eisen en tijdigheidseisen
+  description_en: The ability to plan energy transport and align operations with safety,
+    operational and timeliness requirements
+- id: C.2.3.1
+  level: 3
+  parent_id: C.2.3
+  name: Energietransport plannen en analyseren
+  name_en: Plan and analyse energy transport
+  description: Het vermogen om een inschatting te maken van de belasting van het energienet
+    op korte termijn inclusief loadflowberekening, netveiligheidsanalyse, balancering
+    analyse, contingency analyse en het verwerken van resultaten van bijsturingsacties
+    (b.v. schakelhandelingen en directe en/of afroep van opregel/afregel aanbod).
+    Inclusief inzicht scheppen dat nodig is om een prognose te kunnen opstellen.
+  description_en: The ability to estimate the load on the energy grid in the short
+    term, including identifying congestion, balance differences and processing the
+    results of adjustment actions (e.g. switching actions and direct and/or market
+    flex call). Creating the inclusive insight that is necessary to be able to draw
+    up a T-forecast (transport forecast).
+- id: C.2.3.2
+  level: 3
+  parent_id: C.2.3
+  name: Impact van (geplande) onderbrekingen bepalen
+  name_en: Determine impact of (planned) outages
+  description: Het vermogen om vast te stellen welke aansluitingen getroffen worden
+    door de (geplande/ongeplande) onderbreking en voor welke onderbrekingsduur.
+  description_en: The ability to determine which connections are affected by the (planned/unplanned)
+    interruption and for which duration.
+- id: C.2.3.3
+  level: 3
+  parent_id: C.2.3
+  name: Bedieningsplannen opstellen
+  name_en: Create switching plans
+  description: Het vermogen om volgordelijke overzichten te maken van uit te voeren
+    acties (bediening) op netcomponenten.
+  description_en: The ability to create sequential overviews of the order of actions
+    to be performed (operation) on grid components.
+- id: C.3
+  level: 1
+  parent_id: null
+  name: Ontwikkeling en instandhouding van energienetten besturen
+  name_en: Manage the development and maintenance of energy grids
+  description: Het vermogen om energienetten te ontwikkelen en op het afgesproken
+    niveau beschikbaar te houden, zodat het energienet continu aan de gestelde eisen
+    voldoet. Denk hierbij aan het ontwikkelen van primaire, secundaire, tertiaire
+    en telecom netcomponenten.
+  description_en: The ability to develop energy grids and keep them available at the
+    agreed level, to ensure the energy grid continuously meets the set requirements.
+    E.g. the development of primary, secondary, tertiary and telecom net components.
+- id: C.3.1
+  level: 2
+  parent_id: C.3
+  name: Energienetten uitbreiden, vervangen en vernieuwen
+  name_en: Expand, replace and renew energy grids
+  description: Het vermogen om activiteiten te definiëren voor aanpassingen van de
+    energienetten die de energienetten toekomstbestendig houden. Denk hierbij aan
+    het ontwikkelen van primaire, secundaire, tertiaire en telecom netcomponenten.
+  description_en: The ability to define work for adjustments to the energy grids in
+    order to keep the grids future proof. Amongst others the development of primary,
+    secondary, tertiary, and telecoms grid components.
+- id: C.3.1.1
+  level: 3
+  parent_id: C.3.1
+  name: (Veranderde) behoefte aan capaciteit en functionaliteit inventariseren en
+    analyseren/simuleren
+  name_en: Collect and analyse/simulate (changed) need for capacity and functionality
+  description: 'Het vermogen om (veranderende) behoefte aan capaciteit en functionaliteit
+    te inventariseren, te analyseren en te simuleren. Denk ondermeer aan: lange termijn,
+    investeringen/Capex planning.'
+  description_en: 'The ability to collect, analyse and simulate (changing) need for
+    capacity and functionality. Think of: long term, investments/capex planning.'
+- id: C.3.1.2
+  level: 3
+  parent_id: C.3.1
+  name: Netrisico’s op capaciteit en/of functionaliteit bepalen en waarderen
+  name_en: Determine and value grid risks on capacity and/or functionality
+  description: 'Het vermogen om netrisico''s en knelpunten op capaciteit en/of functionaliteit
+    te bepalen en te waarderen gegeven de behoefte aan capaciteit en functionaliteit
+    en de capaciteit en functionaliteit van het huidige energienet. Denk ondermeer
+    aan: tactisch risicomanagement, risicomanagement methodiek.'
+  description_en: 'The ability to determine and value grid risks and bottlenecks on
+    capacity and/or functionality, given the need for capacity and functionality and
+    the capacity and functionality of the current energy grid. For example: tactical
+    risk management, risk management methodology.'
+- id: C.3.1.3
+  level: 3
+  parent_id: C.3.1
+  name: Alternatieven voor mitigatie risico op capaciteit en/of functionaliteit analyseren
+    en mitigerende maatregelen bepalen
+  name_en: Analyse alternatives for mitigation of risk on capacity and/or functionality
+    and determine mitigating measures
+  description: 'Het vermogen om alternatieven op te stellen en te analyseren voor
+    mitigatie van capaciteit en/of functionaliteit netrisico''s/oplossen van knelpunten
+    en de mitigerende maatregelen te bepalen. Denk ondermeer aan: scenario''s, kosten
+    en baten, value case.'
+  description_en: 'The ability to prepare and analyse alternatives for mitigation
+    of capacity and/or functionality grid risks / fixing bottlenecks. For example:
+    scenarios, costs and benefits, value case.'
+- id: C.3.1.4
+  level: 3
+  parent_id: C.3.1
+  name: (Meerjaren)planning voor maatregelen op capaciteit en/of functionaliteit opstellen
+  name_en: (Long-term) plan measures on capacity and/or functionality
+  description: 'Het vermogen om maatregelen in de tijd te plannen met afgesproken
+    horizonnen (meer jaren, jaar, voortschrijdend kwartaal, …). Denk ondermeer aan:
+    euro''s en geld, binnen budgettere grenzen, programma''s zoals gietijzer vervanging,
+    afstemmen met service provider (Sales&OperationsPlanning (S&OP) - demand).'
+  description_en: 'The ability to plan measures in time with agreed horizons (multiple
+    years, year, rolling quarter, ...). For example: euros and money, within budget
+    limits, programs such as cast iron replacement, coordination with service provider
+    (Sales&OperationsPlanning (S&OP) - demand).'
+- id: C.3.1.5
+  level: 3
+  parent_id: C.3.1
+  name: Programma van eisen/functioneel ontwerp opstellen
+  name_en: Create Functional requirements/design
+  description: Het vermogen om de bepaalde aanpassingen functioneel te ontwerpen inclusief
+    het bepalen van het programma van eisen voor de verandering.
+  description_en: The ability to functionally design the particular adjustments including
+    determining the set of requirements for the change.
+- id: C.3.1.6
+  level: 3
+  parent_id: C.3.1
+  name: Omgevingsanalyses verrichten
+  name_en: Perform environmental analysis
+  description: 'Het vermogen om omgevingsanalyses te verrichten. Denk onder meer aan:
+    bodemgesteldheid, asbest, flora, fauna, juridisch eigenaarschap, etc.'
+  description_en: 'The ability to perform environmental analysis. Think about: soil
+    conditions, asbestos, flora, fauna, legal ownership amongst others.'
+- id: C.3.1.7
+  level: 3
+  parent_id: C.3.1
+  name: Tracévergunningen verkrijgen/zakelijk recht vestigen
+  name_en: Obtain route permits / establish business rights
+  description: Het vermogen om vergunningen te verkrijgen en zakelijke rechten te
+    vestigen, en deze te beheren.
+  description_en: The ability to obtain route permits and to establish business rights.
+- id: C.3.1.8
+  level: 3
+  parent_id: C.3.1
+  name: Opdracht voor netaanpassing verstrekken en bewaken
+  name_en: Issue and monitor the assignments for grid adjustments
+  description: Het vermogen om de opdracht voor de aanpassing aan de uitvoerder te
+    verstrekken inclusief het functioneel ontwerp/programma van eisen. Het monitoren/bewaken
+    van de netaanpassing inclusief input verstrekken aan (meerjaren)planning bij oplever(plannings)afwijking
+    en aan functioneel ontwerp bij afwijking van het functioneel ontwerp/programma
+    van eisen.
+  description_en: The ability to provide the assignment for the adjustment to the
+    contractor including the functional design/set of requirements. Monitoring the
+    grid adjustment, including providing input to (long-term) planning in case of
+    delivery (planning) deviation and to functional design in case of deviation from
+    the functional design/set of requirements.
+- id: C.3.1.9
+  level: 3
+  parent_id: C.3.1
+  name: Netcomponent in levenscyclusbeheer opnemen
+  name_en: Include grid component in lifecycle management
+  description: Het vermogen om aanpassingen op assets in de assetregistraties te borgen
+    gedurende de gehele levenscyclus van de assets.
+  description_en: The ability to safeguard adjustments to assets in the asset registrations
+    during the entire life cycle of the assets.
+- id: C.3.2
+  level: 2
+  parent_id: C.3
+  name: Energienetten in stand houden
+  name_en: Maintain energy grids
+  description: Het vermogen om werkzaamheden te definiëren die de energienetten beschikbaar
+    houden op basis van de toestand van het net gerelateerd aan afgesproken prestaties.
+  description_en: The ability to define activities that keep the energy grids available
+    based on grid condition related to agreed performance.
+- id: C.3.2.1
+  level: 3
+  parent_id: C.3.2
+  name: Net(componenten)toestand inventariseren en analyseren
+  name_en: Inventorise and analyse grid and grid component status
+  description: Het vermogen om de toestand van netcomponenten en van het net te inventariseren
+    (o.a. gebruikmakend van (sensor) data uit/over de componenten en het net) en te
+    analyseren/bepalen.
+  description_en: The ability to inventorise the condition of grid components and
+    of the grid (including using (sensor) data from/about the grid components and
+    the grid) and to analyse/determine them.
+- id: C.3.2.2
+  level: 3
+  parent_id: C.3.2
+  name: Netrisico’s op kwaliteit bepalen en waarderen
+  name_en: Determine and value grid risks based on quality
+  description: Het vermogen om netrisico's en knelpunten op kwaliteit te bepalen en
+    te waarderen gegeven de toestand van de netcomponenten en het net.
+  description_en: The ability to determine and value grid risks and bottlenecks based
+    on quality, given the condition of the grid components and the grid.
+- id: C.3.2.3
+  level: 3
+  parent_id: C.3.2
+  name: Alternatieven voor mitigatie kwaliteitsrisico analyseren en mitigerende maatregelen
+    bepalen
+  name_en: Analyse alternatives to mitigate quality risk and determine mitigating
+    measures
+  description: Het vermogen om alternatieven op te stellen en te analyseren voor mitigatie
+    van kwaliteit, netrisico's/oplossen van knelpunten en de mitigerende maatregelen
+    te bepalen.
+  description_en: The ability to formulate and analyse alternatives for mitigation
+    of grid risk quality/bottleneck resolution and determine mitigating measures.
+- id: C.3.2.4
+  level: 3
+  parent_id: C.3.2
+  name: (Meer)jarenplanning voor onderhoud en inspecties bepalen
+  name_en: Determine (multi-)year planning for maintenance and inspections
+  description: Het vermogen om onderhoud en inspectie maatregelen in de tijd te plannen
+    met afgesproken horizonnen (meer jaren, jaar, voortschrijdend kwartaal, …).
+  description_en: The ability to plan maintenance and inspection measures in time
+    with agreed horizons (multiple years, year, rolling quarter, ...)
+- id: C.3.2.5
+  level: 3
+  parent_id: C.3.2
+  name: Opdracht voor uitvoering van onderhoud en inspectie verstrekken en bewaken
+  name_en: Provide and monitor assignments for maintenance and inspection orders
+  description: Het vermogen om de opdracht voor onderhoud en/of inspectie aan de uitvoerder
+    te verstrekken. Het monitoren/bewaken van onderhoud en/of inspecties inclusief
+    input verstrekken aan (meerjaren)planning bij afwijking buiten de bandbreedte.
+  description_en: The ability to issue the assignment for maintenance and/or inspection
+    to the contractor. Monitoring/measuring maintenance and/or inspections, including
+    providing input to (multi-year) planning in case of deviation outside the bandwidth.
+- id: C.3.2.6
+  level: 3
+  parent_id: C.3.2
+  name: Storingen onderzoeken
+  name_en: Investigate disturbances
+  description: Het vermogen om root cause analyses uit te voeren op de storingen van
+    een bepaalde periode en deze om te zetten in verbeteracties waaronder aanpassing
+    van onderhoudsplan, herontwikkeling/vernieuwing van netcomponenten, aanpassen
+    van storing afhandelingsproces, ..
+  description_en: The ability to perform root cause analyses on the failures of a
+    certain period and to convert these into improvement actions including adjustment
+    of maintenance plan, redevelopment/renewal of grid components, adjustment of failure
+    handling process, ...
+- id: C.3.2.7
+  level: 3
+  parent_id: C.3.2
+  name: Graafschade voorkomen
+  name_en: Prevent excavation damage
+  description: Het vermogen om graafschade te voorkomen. Denk ondermeer aan de risicoanalyse
+    en mitigerende maatregelen nav een graafbericht en de uitwisseling van liggingsgegevens
+    van het energienet (GIS) in het kader van de WIBON. De melding bij werken aan
+    het energienet is onderdeel van werkvoorbereiding capability.
+  description_en: The ability to prevent excavation damage.
+- id: C.3.3
+  level: 2
+  parent_id: C.3
+  name: Energienetrichtlijnen en -patronen vaststellen
+  name_en: Establish energy grid guidelines and patterns
+  description: Het vermogen om wet en regelgeving, veiligheids- en milieueisen om
+    te zetten in richtlijnen, beleid en implementatiepatronen voor de energienetten
+    en deze toegepast te krijgen.
+  description_en: The ability to translate laws and regulations, safety and environmental
+    requirements into guidelines, policies and implementation patterns for the energy
+    grids and to have them applied.
+- id: C.3.3.1
+  level: 3
+  parent_id: C.3.3
+  name: Visie op energienetten ontwikkelen
+  name_en: Develope a vision on energy grids
+  description: Het vermogen om een visie op energienetten te ontwikkelen, onder meer
+    door gebruik te maken van innovaties.
+  description_en: The ability to develop a vision for energy grids, for example by
+    making use of innovations.
+- id: C.3.3.2
+  level: 3
+  parent_id: C.3.3
+  name: Strategische risico’s op energienetten vaststellen
+  name_en: Identify strategic risks on energy grids
+  description: Het vermogen om strategische risico's op energienetten en de energievoorziening
+    vast te stellen.
+  description_en: The ability to identify strategic risks on energy grids and the
+    energy supply.
+- id: C.3.3.3
+  level: 3
+  parent_id: C.3.3
+  name: Strategie op energienetten ontwikkelen
+  name_en: Develop strategy on energy grids
+  description: Het vermogen om een strategie op energienetten en de energievoorziening
+    te ontwikkelen.
+  description_en: The ability to develop a strategy on energy grids and the energy
+    supply.
+- id: C.3.3.4
+  level: 3
+  parent_id: C.3.3
+  name: Beleid en standaardisatie van energienetten opstellen en onderhouden
+  name_en: Develop and maintain policies and standards for energy grids
+  description: 'Het vermogen om beleid en standaarden op te stellen en te onderhouden
+    voor het aanpassen (uitbreiden, vervangen, vernieuwen) en in stand houden van
+    energienetten, zoals handboek techniek. Denk hierbij ook aan richtlijnen voor
+    het verwerken van retour- en afvalstromen (onder andere hoogwaardig recyclen:
+    herbruikbare componenten uit grotere netcomponenten herwinnen (en op voorraad
+    nemen), restmaterialen scheiden en voor recycling aanbieden), waarvoor de opdracht
+    wordt gegeven vanuit C.3 en de uitvoering plaats vindt binnen C.5.'
+  description_en: The ability to develop and maintain policies and standards for adapting
+    (expanding, replacing, renewing) and maintaining energy grids, such as a technical
+    manual.
+- id: C.3.3.5
+  level: 3
+  parent_id: C.3.3
+  name: Netcomponenten ontwikkelen
+  name_en: Develop grid components
+  description: Het vermogen om netcomponenten te ontwikkelen al dan niet in samenwerking
+    met fabrikanten/partners. Netcomponenten kunnen automaire netcomponenten betreffen
+    zoals een apparaat of samengestelde netcomponenten zoals een station maar ook
+    digitale componenten of functies. Dat is inclusief firmware en configuratiebestanden,
+    maar exlcusief device management, head end en edge computing.
+  description_en: The ability to develop grid components, whether or not in collaboration
+    with manufacturers/partners. Grid components can be atomic grid components such
+    as a device or composite grid components such as a station, but also digital components
+    or functions.
+- id: C.3.3.6
+  level: 3
+  parent_id: C.3.3
+  name: Externe regelgeving in richtlijnen vertalen
+  name_en: Translate external regulations into guidelines
+  description: Het vermogen om externe regelgeving te vertalen naar interne richtlijnen
+    (beleid en standaarden).
+  description_en: The ability to translate external regulations into internal guidelines
+    (policies and standards).
+- id: C.4
+  level: 1
+  parent_id: null
+  name: Energietransport en -netten meten
+  name_en: Measure energy transport and energy grids
+  description: Het vermogen om energietransport en -netten waar te nemen en metingen
+    beschikbaar te maken, zodat andere capabilities metingen kunnen gebruiken.
+  description_en: The ability to measure energy transport and energy grids and to
+    make these measurements available so other capabilities can use these measurements.
+- id: C.4.1
+  level: 2
+  parent_id: C.4
+  name: Metingen van energietransport en -netten beschikbaar krijgen
+  name_en: Obtain measurements of energy transport and energy grids
+  description: Het vermogen om metingen van energietransport en -netten beschikbaar
+    te krijgen.
+  description_en: The ability to make measurements of energy transport and energy
+    grids available.
+- id: C.4.1.1
+  level: 3
+  parent_id: C.4.1
+  name: Energietransport en -netten waarnemen en omzetten in metingen
+  name_en: Perceive energy transport and energy grids and transform into measurements
+  description: Het vermogen om energietransport en -netten waar te nemen (net doorstroom,
+    functie performance, net component eigenschap) en om te zetten in metingen (meetdata).
+  description_en: The ability to perceive energy transport and energy grids (net throughput,
+    function performance, net component property) and transform into measurements
+    (measurement data).
+- id: C.4.1.2
+  level: 3
+  parent_id: C.4.1
+  name: Metingen verzamelen
+  name_en: Collect measurements
+  description: Het vermogen om metingen te verzamelen voor verwerking. Dit is inclusief
+    het handmatig uitlezen van meterstanden.
+  description_en: The ability to collect measurements for processing purposes. This
+    includes manual readouts of measuring devices.
+- id: C.4.2
+  level: 2
+  parent_id: C.4
+  name: Metingen van energietransport en -netten ter beschikking stellen
+  name_en: Distribute measurements of energy transport and energy grids
+  description: Het vermogen om de metingen van energietransport en -netten te verwerken
+    en te verspreiden.
+  description_en: The ability to process measurements of energy transport and energy
+    grids and make them availabe to other capabilities.
+- id: C.4.2.1
+  level: 3
+  parent_id: C.4.2
+  name: Metingen interpretabel maken
+  name_en: Make measurements interpretable
+  description: Het vermogen om metingen functioneel te verrijken (bv. operationele
+    net component identifier vertalen naar functionele net component identifier en
+    toevoegen van metadata (datum, tijd en kwaliteits identificatie)). Dit omvat het
+    technisch vertalen van de meting (o.a. protocol vertaling).
+  description_en: The ability to make measurements interpretable by functional enrichment
+    (e.g. translation of an operation grid component identifier by an functional grid
+    component identifier and enrichment with metadata like date, time and quality
+    identification). This includes technical transformations (e.g. translation of
+    protocol).
+- id: C.4.2.2
+  level: 3
+  parent_id: C.4.2
+  name: Metingen valideren
+  name_en: Validate measurements
+  description: Het vermogen om metingen te toetsen aan geldigheidsregels en te corrigeren.
+    Dit omvat tevens het aanvullen van ontbrekende tijdreeksen. Generieke datakwaliteit
+    is hier uitgesloten.
+  description_en: The ability to check measurements against validition rules and correct
+    them if necessary. This also includes complementing missing time series.
+- id: C.4.2.3
+  level: 3
+  parent_id: C.4.2
+  name: Metingen beschikbaar maken
+  name_en: Make measurements available
+  description: Het vermogen om metingen  aan andere capabilities beschikbaar te stellen.
+    Denk ondermeer aan dashboards, rapportages en/of analytics. Generiek data herbruikbaar
+    maken, is hier uitgesloten.
+  description_en: The ability to make measurements available to other capabilities.
+    For example for dashboards, reports, or analytics.
+- id: C.5
+  level: 1
+  parent_id: null
+  name: Werkzaamheden uitvoeren aan energienetten
+  name_en: Perform work on energy grids
+  description: Het vermogen om werkzaamheden aan de energienetten uit te voeren, zoals
+    aanleg, vervanging of onderhoud, zodat de werkzaamheden efficiënt en voorspelbaar
+    worden uitgevoerd.
+  description_en: The ability to perform work on energy grids, like building, replacement
+    and maintenance, in an efficient and predictable manner.
+- id: C.5.1
+  level: 2
+  parent_id: C.5
+  name: Werkzaamhedenportfolio opstellen en onderhouden
+  name_en: Create and maintain work portfolio
+  description: Het vermogen om een portfolio aan werkzaamheden aan energienetten op
+    te stellen en te onderhouden.
+  description_en: The ability to prepare and maintain a portfolio for work on energy
+    grids.
+- id: C.5.1.1
+  level: 3
+  parent_id: C.5.1
+  name: Portfolio van werkzaamheden opstellen en onderhouden
+  name_en: Prepare and maintain work portfolio
+  description: Het vermogen om een portfolio aan werkzaamheden aan energienetten op
+    te stellen en te onderhouden die past binnen de capaciteit. Het betreft het portolio
+    van de service provider. Denk ondermeer aan Sales&OperationsPlanning (S&OP) -
+    Supply.
+  description_en: The ability to prepare and maintain a portfolio for work on energy
+    grids, taking into account the capacity. This concerns the service provider portfolio,
+    like Sales&OperationsPlanning (S&OP) - Supply.
+- id: C.5.2
+  level: 2
+  parent_id: C.5
+  name: Regievoeren over werkzaamheden
+  name_en: Direct work execution
+  description: Het vermogen om uitvoerbare werkzaamheden aan energienetten te laten
+    uitvoeren.
+  description_en: The ability to direct work execution on energy grids.
+- id: C.5.2.1
+  level: 3
+  parent_id: C.5.2
+  name: Werkzaamheden adviseren aan opdrachtgevers
+  name_en: Advise clients on work
+  description: Het vermogen werkzaamheden in te schatten en/of te adviseren aan de
+    opdrachtgever (zoals Asset manager).
+  description_en: The ability to estimate work and to advise clients, like an asset
+    manager, on this work
+- id: C.5.2.2
+  level: 3
+  parent_id: C.5.2
+  name: Opdrachten geven aan uitvoering
+  name_en: Issue assignments to work execution
+  description: Het vermogen om opdrachten te geven aan de uitvoering binnen of buiten
+    de netbeheerder.
+  description_en: The ability to issue assignments of work by or outside of the grid
+    operator.
+- id: C.5.2.3
+  level: 3
+  parent_id: C.5.2
+  name: Werkzaamheden coördineren
+  name_en: Coordinate work
+  description: Het vermogen om werkzaamheden te coördineren. Denk hierbij aan projectmanagement
+    en managen van uitval van orders.
+  description_en: The ability to coordinate work, like projectmanagement and managing
+    failure of orders.
+- id: C.5.2.4
+  level: 3
+  parent_id: C.5.2
+  name: Werkzaamheden evalueren
+  name_en: Evaluate work
+  description: Het vermogen om werkzaamheden te evalueren, na afloop en bij langdurige
+    werkzaamheden tussendoor.
+  description_en: The ability to evaluate work after its end or in case of long lasting
+    work during the work.
+- id: C.5.3
+  level: 2
+  parent_id: C.5
+  name: Werkzaamheden uitvoeren
+  name_en: Execute work
+  description: Het vermogen om werkzaamheden aan energienetten uit te voeren.
+  description_en: The ability to perform work on energy grids.
+- id: C.5.3.1
+  level: 3
+  parent_id: C.5.3
+  name: Voorlopige en definitieve ontwerpen van energienetten opstellen
+  name_en: Create preliminary and final designs of energy grids
+  description: Het vermogen om voorlopige en definitieve ontwerpen van energienetten
+    op te stellen binnen de (technische) richtlijnen en functioneel ontwerp/programma
+    van eisen.
+  description_en: The ability to create preliminary and final designs of energy grids,
+    taking into account (technical) guidelines and function design/program requirements.
+- id: C.5.3.2
+  level: 3
+  parent_id: C.5.3
+  name: Uitvoering van werkzaamheden voorbereiden
+  name_en: Prepare execution of work
+  description: Het vermogen om werkzaamheden voor te bereiden. Denk onder meer aan
+    reserveren mensen, materieel en materiaal, aanvragen uitvoeringsvergunningen,
+    opvragen en/of aanvragen bodemonderzoek, melding van voorgenomen graafwerkzaamheden
+    bij het kadaster (Wibon), werkplan/uitvoeringsplan (laten) opstellen en goedkeuren.
+  description_en: The ability to prepare execution of work, like resource planning,
+    materials and equipment, apply for permits, request soil investigation, digging
+    notification at Kadaster (Wibon), setup and approve work plan.
+- id: C.5.3.3
+  level: 3
+  parent_id: C.5.3
+  name: Werkzaamheden operationeel plannen
+  name_en: Operationally plan work
+  description: 'Het vermogen om werk te plannen in beschikbare tijd van medewerkers
+    van een capaciteitsgroep, inclusief het beheren van beschikbaarheid in de komende
+    periode voor deze medewerkers.  Hierbij wordt onder andere rekening gehouden met
+    gevraagde en beschikbare aanwijzingen, ervaring en reistijden. Operationeel plannen
+    omvat het inplannen van waakdiensten. De beschikbaarheid van medewerkers wordt
+    o.a. beïnvloed door de met de medewerker afgesproken beschikbaarheid (contracturen
+    gecorrigeerd voor verlof), opleidingen, afdelingsgebeurtenissen. De met de medewerkers
+    afgesproken beschikbaarheid wordt via interne waardestroom: ‘Beschikbaar maken
+    en houden van inzetbare medewerkers’ gerealiseerd. De capaciteitsgroepen en planbare
+    medewerkers daarbinnen worden gerealiseerd door ‘C.5.4.2 Uitvoeringscapaciteit
+    managen’.'
+  description_en: 'The ability to execute operational planning of work, like scheduling
+    technicians. The ability to plan work in available time of employees of a capacity
+    group, including managing availability in the coming period for these employees.
+    This takes into account, among other things, requested and available directions,
+    experience and travel times. Operational planning includes scheduling standby
+    services. The availability of employees is influenced, among other things, by
+    the availability agreed with the employee (contract hours adjusted for leave),
+    training, department events. The availability agreed with the employees is achieved
+    via internal value stream: ''Making and keeping available employees''. The capacity
+    groups and plannable employees within them are achieved by ''C.5.4.2 Manage Execution
+    Capacity''.'
+- id: C.5.3.4
+  level: 3
+  parent_id: C.5.3
+  name: Werkomgevingen veiligstellen
+  name_en: Secure the work environment
+  description: Het vermogen om werkomgevingen veilig te stellen. Denk onder meer aan
+    spanningsvrij maken, weg afzetten, …
+  description_en: The ability to secure the working environment, like voltage free
+    energy grid and blocking roads.
+- id: C.5.3.5
+  level: 3
+  parent_id: C.5.3
+  name: Werkzaamheden uitvoeren
+  name_en: Execute work
+  description: Het vermogen om werkzaamheden uit te voeren en technisch en functioneel
+    op te leveren. Denk hierbij aan werkzaamheden voor uitbreiden, vervangen, vernieuwen,
+    onderhouden, inspecteren, aansluiten, reconstructies, ..
+  description_en: The ability to execute work, like work on expansion, replacement,
+    renewal, maintenance, inspection, connections and reconstructions.
+- id: C.5.3.6
+  level: 3
+  parent_id: C.5.3
+  name: Netcomponenten in/uit bedrijf nemen op locatie
+  name_en: Commission and decommision grid components on location
+  description: Het vermogen om netcomponenten in en uit bedrijf te nemen op locatie.
+  description_en: The ability to commission and decommission grid components on the
+    location.
+- id: C.5.3.7
+  level: 3
+  parent_id: C.5.3
+  name: Werkzaamheden en netcomponenten administratief opleveren
+  name_en: Complete work on energy grid components administratively
+  description: Het vermogen om werkzaamheden en netcomponenten administratief op te
+    leveren. Denk ondermeer aan tijdstippen afgeronde werkzaamheden/handelingen/taken,
+    gewerkte uren, gebruikte materialen, in inspecties verzamelde data, data over
+    geplaatste energienetcomponenten ten behoeve van assetadministratie.
+  description_en: The ability to complete work on energy grid components administratively,
+    like time of work/acts/tasked completed, worked hours, used materials, data of
+    inspections and data on placed energy grid components for asset administration
+    purposes.
+- id: C.5.4
+  level: 2
+  parent_id: C.5
+  name: Werkzaamheden faciliteren
+  name_en: Facilitate work
+  description: Het vermogen om werkzaamheden aan energienetten te faciliteren opdat
+    deze kunnen worden uitgevoerd.
+  description_en: The ability to facilitate work on energy grids, so that this can
+    be executed.
+- id: C.5.4.1
+  level: 3
+  parent_id: C.5.4
+  name: Standaard werkproduct opstellen en onderhouden
+  name_en: Create and manage standard work specifications
+  description: Het vermogen om standaard werkproducten inclusief bestekken op te stellen
+    en te onderhouden. Denk onder meer aan specificatie van uitvoeringsproducten/werkzaamheden
+    in relatie tot omgevingsfactoren zoals zachte grond inclusief benodigde arbeidstijd
+    (normuren), materialen (norm) en materieel (norm).
+  description_en: The ability to prepare and maintain standard work products including
+    specifications. Consider, among other things, the specification of implementation
+    products/activities in relation to environmental factors such as soft soil, including
+    required labor time (standard hours), materials (standard) and equipment (standard).
+- id: C.5.4.2
+  level: 3
+  parent_id: C.5.4
+  name: Uitvoeringscapaciteit managen
+  name_en: Manage execution capacity
+  description: 'Het vermogen om uitvoeringscapaciteit te managen voldoende voor de
+    uitvoering van de verwachte en/of afgesproken werkzaamheden. Denk ondermeer aan:
+    toewijzen/reserveren van capaciteitsgroepen, afroepen van flexibele capaciteit,
+    bewaken van voldoende capaciteit per benodigde aanwijzing/kwalificatie, aansturen
+    van ontwikkelproces van uitvoeringscapaciteit. Sleutelbeheer t.b.v. toegang tot
+    stations.'
+  description_en: 'The ability to manage the execution capacity needed for executing
+    expected and/or agreed activities. Think about: assign/reserve capacity groups,
+    call off assinging flexible capacity, monitoring capacity for needed call off/qualification,
+    directing the development of execution capacity. Keys managament for station access.'
+- id: C.5.4.3
+  level: 3
+  parent_id: C.5.4
+  name: Magazijnen en voorraden beheren
+  name_en: Manage warehouses and stock
+  description: Het vermogen om magazijnen en aanwezige voorraden te beheren. Denk
+    onder meer aan opslag, uitgifte, retouren, voorraadopname.
+  description_en: The ability to manage warehouses and stock. Think about storage,
+    stock issueing, returns and stock taking.
+- id: C.5.4.4
+  level: 3
+  parent_id: C.5.4
+  name: Goederen fysiek distribueren
+  name_en: Distribute goods physically
+  description: 'Het vermogen om goederen fysiek te distribueren. Denk onder meer aan:
+    van centraal magazijn naar decentraal magazijn, naar werkplaats, naar auto.'
+  description_en: 'The ability to distribute goods physically. Think about: from central
+    warehouse to decentralised warehouse, to workplace, to car.'
+- id: C.5.4.5
+  level: 3
+  parent_id: C.5.4
+  name: Materieel onderhouden
+  name_en: Maintain equipment
+  description: Het vermogen om materieel te onderhouden. Dit omvat het (her)ijken
+    van meetapparatuur, onderhouden van gereedschap, bedrijfskleding.
+  description_en: The ability to maintain equipment. This includes (re)calibrating
+    measuring equipment, maintaining tools and work clothing.
+- id: C.6
+  level: 1
+  parent_id: null
+  name: De energiemarkt faciliteren
+  name_en: Facilitate the energy market
+  description: Het vermogen om met de partijen in de energiemarkt data uit te wisselen,
+    volledig en op het juiste moment, om de marktwerking te garanderen.
+  description_en: The ability to exchange data with energy market parties, completely
+    and at the right time, to guarantee market functionality.
+- id: C.6.1
+  level: 2
+  parent_id: C.6
+  name: Marktpartijen bedienen en relaties onderhouden
+  name_en: Serve market parties and maintain relations
+  description: Het vermogen om marktpartijen in de energiemarkt te bedienen, zodat
+    zij deel kunnen nemen aan de marktprocessen, en relaties met hen te onderhouden.
+  description_en: The ability to serve energy market parties, so that they can participate
+    in the market processes, and maintain relations between them.
+- id: C.6.1.1
+  level: 3
+  parent_id: C.6.1
+  name: Relatie met marktpartijen onderhouden
+  name_en: Maintain relations with market parties
+  description: Het vermogen om relaties met marktpartijen te onderhouden inclusief
+    het erkennen en registreren van marktpartijen zoals energieleveranciers, Programma
+    verantwoordelijken (PV)/Balance responsible party (BRP), Meetverantwoordelijken,
+    BSP’s, CSP’s, aggregators.
+  description_en: The ability to maintain relations with market parties, including
+    the admision and registration of these market parties, e.g. energy supplier, balance
+    responsible party (BRP), Measurement responsible parties, Balance Service Parties,
+    Congestion Service Parties, Aggregators.
+- id: C.6.1.2
+  level: 3
+  parent_id: C.6.1
+  name: Vragen van marktpartijen afhandelen
+  name_en: Handle questions of market parties
+  description: Het vermogen om verzoeken van marktpartijen aan te nemen en af te handelen,
+    zoals vragen over metingen, facturen, etc.
+  description_en: The ability to accept and handle market parties questions, like
+    questions about measurements, invoices, etc.
+- id: C.6.1.3
+  level: 3
+  parent_id: C.6.1
+  name: Energiemarkten beheren
+  name_en: Operate energy markets
+  description: Het vermogen om energiemarkten te beheren opdat energiediensten kunnen
+    worden verhandeld zoals over-the-counter-markten en energiebeurzen, markten voor
+    de verhandeling van energie, capaciteit, balancerings- en ondersteunende diensten
+    in alle tijdsbestekken, waaronder termijn-, day-ahead- en intraday-markten.
+  description_en: The ability to operate energy markets to enable the trading of energy
+    services such as over-the-counter markets and energy exchanges, energy trading
+    markets, capacity, balancing and ancillary services in all time frames including
+    forward, day-ahead and intraday markets.
+- id: C.6.2
+  level: 2
+  parent_id: C.6
+  name: Marktdata beheren
+  name_en: Manage market data
+  description: Het vermogen om marktdata (gegevens ten beoeve van de marktprocessen)
+    te beheren voor facilitering van de energiemarkt.
+  description_en: The ability to managing market data (data for the purpose of market
+    processes) for facilitating the energy market.
+- id: C.6.2.1
+  level: 3
+  parent_id: C.6.2
+  name: Aansluitingen/allocatiepunten beheren
+  name_en: Manage energy grid connections / allocation points
+  description: Het vermogen om aansluitingen met hun allocatiepunten, overdrachtspunten,
+    meetinrichtingen, tarieven en aangeslotenen te beheren. Let op dit betreffen niet
+    de fysieke aansluitinggegevens ten behoeve van assetmanagement (domein 'C.3 -
+    Ontwikkeling en instandhouding van energienetten besturen'). Het overdrachtspunt
+    (met aansluitcapaciteit en aansluitlocatie) ontstaat in de overeenkomst en vormt
+    het aanknopingspunt voor het realiseren van de bijbehorende aansluitverbinding.
+  description_en: The ability to manage connections with their usage points and allocation
+    points. This does not concern the physical connection data of asset management
+    (domain 'C.3 - Manage the development and maintenance of energy grids').
+- id: C.6.2.2
+  level: 3
+  parent_id: C.6.2
+  name: Installaties achter aansluitingen beheren
+  name_en: Manage installations behind connections
+  description: Het vermogen om de gegevens over installaties achter aansluitingen
+    te beheren zoals productie-, opslag- en verbruikseenheden.
+  description_en: The ability to manage data on installations behind connections like
+    production, storage and consumption units.
+- id: C.6.2.3
+  level: 3
+  parent_id: C.6.2
+  name: Congestiegebieden beheren
+  name_en: Manage congestion areas
+  description: Het vermogen om gebieden met transportschaarste te beheren.
+  description_en: The ability to manage congestion areas
+- id: C.6.3
+  level: 2
+  parent_id: C.6
+  name: Marktprocessen uitvoeren/faciliteren
+  name_en: Perform/facilitate market processes
+  description: Het vermogen om marktprocessen uit te voeren en/of te faciliteren.
+  description_en: The ability to perform/facilitate market processes.
+- id: C.6.3.1
+  level: 3
+  parent_id: C.6.3
+  name: Marktprocedures uitvoeren
+  name_en: Execute energy market procedures
+  description: Het vermogen om wijzigingen op aansluitingen/allocatiepunten te ontvangen
+    en af te handelen die door een marktpartij zijn geïnitieerd conform vastgestelde
+    markprocessen. Marktprocedures die we kennen zijn onder meer SwitchenVerhuizenEindelevering
+    (SVEL), vooraankondiging einde levering en faillissement marktpartij.
+  description_en: The ability to accept and handle requests for changes of connections
+    and allocation points initiated by market parties by following established market
+    processes like switching, move in, move out, advance notice of end of delivery
+    and bankruptcy of market party.
+- id: C.6.3.2
+  level: 3
+  parent_id: C.6.3
+  name: Energieplanning uitwisselen
+  name_en: Exchange energy predictions
+  description: Het vermogen om de energievoorspellingen uit te wisselen (forecast,
+    nominatie). Denk hierbij aan energievoorspellingen met programmaverantwoordelijken
+    en tussen netbeheerders.
+  description_en: The ability to exchange energy predictions (forecast, nomination).
+    Think of energy predictions with Balance Responsible Party.
+- id: C.6.3.3
+  level: 3
+  parent_id: C.6.3
+  name: Energie-uitwisseling beheren
+  name_en: Manage energy exchange
+  description: Het vermogen om energie-uitwisseling vast te stellen. Dit is inclusief
+    berekenen van energie-uitwisseling ((standaardjaar)verbruik), vaststellen onbemeten,
+    berekeningen bij seriële allocatiepunten, berekening toegekende energieverlies
+    en volume afgenomen marktdiensten (zoals balancering, opregel-, afregelaanbod).
+    Tevens inclusief oplevering van de energie-uitwisseling van de meetverantwoordelijke,
+    de oplevering van derden (CPO (charge point operator)) en opgaven van gemeenten
+    tbv openbare verlichting (berekening energie-uitwisseling via belastingprofiel).
+  description_en: The ability to determine energy exchange. This includes calculating
+    energy exchange (standard annual consumption), determining unmetered, calculations
+    at serial allocation points, calculation of allocated energy loss and volume of
+    market services purchased (such as balancing, upward adjustment and downward adjustment
+    supply). This also includes delivery of the energy exchange from the Measurement
+    Responsible party, the delivery from third parties (CPO (charge point operator))
+    and statements from municipalities for public lighting (calculation of energy
+    exchange via tax profile).
+- id: C.6.3.4
+  level: 3
+  parent_id: C.6.3
+  name: Marktverrekening faciliteren
+  name_en: Facilitate market settlement
+  description: Het vermogen marktverrekenprocessen te faciliteren. Marktverrekenprocessen
+    omvatten onbalansverrekening in de vorm van allocatie- en reconciliatie, maar
+    ook andere verrekenprocessen zoals peer-2-peer of andere verrekeningen die plaats
+    dienen te vinden tussen (markt)partijen. Afhankelijk van het proces vindt het
+    faciliteren plaats door toewijzingen te verzamelen, waar nodig te bewerken en
+    aan te bieden aan de partijen of processen die de daadwekelijke verrekening uitvoeren
+    (zoals tussen een energieleverancier en balanceringsverantwoordelijke partij).
+    Financiële settlement volgt in het financiële ondersteunende proces.
+  description_en: The ability to facilitate market settlement processes. Market settlement
+    processes include imbalance settlement in the form of allocation and reconciliation,
+    but also other settlement processes such as congestion, peer-2-peer or other settlements
+    that must take place with (market) parties. Depending on the process, facilitation
+    takes place by collecting allocations, editing them where necessary and offering
+    them to the parties or processes that carry out the actual settlement. Financial
+    settlement follows in the financial support process.
+- id: C.6.3.5
+  level: 3
+  parent_id: C.6.3
+  name: Flexibele capaciteit beheren
+  name_en: Manage flexible capacity
+  description: Het vermogen om aanbod aan een netbeheerder te beheren waarmee de netbeheerder
+    het productie- en/of belastingspatroon op een of meer aansluitingen kan wijzigen.
+    Het betreft bijvoorbeeld balanceringscapaciteit, redispatch capaciteit, capaciteitbeperking,
+    bieding en afroep van balanceringsdiensten of redispatchdiensten, Ter beschikking
+    gestelde vraagsturing.
+  description_en: The ability to manage supply to a grid operator that allows the
+    grid operator to change the production and/or load pattern on one or more connections.
+    This concerns, for example, balancing capacity, redispatch capacity, capacity
+    limitation, bidding and calling of balancing services or redispatch services,
+    Demand response made available.
+- id: C.6.4
+  level: 2
+  parent_id: C.6
+  name: Delen van netbeheerdata faciliteren
+  name_en: Enable grid operator data distribution
+  description: 'Het vermogen om het delen van netbeheerdata te faciliteren. In BAS/MFF
+    model worden “uitvoeren markt(systeem)processen” en “data delen” onderscheiden.
+    De wet kent  vier soorten data delen: voor markt(systeem)processen, data delen
+    op verzoek (toestemming), dataverzoeken van derden en open data. Deze capability
+    vult in het data delen op verzoek (toestemming), dataverzoeken van derden en open
+    data.'
+  description_en: 'The ability to facilitate grid operator data sharing. In the BAS/MFF
+    model, a distinction is made between “executing market (system) processes” and
+    “sharing data”. The law recognizes four types of data sharing: for market (system)
+    processes, data sharing on request (consent), data requests from third parties
+    and open data. This capability concerns data sharing on request (consent), data
+    requests from third parties and open data.'
+- id: C.6.4.1
+  level: 3
+  parent_id: C.6.4
+  name: Netbeheerdata beschikbaar maken voor derden
+  name_en: Make grid operator data available for third parties
+  description: Het vermogen om netbeheerdata beschikbaar te maken voor derden (stakeholders
+    in de energietransitie). De wet kent vier soorten data delen. Deze capability
+    betreft data delen op verzoek (toestemming), dataverzoeken van derden (dit betreft
+    bijvoorbeeld de informatievoorziening ten behoeve van het garanties- en certificaten
+    van oorsprong proces) en open data. Data beschikbaar maken richting marktpartijen
+    ten behoeve van de markt(systeem)processen valt hier niet onder en is onderdeel
+    van de capabilities die dat deel van de marktfacilitering invullen.
+  description_en: The ability to make grid operator data available to third parties.
+    The law recognizes four types of data sharing. This capability concerns data sharing
+    on request (consent), data requests from third parties (this concerns, for example,
+    the provision of information for the guarantees and certificates of origin process)
+    and open data. Making data available for the market (system) processes is therefore
+    not included.
+- id: C.6.4.2
+  level: 3
+  parent_id: C.6.4
+  name: Toestemmingen beheren
+  name_en: Manage issued permissions
+  description: Het vermogen om toestemming tot toegang tot (markt) data te beheren.
+    De toestemming wordt gebruikt bij het delen van data waarvoor toegang is vereist.
+    Dit zijn onder meer de toestemmingen van klanten. Dit betreft een GUE verantwoordelijkheid.
+  description_en: The ability to manage, issued permissions of consumers, concerning
+    sharing energy consumption and productiondata with allowed parties. This is a
+    GUE responsibility.
+- id: E.1
+  level: 1
+  parent_id: null
+  name: Bedrijfsrichting opstellen en besturen
+  name_en: Develop and control business direction
+  description: 'Het vermogen om richting / sturing te geven aan het bedrijf door een
+    missie, visie en een strategie te bepalen, met stakeholders in overeenkomst komen,
+    de transformatie van de inrichting te besturen en continuïteit en compliance te
+    bewaken.
+
+    .'
+  description_en: The ability to provide direction to the company by determining a
+    mission, vision and strategy, reaching agreements with stakeholders, managing
+    the transformation of the organization and monitoring continuity and compliance.
+- id: E.1.1
+  level: 2
+  parent_id: E.1
+  name: Strategie ontwikkelen en bewaken
+  name_en: Formulate and guard strategy
+  description: 'Het vermogen om een strategie te bepalen waarmee missie en visie middels
+    strategische doelen worden gerealiseerd.
+
+    .'
+  description_en: The ability to determine a strategy that realizes mission and vision
+    through strategic goals.
+- id: E.1.1.1
+  level: 3
+  parent_id: E.1.1
+  name: Externe en interne analyses uitvoeren
+  name_en: Perform external and internal analysis
+  description: 'Het vermogen om te analyseren welke externe en interne ontwikkelingen
+    van invloed zijn op missie, visie en strategie van het bedrijf.
+
+    .'
+  description_en: The ability to analyze which external and internal developments
+    influence the company's mission, vision and strategy.
+- id: E.1.1.2
+  level: 3
+  parent_id: E.1.1
+  name: Positionering bepalen en het merk definiëren
+  name_en: Define and position brand
+  description: 'Het vermogen om het bedrijf zijn positie te bepalen, het merk te promoten
+    en daarmee het imago van het bedrijf vorm te geven.
+
+    .'
+  description_en: The ability to determine the company's position, promote the brand
+    and use them to shape the company's image.
+- id: E.1.1.3
+  level: 3
+  parent_id: E.1.1
+  name: Strategie bepalen
+  name_en: Determine strategy
+  description: 'Het vermogen om de strategie (wat we moeten doen) te bepalen aan de
+    hand van strategische doelstellingen die zijn afgeleid uit de missie en visie.
+
+    .'
+  description_en: The ability to determine strategy (what we need to do) based on
+    strategic objectives derived from the mission and vision.
+- id: E.1.1.4
+  level: 3
+  parent_id: E.1.1
+  name: Bedrijfsplannen opstellen
+  name_en: Develop business plan
+  description: 'Het vermogen om (meer)jarenplannen op te stellen om de strategie te
+    realiseren.
+
+    .'
+  description_en: The ability to draw up (multi-)annual plans to realize the strategy.
+- id: E.1.1.5
+  level: 3
+  parent_id: E.1.1
+  name: Bedrijfsprestaties bewaken
+  name_en: Monitor business performance
+  description: 'Het vermogen om de prestaties van het bedrijf te meten, te toetsen
+    (tegen normen) en te vergelijken (benchmark)
+
+    .'
+  description_en: The ability to measure, test (against standards) and compare (benchmark)
+    the company's performance.
+- id: E.1.2
+  level: 2
+  parent_id: E.1
+  name: Met stakeholders in overeenstemming komen
+  name_en: Align stakeholders
+  description: 'Het vermogen om behoeften van de stakeholders en de netbeheerder in
+    overeenstemming te brengen.
+
+    .'
+  description_en: The ability to reconcile the needs of stakeholders and the grid
+    operator.
+- id: E.1.2.1
+  level: 3
+  parent_id: E.1.2
+  name: Stakeholderrelatie onderhouden
+  name_en: Inform and manage stakeholders
+  description: 'Het vermogen om stakeholders te herkennen, te informeren en de relatie
+    met deze stakeholders te onderhouden. Dit omvat ook communicatiestrategie en beleid
+    en het opstellen en uitvoeren van bedrijfscommunicatie en campagnes naar stakeholders,
+    inclusief generieke klantcampagnes.
+
+    .'
+  description_en: The ability to recognize, inform and maintain relationships with
+    stakeholders. This also includes communications strategy and policy and drafting
+    and executing corporate communications and campaigns to stakeholders, including
+    generic customer campaigns.
+- id: E.1.2.2
+  level: 3
+  parent_id: E.1.2
+  name: Wet- en regelgeving volgen en beïnvloeden
+  name_en: Monitor and influence laws and regulations
+  description: 'Het vermogen om relevante regelgeving te identificeren, te beïnvloeden,
+    de impact te overzien en te beleggen binnen de netbeheerder.
+
+    .'
+  description_en: The ability to identify relevant regulations, influence them, oversee
+    the impact and assign within the grid operator.
+- id: E.1.2.3
+  level: 3
+  parent_id: E.1.2
+  name: Sectorsamenwerking ontwikkelen
+  name_en: Develop sector cooperation
+  description: 'Het vermogen om samen met de energiesector partijen (bv. netbeheerders,
+    energieleveranciers) of aanpalende sectorpartijen (bv. aannemers, gemeenten) de
+    samenwerking te ontwikkelen en te onderhouden.
+
+    .'
+  description_en: The ability to develop and maintain cooperation with energy sector
+    parties (e.g. grid operators, energy suppliers) or adjacent sector parties (e.g.
+    contractors, municipalities).
+- id: E.1.2.4
+  level: 3
+  parent_id: E.1.2
+  name: Externe verantwoording afleggen
+  name_en: Provide external accountability
+  description: 'Het vermogen om verantwoording af te leggen aan niet-financiële regulatoren
+    van netbeheerders. Het vermogen om verantwoording af te leggen aan financiële
+    regulatoren is onderdeel van Financiën beheren.
+
+    .'
+  description_en: The ability to be accountable to non-financial regulators of grid
+    operators. The ability to be accountable to financial regulators is part of managing
+    finances.
+- id: E.1.3
+  level: 2
+  parent_id: E.1
+  name: Transformatie van bedrijfsinrichting besturen
+  name_en: Manage enterprise transformation
+  description: 'Het vermogen om de transformatie van de bedrijfsinrichting te besturen.
+    Dit leidt tot nieuwe eigenschappen van business capabilities of nieuwe business
+    capabilities die voldoen aan principes en richtlijnen om op lange termijn succesvol
+    te zijn. Deze hoofdcapability omvat tevens (onderzoek en innovaties realiseren
+    die ondersteunend zijn aan de transformaties.
+
+    .'
+  description_en: The ability to drive the transformation of the business design.
+    This leads to new properties of business capabilities or new business capabilities
+    that comply with principles and guidelines to be successful in the long term.
+    This main capability also includes realizing research and innovations that support
+    the transformations.
+- id: E.1.3.1
+  level: 3
+  parent_id: E.1.3
+  name: Enterprisearchitectuur definiëren
+  name_en: Define enterprise architecture
+  description: 'Het vermogen om een enterprise architectuur op te stellen die richting
+    geeft aan de veranderingen aan organisatie, processen, systemen, data en technologie.
+
+    .'
+  description_en: The ability to draw up an enterprise architecture that provides
+    direction for changes to organization, processes, systems, data and technology.
+- id: E.1.3.2
+  level: 3
+  parent_id: E.1.3
+  name: Veranderportfolio opstellen en bewaken / Roadmap opstellen en bewaken
+  name_en: Develop and guard the change portfolio and roadmap
+  description: 'Het vermogen om veranderingen te definieren, prioriteren en afhankelijkheden
+    en voortgang te managen d.m.v. een roadmap.
+
+    .'
+  description_en: The ability to define, prioritize changes and manage dependencies
+    and progress through a road map.
+- id: E.1.3.3
+  level: 3
+  parent_id: E.1.3
+  name: Veranderinitiatieven besturen
+  name_en: Manage change initiatives
+  description: 'Het vermogen om de voortgang van projecten, programma''s, epics en
+    features te bewaken en bij te sturen.
+
+    .'
+  description_en: The ability to monitor and adjust the progress of projects, programs,
+    epics and features.
+- id: E.1.3.4
+  level: 3
+  parent_id: E.1.3
+  name: Onderzoek en innovaties realiseren
+  name_en: Manage research and innovation
+  description: 'Het vermogen om onderzoek en innovatie uit te voeren en te besturen.
+    Dit omvat ook het besturen van de innovatie funnel/het onderscheid maken tussen
+    kansrijke en minder kansrijke innovaties.
+
+    .'
+  description_en: The ability to conduct and manage research and innovation. This
+    also includes managing the innovation funnel/distinguishing between promising
+    and less promising innovations.
+- id: E.1.4
+  level: 2
+  parent_id: E.1
+  name: Bedrijfscontinuïteit en compliance borgen
+  name_en: Ensure business continuity and compliance
+  description: 'Het vermogen om kaders en risico''s vast te stellen, te bewaken en
+    te besturen door o.a. compliance te bewaken en policy''s in te voeren.
+
+    .'
+  description_en: The ability to establish, monitor and manage frameworks and risks
+    by, among other things, monitoring compliance and introducing policies.
+- id: E.1.4.1
+  level: 3
+  parent_id: E.1.4
+  name: Strategische risico's inventariseren en bewaken
+  name_en: Collect and monitor strategic risks
+  description: 'Het vermogen om strategische bedrijfsrisico''s te identificeren en
+    mitigerende maatregelen te besturen. Dit omvat ook het uitvoeren en opvolgen van
+    bedrijfsrisico audits.
+
+    .'
+  description_en: The ability to identify strategic business risks and drive mitigation
+    actions. This also includes conducting and following up on business risk audits.
+- id: E.1.4.2
+  level: 3
+  parent_id: E.1.4
+  name: Informatiebeveiliging borgen
+  name_en: Manage information security
+  description: 'Het vermogen om informatiebeveiligingsrisico''s (waaronder cyberaanvallen)
+    te inventariseren, te analyseren, te prioriteren en maatregelen te borgen. Dit
+    omvat de NIST-CSF functies identify, protect, detect, respond, recover.
+
+    .'
+  description_en: The ability to identify, analyze, prioritize and safeguard information
+    security risks (including cyber attacks). This includes the NIST-CSF functions
+    identify, protect, detect, respond, recover.
+- id: E.1.4.3
+  level: 3
+  parent_id: E.1.4
+  name: Privacy borgen
+  name_en: Manage privacy
+  description: 'Het vermogen om privacyrisico''s te inventariseren,  te analyseren,
+    te prioriteren en maatregelen te borgen.
+
+    .'
+  description_en: The ability to identify, analyze, prioritize and safeguard privacy
+    risks.
+- id: E.1.4.4
+  level: 3
+  parent_id: E.1.4
+  name: Bedrijfscontinuïteit borgen
+  name_en: Manage business continuity
+  description: 'Het vermogen om bedrijfscontinuïteitsrisico''s vast te stellen en
+    te vertalen naar maatregelen en richtlijnen en die te bewaken.
+
+    .'
+  description_en: The ability to determine business continuity risks and translate
+    them into measures and guidelines and to monitor them.
+- id: E.1.4.5
+  level: 3
+  parent_id: E.1.4
+  name: Veiligheid, gezondheid, milieu en kwaliteit borgen
+  name_en: Monitor and adjust personal safety, health, environment and quality
+  description: Het vermogen om richtlijnen voor persoonlijke veiligheid en gezondheid,
+    milieu en kwaliteit (VGMK) op te stellen en te bewaken. Dit omvat ook de persoonlijke
+    digitale veiligheid. Dit omvat ook het afhandelen van bedrijfsincidenten op gebied
+    van VGMK.
+  description_en: The ability to draw up and monitor guidelines for personal safety
+    and health, environment and quality (HSEQ). This also includes personal digital
+    security and handling business incidents in the field of HSE.
+- id: E.1.4.6
+  level: 3
+  parent_id: E.1.4
+  name: Juridische zaken besturen en bewaken
+  name_en: Manage legal affairs
+  description: 'Het vermogen om juridische aspecten van de organisatie te besturen
+    en te bewaken. Dit omvat het inschatten van juridische risico''s, het geven van
+    juridische adviezen, het opstellen van juridische dossiers en juridische documenten
+    en het voeren van juridische procedures (inclusief regulering).
+
+    .'
+  description_en: The ability to manage and monitor legal aspects of the organization.
+    This includes assessing legal risks, providing legal advice, preparing legal files
+    and legal documents and conducting legal proceedings (including regulation).
+- id: E.1.4.7
+  level: 3
+  parent_id: E.1.4
+  name: Crisissen beheersen
+  name_en: Manage crises
+  description: 'Het vermogen om crissisen te besturen en planmatig te beheersen.
+
+    .'
+  description_en: The ability to predict, assess, analyze and prevent crisis situations.
+    Also the ability to actually provide a response when a crisis occurs.
+- id: E.2
+  level: 1
+  parent_id: null
+  name: Processen en data ontwikkelen en beheren
+  name_en: Develop and manage processes and data
+  description: Het vermogen om processen en data te ontwikkelen en te besturen.
+  description_en: The ability to develop and manage processes and data.
+- id: E.2.1
+  level: 2
+  parent_id: E.2
+  name: Processen besturen
+  name_en: Manage processes
+  description: Het vermogen om processen te besturen. Dit omvat ook het definiëren,
+    continu verbeteren en orkestreren van de  processen. Processen omvatten de waardestroom-/
+    ketenprocessen, hoofdprocessen, bedrijfsprocessen en werkprocessen.
+  description_en: The ability to control processes. This also includes defining, continuously
+    improving and orchestrating the processes. Processes include the value stream/chain
+    processes, main processes, business processes and work processes.
+- id: E.2.1.1
+  level: 3
+  parent_id: E.2.1
+  name: Processen ontwikkelen en beheren
+  name_en: Define and improve processes
+  description: Het vermogen om processen te definiëren, continu te verbeteren en te
+    beheren. Dit omvat het vastleggen van processen, het beleggen van eigenaarschap
+    en het monitoren van de effectiviteit van processen.
+  description_en: The ability to define, continuously improve and manage processes.
+    This includes recording processes, assigning ownership and monitoring the effectiveness
+    of processes.
+- id: E.2.1.2
+  level: 3
+  parent_id: E.2.1
+  name: Processen orkestreren
+  name_en: Orchestrate processes
+  description: Het vermogen om de processen te orkestreren en daarmee de realisatie
+    van het resultaat te besturen. Dit omvat het bepalen van de uit te voeren activiteiten,
+    het aansturen van de activiteiten (aansturen actoren), het monitoren van de voortgang
+    en het inzicht geven in / rapporteren over de voortgang op afgesproken momenten
+    en/of op verzoek. Dit omvat een taakflow wijze van orkestreren en een dossierflow
+    (=zaakgericht werken) wijze van orkestreren. Deze capability kan worden gebruikt
+    om de verschillende onderliggende capabilities aan te sturen die nodig zijn om
+    het E2E resultaat te realiseren (b.v. toekomstbestendig energienet, aansluiting,
+    betrouwbaar energienet, transport capaciteit, afgeleverde energie, toegewezen
+    energie-uitwisseling, netbeheer data). Deze capability kan ook worden gebruikt
+    binnen een capability context om een capability proces te orkestreren en daarmee
+    de realisatie van het capability resultaat te besturen. Het object van orkestratie
+    duiden we met ‘Case’.
+  description_en: The ability to orchestrate the processes and thus control the realization
+    of the result. This includes determining the activities to be carried out, managing
+    the activities (managing actors), monitoring progress and providing insight into/reporting
+    on progress at agreed times and/or upon request. This includes a task flow method
+    of orchestration and a file flow (= case-oriented work) method of orchestration.
+    This capability can be used to control the various underlying capabilities required
+    to realize the E2E result (e.g. future-proof energy grid, connection, reliable
+    energy grid, transport capacity, delivered energy, allocated energy exchange,
+    grid management data). This capability can also be used within a capability context
+    to orchestrate a capability process and thereby control the realization of the
+    capability outcome. We refer to the object of orchestration as 'Case'.
+- id: E.2.2
+  level: 2
+  parent_id: E.2
+  name: Data besturen
+  name_en: Manage data
+  description: Het vermogen om data te besturen.
+  description_en: The ability to manage data.
+- id: E.2.2.1
+  level: 3
+  parent_id: E.2.2
+  name: Datadefinites ontwikkelen en beheren
+  name_en: Define and maintain data
+  description: Het vermogen om data te definiëren en te beheren. Deze capability omvat
+    het vastleggen van datamodel/metadata en het beleggen van eigenaarschap. Onderdeel
+    hiervan is ook het opstellen van data- en kennisrichtlijnen en continu verbeteren
+    van de datadefinities.
+  description_en: The ability to define and manage data. This capability includes
+    recording the data model/metadata and investing ownership. Part of this also involves
+    drawing up data and knowledge guidelines and continuously improving the data definitions.
+- id: E.2.2.2
+  level: 3
+  parent_id: E.2.2
+  name: Datakwaliteit borgen
+  name_en: Assure data quality
+  description: Het vermogen om datakwaliteit te borgen. Dit omvat ook het opstellen
+    en bewaken van data governance richtlijnen.
+  description_en: The ability to ensure data quality. This also includes drawing up
+    and monitoring data governance guidelines.
+- id: E.2.2.3
+  level: 3
+  parent_id: E.2.2
+  name: Data herbruikbaar maken
+  name_en: Make data reusable
+  description: Het vermogen om data conform een logisch model herbruikbaar te maken
+    (FAIR). Dit omvat ook het beschikbaarstellen van master- en/of referentiedata
+    (bv. weerdata, kadasterdata, …).
+  description_en: The ability to make data reusable in accordance with a logical model
+    (FAIR). This also includes making master and/or reference data available (e.g.
+    weather data, land registry data, etc.).
+- id: E.2.2.4
+  level: 3
+  parent_id: E.2.2
+  name: Data-analysemodellen opstellen en beheren
+  name_en: Create and maintain data analytic models
+  description: Het vermogen om data-analysemodellen te creëren aan de hand van algoritmen,
+    en te onderhouden. Dit betreft voorspellende en voorschrijvende data-analyses
+    (data science). Beschrijvende data-analyses vallen onder Data herbruikbaar maken.
+  description_en: The ability to create and maintain data analysis models using algorithms.
+    This concerns predictive and prescriptive data analyzes (data science). Descriptive
+    data analyzes fall under 'Make data reusable'.
+- id: E.2.2.5
+  level: 3
+  parent_id: E.2.2
+  name: Data duurzaam bewaren
+  name_en: Archive data
+  description: Het vermogen om data duurzaam te bewaren en te beheren. Deze capability
+    omvat generieke digitale archiveringsmogelijkheden en fysieke/papieren archieven.
+  description_en: The ability to sustainably store and manage data. This capability
+    includes generic digital archiving capabilities and physical/paper archives.
+- id: E.3
+  level: 1
+  parent_id: null
+  name: Medewerkers werven en inzetbaar houden
+  name_en: Recruit and manage human capital
+  description: Het vermogen om medewerkers te verwerven, inzetbaar te houden en te
+    organiseren in een organisatiestructuur.
+  description_en: The ability to recruit employees, keep them employable and organize
+    them in an organizational structure.
+- id: E.3.1
+  level: 2
+  parent_id: E.3
+  name: Medewerkersstrategie en -plannen opstellen en besturen
+  name_en: Develop and manage employee strategy and plans
+  description: Het vermogen om medewerkersstrategie en -plannen op te stellen en te
+    besturen.
+  description_en: The ability to establish and manage employee strategy and plans.
+- id: E.3.1.1
+  level: 3
+  parent_id: E.3.1
+  name: Medewerkersstrategie opstellen en besturen
+  name_en: Develop and manage employee strategy
+  description: Het vermogen om een medewerkersstrategie op te stellen en te besturen.
+    Dit omvat ook het medewerkersbeleid en -ontwikkelstrategie, het onderhouden van
+    arbeidsvoorwaarden en het afstemmen met OR en vakbonden.
+  description_en: The ability to establish and manage an employee strategy. This also
+    includes employee policy and development strategy, maintaining employment conditions
+    and coordination with the Works Council and trade unions.
+- id: E.3.1.2
+  level: 3
+  parent_id: E.3.1
+  name: Medewerkersplannen opstellen en besturen
+  name_en: Develop and manage employee plans
+  description: Het vermogen om medewerkersplannen op te stellen en te besturen. Deze
+    plannen omvatten ook de formatieplannen en de (strategische en tactische) personeelsplannen
+    (SPP/TPP).
+  description_en: The ability to establish and manage employee plans. These plans
+    also include the formation plans and the (strategic and tactical) personnel plans
+    (SPP/TPP).
+- id: E.3.1.3
+  level: 3
+  parent_id: E.3.1
+  name: Organisatie inrichten en optimaliseren
+  name_en: Design and transform organisation
+  description: Het vermogen om de organisatie in te richten en te optimaliseren. Dit
+    omvat ook het registreren van de organisatiestructuur.
+  description_en: The ability to organize and optimize the organization. This also
+    includes registering the organizational structure.
+- id: E.3.2
+  level: 2
+  parent_id: E.3
+  name: Medewerkers in- en uitstromen
+  name_en: Onboard and offboard employees
+  description: Het vermogen om medewerkers in en uit te stromen
+  description_en: The ability to onboard and offboard employees.
+- id: E.3.2.1
+  level: 3
+  parent_id: E.3.2
+  name: Medewerkers werven en selecteren
+  name_en: Recruite and select employees
+  description: "Het vermogen om medewerkers te werven en te selecteren. \nDit omvat\
+    \ ook het communiceren met de arbeidsmarkt en de screening van medewerkers."
+  description_en: The ability to recruit and select employees. This also includes
+    communicating with the labor market and screening employees.
+- id: E.3.2.2
+  level: 3
+  parent_id: E.3.2
+  name: Medewerkers aannemen
+  name_en: Contract employees
+  description: Het vermogen om medewerkers aan te nemen. Dit gaat niet alleen om vaste
+    medewerkers, maar omvat ook het aannemen van tijdelijke medewerkers en stagiaires
+    en het onboarden van medewerkers.
+  description_en: The ability to hire employees. This not only concerns permanent
+    employees, but also includes hiring temporary employees and interns and onboarding
+    employees.
+- id: E.3.2.3
+  level: 3
+  parent_id: E.3.2
+  name: Medewerkers laten uittreden
+  name_en: Allow employees to resign
+  description: Het vermogen om medewerkers van werk naar werk te begeleiden, zowel
+    op medewerkers als op werkgevers initiatief. Dit omvat ook de pensionering van
+    medewerkers begeleiden en het contact houden met oud-medewerkers.
+  description_en: The ability to guide employees from work to work, both on employee
+    and employer initiative. This also includes managing the retirement of employees
+    and keeping in touch with former employees.
+- id: E.3.3
+  level: 2
+  parent_id: E.3
+  name: Medewerkers behouden
+  name_en: Retain employees
+  description: Het vermogen om medewerkers te behouden.
+  description_en: The ability to retain employees
+- id: E.3.3.1
+  level: 3
+  parent_id: E.3.3
+  name: Relatie met medewerkers onderhouden
+  name_en: Manage the relation with employees
+  description: Het vermogen om een relatie met de medewerkers te onderhouden. Dit
+    omvat het registreren van medewerkersgegevens, het verrichten van motivatieonderzoek
+    en het betrokken houden van medewerkers en het leveren van arbeidsjuridisch advies.
+  description_en: The ability to maintain a relationship with employees. This includes
+    registering employee data, conducting motivation research and keeping employees
+    involved and providing employment legal advice.
+- id: E.3.3.2
+  level: 3
+  parent_id: E.3.3
+  name: Medewerkers (her)plaatsen
+  name_en: Redeploy employees
+  description: Het vermogen om medewerkers (vrijwillig of gedwongen) te (her)plaatsen.
+    Dit omvat tevens het besturen van opvolging.
+  description_en: The ability to (voluntarily or forcibly) redeploy employees. This
+    also includes managing succession.
+- id: E.3.3.3
+  level: 3
+  parent_id: E.3.3
+  name: Medewerkers belonen
+  name_en: Reward employees
+  description: Het vermogen om medewerkers te belonen voor geleverde prestaties. Dit
+    omvat salarissen, onkosten en overige vergoedingen.
+  description_en: The ability to reward employees for performance. This includes salaries,
+    expenses and other compensation.
+- id: E.3.3.4
+  level: 3
+  parent_id: E.3.3
+  name: Medewerkersverzuim begeleiden
+  name_en: Manage sick leave
+  description: Het vermogen om medewerkersverzuim door ziekte te begeleiden. Dit betreft
+    onder meer de activiteiten van Wet poortwachter waaronder het verzuim registreren,
+    beoordelen, herstel bevorderen en weer aan het werk geraken door werkgevers en
+    werknemer samen met arbodienst en bedrijfsarts.
+  description_en: The ability to manage employee absenteeism due to illness. This
+    includes the activities of the Gatekeeper Act, including registering absenteeism,
+    assessing it, promoting recovery and returning to work by employers and employees
+    together with the occupational health and safety service and the company doctor.
+- id: E.3.3.5
+  level: 3
+  parent_id: E.3.3
+  name: Medewerkersverlof verantwoorden
+  name_en: Register leave
+  description: Het vermogen om (calamiteiten) verlof aan te vragen en te registreren.
+  description_en: The ability to request and register (emergency) leave.
+- id: E.3.4
+  level: 2
+  parent_id: E.3
+  name: Medewerkers ontwikkelen
+  name_en: Develop employees
+  description: Het vermogen om medewerkers te ontwikkelen en de prestaties te evalueren.
+    Dit omvat tevens het ontwikkelen van leiderschap.
+  description_en: The ability to develop employees and evaluate performance. This
+    also includes developing leadership.
+- id: E.3.4.1
+  level: 3
+  parent_id: E.3.4
+  name: Medewerkersprestatie evalueren
+  name_en: Manage employee performance
+  description: Het vermogen om medewerkers prestaties vast te stellen, te beoordelen
+    en te verbeteren.
+  description_en: The ability to determine, assess and improve employee performance.
+- id: E.3.4.2
+  level: 3
+  parent_id: E.3.4
+  name: Medewerkers opleiden en certificeren
+  name_en: Train and certify employees
+  description: Het vermogen om medewerkers op te leiden en te certificeren. Dit omvat
+    niet alleen inhoudelijke opleidingen zoals de bedrijfsschool, maar ook ontwikkelen
+    van leiderschap en andere talenten.
+  description_en: The ability to train and certify employees. This not only includes
+    substantive training such as business school, but also development of leadership
+    and other talents.
+- id: E.3.4.3
+  level: 3
+  parent_id: E.3.4
+  name: Medewerkers gezond en vitaal houden
+  name_en: Realise sustainable empoyability
+  description: Het vermogen om medewerkers gezond en vitaal te houden.
+  description_en: The ability to keep employees healthy and vital.
+- id: E.4
+  level: 1
+  parent_id: null
+  name: Digitale producten ontwikkelen en beheren
+  name_en: Develop and maintain digital technology
+  description: |
+    "Het vermogen om digitale producten te ontwikkelen en te beheren met
+    informatie en operationele technologieën.  Dit betreft de informatie technologie
+    (IT) en de (centrale) operationele technologie (OT, ook wel de IT van de OT genoemd).
+    Het omvat tevens de digitale werkplek. (IT4IT value delivery)
+
+    Let op: De secundaire netcomponenten zijn niet in scope en worden bestuurd in
+    het domein ''C.3 - Ontwikkeling en instandhouding van energienetten besturen''"
+  description_en: 'The ability to develop and manage digital products with information
+    and operational technologies.  This concerns information technology (IT) and (central)
+    operational technology (OT, also known as the IT of the OT). It also includes
+    the digital workplace. (IT4IT value delivery). Please note: The secondary grid
+    components are not in scope and are managed in the domain ''C.3 - Managing the
+    development and maintenance of energy networks''.'
+- id: E.4.1
+  level: 2
+  parent_id: E.4
+  name: Digitaalproductstrategie en -portfolio ontwikkelen en beheren
+  name_en: Develop digital technology strategy and manage digital product portfolio
+  description: Het vermogen om digitale-technologiestrategie te onwikkelen en het
+    portfolio van digitale producten te beheren. Het ontwikkelen van digitaal product
+    portfolio vindt plaats als onderdeel van de veranderingen die in E.1.3. worden
+    gemanaged. (IT4IT Strategy to Portfolio)
+  description_en: The ability to develop digital technology strategy and manage the
+    portfolio of digital products. Developing a digital product portfolio takes place
+    as part of the changes in E.1.3. are managed. (IT4IT Strategy to Portfolio)
+- id: E.4.1.1
+  level: 3
+  parent_id: E.4.1
+  name: Digitaalproductstrategie ontwikkelen en besturen
+  name_en: Develop and manage digital technology strategy
+  description: Het vermogen om digitale-technologiestrategie te ontwikkelen en besturen.
+    (IT4IT - Strategy)
+  description_en: The ability to develop and drive digital technology strategy. (IT4IT
+    - Strategy)
+- id: E.4.1.2
+  level: 3
+  parent_id: E.4.1
+  name: Digitaalproductenportfolio ontwikkelen en beheren
+  name_en: Manage digital product portfolio
+  description: Het vermogen om portfolio van digitale producten te ontwikkelen en
+    te beheren. (IT4IT - Portfolio)
+  description_en: The ability to develop and manage portfolio of digital products.
+    (IT4IT - Portfolio)
+- id: E.4.2
+  level: 2
+  parent_id: E.4
+  name: Digitale producten realiseren
+  name_en: Realise and deploy digital products
+  description: Het vermogen om digitale producten te realiseren. (IT4IT - Requirement
+    to Deploy)
+  description_en: The ability to realise and deploy digital products. (IT4IT - Requirement
+    to Deploy)
+- id: E.4.2.1
+  level: 3
+  parent_id: E.4.2
+  name: Digitale producten creëren, aanpassen en verwijderen
+  name_en: Create, adjust and remove digital products
+  description: Het vermogen om digitale producten te creëren, aan te passen (onderhoud
+    of functionaliteit uitbreiding doeleinden) en te verwijderen. (IT4IT - Develop)
+  description_en: The ability to create, modify (maintenance or functionality extension
+    purposes) and delete digital products. (IT4IT - Develop)
+- id: E.4.2.2
+  level: 3
+  parent_id: E.4.2
+  name: Digitale producten testen
+  name_en: Test digital products
+  description: Het vermogen om digitale producten te testen. (IT4IT - Test)
+  description_en: The ability to test digital products. (IT4IT Test)
+- id: E.4.3
+  level: 2
+  parent_id: E.4
+  name: Digitale producten leveren
+  name_en: Deliver digital products
+  description: Het vermogen om digitale producten op te leveren. (IT4IT - Request
+    to Fulfill)
+  description_en: The ability to deliver digital products. (IT4IT - Request to Fulfill)
+- id: E.4.3.1
+  level: 3
+  parent_id: E.4.3
+  name: Interacteren over digitale producten
+  name_en: Interact across digital products
+  description: Het vermogen om over digitale producten te interacteren. Dit omvat
+    de interactie met (potentiële) gebruikers (help desk) en het aanbieden en bestellen
+    van services. (IT4IT - Consume) Dit omvat het definiëren van identiteiten en toegangsrechten.
+  description_en: The ability to interact across digital products. This includes interacting
+    with (potential) users (help desk) and offering and ordering services. (IT4IT
+    - Consume) This includes defining identities and access rights.
+- id: E.4.3.2
+  level: 3
+  parent_id: E.4.3
+  name: Digitale producten beschikbaar stellen
+  name_en: Fulfill digital products
+  description: Het vermogen om digitale producten beschikbaar te stellen aan gebruikers.
+    Dit omvat het realiseren van autorisaties, het beschikbaarstellen van licenties
+    en de digital product instance configuratie. (IT4IT Fulfill)
+  description_en: The ability to make digital products available to users. This includes
+    realizing authorizations, making licenses available and the digital product instance
+    configuration. (IT4IT Fulfillment)
+- id: E.4.4
+  level: 2
+  parent_id: E.4
+  name: Digitale producten exploiteren
+  name_en: Assure Digital products
+  description: Het vermogen om digitale  producten te exploiteren. Dit omvat het bewaken
+    van prestatie afspraken. (IT4IT Detect to Correct)
+  description_en: The ability to assure digital products. This includes monitoring
+    performance agreements. (IT4IT Detect to Correct)
+- id: E.4.4.1
+  level: 3
+  parent_id: E.4.4
+  name: Digitale product prestatieafspraken besturen
+  name_en: Control digital product performance agreements
+  description: Het vermogen om prestatieafspraken te besturen. Dit omvat het besturen
+    van incidenten, problems en kennis.  (IT4IT - Support)
+  description_en: The ability to drive performance agreements. This includes managing
+    incidents, problems and knowledge.  (IT4IT - Support)
+- id: E.4.4.2
+  level: 3
+  parent_id: E.4.4
+  name: Werking digitale producten zeker stellen
+  name_en: Assure operation of digital products
+  description: Het vermogen om de werking van digitale producten zeker te stellen.
+    Dit omvat het definiëren en toepassen van diagnose en herstelactiviteiten (runbooks),
+    besturen van events en het monitoren van prestaties. Het daadwerkelijk aanpassen
+    van de productieomgeving (bv. patchen) vindt plaats in E.4.2 en E.4.3).  (IT4IT
+    - Assure)
+  description_en: The ability to ensure the operation of digital products. This includes
+    defining and applying diagnostics and recovery activities (runbooks), controlling
+    events and monitoring performance. The actual adjustment of the production environment
+    (e.g. patching) takes place in E.4.2 and E.4.3).  (IT4IT - Assure)
+- id: E.5
+  level: 1
+  parent_id: null
+  name: Goederen en diensten verkrijgen
+  name_en: Obtain goods and services
+  description: Het vermogen om goederen en diensten te verkrijgen. Dit omvat ook het
+    verkrijgen van materialen.
+  description_en: The ability to obtain goods and services. This also includes obtaining
+    materials.
+- id: E.5.1
+  level: 2
+  parent_id: E.5
+  name: Goederen- en dienstenstrategie en -plannen opstellen en besturen
+  name_en: Develop and manage goods and services strategy and plans
+  description: Het vermogen om goederen- en dienstenstrategie en -plannen op te stellen
+    en te besturen.
+  description_en: The ability to develop and manage goods and services strategy and
+    plans.
+- id: E.5.1.1
+  level: 3
+  parent_id: E.5.1
+  name: Goederen- en dienstenstrategie opstellen
+  name_en: Develop and manage goods and services strategy
+  description: Het vermogen om goederen- en dienstenstrategie op te stellen en te
+    besturen.
+  description_en: The ability to establish and manage goods and services strategy.
+- id: E.5.1.2
+  level: 3
+  parent_id: E.5.1
+  name: Goederen en diensten plannen en besturen
+  name_en: Develop and manage goods and services plans
+  description: Het vermogen om goederen en diensten te plannen en te besturen. Dit
+    omvat het (strategisch en tactisch) materiaalmanagement.
+  description_en: The ability to establish and manage goods and services plans. This
+    includes strategic and tactical materials management.
+- id: E.5.2
+  level: 2
+  parent_id: E.5
+  name: Overeenkomsten met inkoopleveranciers afsluiten en bewaken
+  name_en: Establish and monitor contracts with suppliers
+  description: Het vermogen om overeenkomsten met leveranciers af te sluiten en te
+    bewaken. Dit omvat ook de bestellingen die binnen overeenkomsten worden gedaan.
+  description_en: The ability to establish and monitor agreements with suppliers.
+    This also includes orders placed within agreements.
+- id: E.5.2.1
+  level: 3
+  parent_id: E.5.2
+  name: Relatie met inkoopleveranciers onderhouden
+  name_en: Manage purchasing supplier relations
+  description: Het vermogen om een relatie met inkoopleveranciers te onderhouden.
+    Dit omvat strategisch, tactisch en operationeel niveau.
+  description_en: The ability to maintain a relationship with purchasing suppliers.
+    This includes strategic, tactical and operational levels.
+- id: E.5.2.2
+  level: 3
+  parent_id: E.5.2
+  name: Goederen en diensten overeenkomen en/of bestellen
+  name_en: Establish contracts for goods and services
+  description: Het vermogen om goederen en diensten overeen te komen en/of te bestellen.
+    Dit omvat ook het aanbesteden, het afsluiten van raamovereenkomsten en het afroepen
+    van goederen/diensten.
+  description_en: The ability to agree and/or order goods and services. This also
+    includes tendering, concluding framework agreements and calling for goods/services.
+- id: E.5.2.3
+  level: 3
+  parent_id: E.5.2
+  name: Naleving van inkoopovereenkomsten bewaken
+  name_en: Manage compliance to purchasing contracts
+  description: Het vermogen om afspraken/overeenkomsten met derden uit te nutten/toe
+    te passen.
+  description_en: The ability to guard compliance to purchasing agreements with third
+    parties.
+- id: E.6
+  level: 1
+  parent_id: null
+  name: Bedrijfsgebouwen beheren en faciliteiten beschikbaar stellen
+  name_en: Manage company buildings and make facilities available
+  description: 'Het vermogen om bedrijfsgebouwen en faciliteiten te beheren. Let op
+    dit betreft bedrijfsgebouwen en faciliteiten die geen onderdeel zijn van het net;
+    technische gebouwen zijn een asset categorie (tertiaire assets) en worden in domein
+    3 beheerd. Het omvat tevens de fysieke werkplek. Dit omvat: kantoorgebouwen, magazijnen,
+    opleidingscentra, ...'
+  description_en: 'The ability to manage company buildings and facilities. Please
+    note this concerns buildings and facilities that are not part of the grid; technical
+    buildings are an asset category (tertiary assets) and are managed in domain 3.
+    It also includes the physical workplace. This includes: office buildings, warehouses,
+    training centers, ...'
+- id: E.6.1
+  level: 2
+  parent_id: E.6
+  name: Bedrijfsgebouwen beheren
+  name_en: Manage real estate
+  description: Het vermogen om bedrijfsgebouwen te beheren.
+  description_en: The ability to manage company buildings and facilities.
+- id: E.6.1.1
+  level: 3
+  parent_id: E.6.1
+  name: Bedrijfsgebouwenstrategie en -plannen opstellen en besturen
+  name_en: Develop and manage real estate strategy and plans
+  description: Het vermogen om bedrijfsgebouwenstrategie en -plannen op te stellen
+    en te besturen. Dit omvat ook het huisvestingsplan.
+  description_en: The ability to establish and manage corporate building strategy
+    and plans. This also includes the housing plan.
+- id: E.6.1.2
+  level: 3
+  parent_id: E.6.1
+  name: Bedrijfsgebouwen verkrijgen, verbouwen en afstoten
+  name_en: Obtain, renovate and dispose of real estate
+  description: Het vermogen om bedrijfsgebouwen te verkrijgen, te verbouwen en af
+    te stoten.
+  description_en: The ability to acquire, renovate and dispose of commercial buildings.
+- id: E.6.1.3
+  level: 3
+  parent_id: E.6.1
+  name: Bedrijfsgebouwen onderhouden
+  name_en: Maintain real estate
+  description: Het vermogen om bedrijfsgebouwen te onderhouden. Dit omvat ook het
+    plannen en uitvoeren van onderhoud en het beheren van bedrijfsgebouwinstallates
+    zoals werkbouwkundige en elektrische voorzieningen (bv. energievoorzieningen,
+    liften, verlichting, 'uit' bordjes).
+  description_en: The ability to maintain company buildings. This also includes planning
+    and carrying out maintenance and managing company building installations such
+    as structural and electrical facilities (e.g. energy supplies, lifts, lighting,
+    'off' signs).
+- id: E.6.2
+  level: 2
+  parent_id: E.6
+  name: Faciliteiten beschikbaar stellen
+  name_en: Manage facilities
+  description: Het vermogen om faciliteiten beschikbaar te stellen
+  description_en: The ability to make facilities available.
+- id: E.6.2.1
+  level: 3
+  parent_id: E.6.2
+  name: Bedrijfsgebouwgebruik faciliteren
+  name_en: Manage real estate facilities
+  description: Het vermogen om het gebruik van bedrijfsgebouwen te faciliteren. Dit
+    omvat het schoonhouden, beschikbaarstellen van ruimtes (zalen, parkeren), beschikbaarstellen
+    van voedsel en drank, borgen van veiligheid en verzorgen van kantoorgoederen afhandeling.
+  description_en: The ability to facilitate the use of company buildings. This includes
+    cleaning, making spaces available (rooms, parking), making food and drinks available,
+    ensuring safety and arranging for office goods handling.
+- id: E.6.2.2
+  level: 3
+  parent_id: E.6.2
+  name: Personenmobiliteit faciliteren
+  name_en: Manage personal mobility
+  description: Het vermogen om de mobiliteit van personen te faciliteren. Dit omvat
+    vervoer per wagen en openbaar vervoer.
+  description_en: The ability to facilitate the mobility of people. This includes
+    transport by car and public transport.
+- id: E.7
+  level: 1
+  parent_id: null
+  name: Financiën verkrijgen en beheren
+  name_en: Manage finance
+  description: Het vermogen om de financiën te besturen.
+  description_en: The ability to manage finances.
+- id: E.7.1
+  level: 2
+  parent_id: E.7
+  name: Financiële strategie en plannen opstellen, bewaken en rapporteren
+  name_en: Create and monitor finance strategy and plans
+  description: Het vermogen om een financiële strategie en - plannen op te stellen,
+    te bewaken en te rapporteren.
+  description_en: The ability to establish, monitor and report on financial strategy
+    and plans.
+- id: E.7.1.1
+  level: 3
+  parent_id: E.7.1
+  name: Financiële strategie opstellen
+  name_en: Formulate finance strategy
+  description: Het vermogen om de financiële strategie op te stellen. Dit omvat ook
+    de financieringsstrategie en het garanderen van de financiering.
+  description_en: The ability to draw up the financial strategy. This also includes
+    the financing strategy and guaranteeing financing.
+- id: E.7.1.2
+  level: 3
+  parent_id: E.7.1
+  name: Financiën plannen
+  name_en: Plan finance
+  description: Het vermogen om financiën (meer)jaren te plannen en te budgetteren.
+    Dit omvat ook het begroten.
+  description_en: The ability to plan and budget finances for (multi) years. This
+    also includes budgeting.
+- id: E.7.1.3
+  level: 3
+  parent_id: E.7.1
+  name: Financiële informatie verstrekken en adviseren
+  name_en: Report and advise on financial information
+  description: Het vermogen om financiële informatie te verstrekken en te adviseren
+    over financiën/financiële informatie. Dit omvat ook financial + business control
+    (analyse, control, advies) en financial audit. Dit omvat ook niet financiële formele
+    informatie elementen waarover internal audit/control een uitspraak doet, zoals
+    bijvoorbeeld aantallen en risico's.
+  description_en: The ability to provide financial information and advise on finance/financial
+    information. This also includes financial + business control (analysis, control,
+    advice) and financial audit. This also includes non-financial formal information
+    on which internal audit/control makes a statement, such as numbers and risks.
+- id: E.7.1.4
+  level: 3
+  parent_id: E.7.1
+  name: Financiële verantwoording afleggen
+  name_en: Publish annual report
+  description: Het vermogen om financiële verantwoording af te leggen. Dit omvat de
+    realisatie van het jaarverslag.
+  description_en: The ability to provide financial accountability. This includes the
+    production of the annual report.
+- id: E.7.2
+  level: 2
+  parent_id: E.7
+  name: Vermogen en liquiditeiten verkrijgen en beheren
+  name_en: Acquire and manage financial assets and liquidity
+  description: Het vermogen om het vermogen en liquiditeiten te beheren. Dit omvat
+    treasury.
+  description_en: The ability to acquire and manage financial assets and liquidity.
+    This includes treasury.
+- id: E.7.2.1
+  level: 3
+  parent_id: E.7.2
+  name: Vermogen verkrijgen
+  name_en: Acquire financial assets
+  description: Het vermogen om eigen en vreemd vermogen te verkrijgen, bijvoorbeeld
+    door het aangaan van een lening of  de emissie van aandelen.
+  description_en: The ability to obtain equity and debt capital, for example by taking
+    out a loan or issuing shares.
+- id: E.7.2.2
+  level: 3
+  parent_id: E.7.2
+  name: Activa waarderen
+  name_en: Manage asset values
+  description: Het vermogen om waarde van activa (waaronder netcomponenten) vast te
+    stellen.
+  description_en: The ability to determine the value of assets (including grid components).
+- id: E.7.2.3
+  level: 3
+  parent_id: E.7.2
+  name: Liquide middelen beheren
+  name_en: Manage liquid assets
+  description: Het vermogen om liquide middelen te beheren. Dit omvat ook het beheren
+    van bankrekeningen.
+  description_en: The ability to manage liquid assets. This also includes managing
+    bank accounts.
+- id: E.7.2.4
+  level: 3
+  parent_id: E.7.2
+  name: Betalingen verrichten
+  name_en: Make payments
+  description: Het vermogen om betalingen te verrichten. Dit omvat de betaling aan
+    crediteuren.
+  description_en: The ability to make payments. This includes payments to creditors.
+- id: E.7.3
+  level: 2
+  parent_id: E.7
+  name: Gebeurtenissen financieel verwerken en standen beheren
+  name_en: Manage financial transactions and ledger
+  description: Het vermogen om gebeurtenissen financieel te verwerken (journaalpost)
+    en standen te beheren (grootboek).
+  description_en: The ability to process events financially (journal entry) and manage
+    balances (general ledger).
+- id: E.7.3.1
+  level: 3
+  parent_id: E.7.3
+  name: Gebeurtenissen financieel verwerken
+  name_en: Manage financial transactions
+  description: Het vermogen om gebeurtenissen financieel te verwerken.
+  description_en: The ability to process events financially.
+- id: E.7.3.2
+  level: 3
+  parent_id: E.7.3
+  name: Financiële standen beheren
+  name_en: Manage financial ledger
+  description: Het vermogen om financiële standen (grootboek) te beheren. Dit omvat
+    de debiteuren en crediteuren standen.
+  description_en: The ability to manage financial accounts (general ledger). This
+    includes the debtors and creditors positions.
+- id: E.7.3.3
+  level: 3
+  parent_id: E.7.3
+  name: Financiële beheersmaatregelen uitvoeren
+  name_en: Implement financial control measures
+  description: Het vermogen om financiële beheersmaatregelen (controls) uit te voeren.
+    Dit omvat ook het borgen van de volledigheid van de opbrengsten onder meer door
+    gemeten prestaties te vergelijken met de geboekte opbrengsten (revenue assurance).
+  description_en: The ability to implement financial management measures (controls).
+    This also includes ensuring the completeness of revenues, among other things by
+    comparing measured performance with booked revenues (revenue assurance).
+objects:
+- id: klant
+  name: Klant
+  name_en: Customer
+  description: Een (potentiële) afnemer van een product of dienst van de netbeheerder.
+- id: klantnotificatie
+  name: Klantnotificatie
+  name_en: Customer notification
+  description: Een aan een klant gerichte officiële kennisgeving van een verandering
+    in de status van een dienst.
+- id: klantcontactmoment
+  name: Klantcontactmoment
+  name_en: Customer interaction
+  description: Een aaneengesloten periode waarbij interactief informatie wordt uitgewisseld
+    tussen een klant en de netbeheerder.
+- id: klantverzoek
+  name: Klantverzoek
+  name_en: Customer request
+  description: Een vraag van een klant om iets te doen of te laten.
+- id: transportbehoefte
+  name: Transportbehoefte
+  name_en: Transport demand
+  description: De wens om energie uit te wisselen via het energienet.
+- id: klantervaring
+  name: Klantervaring
+  name_en: Customer experience
+  description: Een subjectieve beleving van een klant naar aanleiding van direct of
+    indirect contact met de netbeheerder.
+- id: klantovereenkomst
+  name: Klantovereenkomst
+  name_en: Customer agreement
+  description: Een afspraak tussen een klant en de netbeheerder over wat ze met elkaar
+    of voor elkaar zullen gaan doen of laten.
+- id: klantofferte
+  name: Klantofferte
+  name_en: Customer quote
+  description: Een formeel aanbod tot het sluiten van een overeenkomst, opgesteld
+    op verzoek van een (potentiële) klant.
+- id: klantproduct
+  name: Klantproduct
+  name_en: Customer product
+  description: Een al dan niet tastbaar iets dat de netbeheerder aanbiedt om aan een
+    wens of behoefte te voldoen.
+- id: klantfactuur
+  name: Klantfactuur
+  name_en: Customer invoice
+  description: Een weergave van een betalingsverplichting van of aan een klant.
+- id: inkomstenverlies
+  name: Inkomstenverlies
+  name_en: Revenue loss
+  description: Een verlies van potentiële inkomsten.
+- id: schadeverhaal
+  name: Schadeverhaal
+  name_en: Damage recovery
+  description: Een aansprakelijkstelling van schade aan het energienet veroorzaakt
+    door derden, anders dan door energiediefstal.
+- id: storingscompensatie
+  name: Storingscompensatie
+  name_en: Disturbance compensation
+  description: Een vergoeding voor een onvoorziene transportonderbreking.
+- id: schadevergoeding
+  name: Schadevergoeding
+  name_en: Damage compensation
+  description: Een compensatie voor schade die is ontstaan door werkzaamheden van
+    of in opdracht van de netbeheerder.
+- id: contractloze-situatie
+  name: Contractloze situatie
+  name_en: Contractless situation
+  description: Een toestand waarin er een actieve aansluiting is zonder leveringsovereenkomst.
+- id: energiediefstal
+  name: Energiediefstal
+  name_en: Energy theft
+  description: Een situatie waarbij op illegale wijze energie wordt onttrokken aan
+    het energienet.
+- id: netverliescompensatie
+  name: Netverliescompensatie
+  name_en: Grid loss procurement
+  description: Het verkrijgen van energie om het technische dan wel administratieve
+    verschil tussen de invoeding en afname te compenseren.
+- id: energietransport
+  name: Energietransport
+  name_en: Energy transport
+  description: Een verplaatsing van energie via een energienet.
+- id: netcomponentconfiguratie
+  name: Netcomponentconfiguratie
+  name_en: Grid component configuration
+  description: Een verzameling van instellingen van een netcomponent die de werking
+    ervan bepalen.
+- id: netcomponentprestatie
+  name: Netcomponentprestatie
+  name_en: Grid component performance
+  description: Het vermogen van een netcomponent om te voldoen aan functionele eisen
+    of doelstellingen.
+- id: capaciteitsinzetbesluit
+  name: Capaciteitsinzetbesluit
+  name_en: Capacity deployment decision
+  description: Een beslissing om op bepaalde aansluitingen capaciteitsdiensten af
+    te roepen of de transportdienst vrij te geven.
+- id: bedieningsopdracht
+  name: Bedieningsopdracht
+  name_en: Operating instruction
+  description: Een autorisatie voor het wijzigen van de bedrijfstoestand van een netdeel.
+- id: bedieningssituatie
+  name: Bedieningssituatie
+  name_en: Switching situation
+  description: De stand van een of meer regelbare eenheden (zoals schakelaars) in
+    het energienet die van invloed zijn op het energietransport.
+- id: storing
+  name: Storing
+  name_en: Disturbance
+  description: Een niet gewenste verandering in de werking van een netcomponent, netdeel
+    of bijbehorende bedrijfsomstandigheden.
+- id: transportplanning
+  name: Transportplanning
+  name_en: Transport planning
+  description: Een voorbereiding van het transport van energie.
+- id: transportanalyse
+  name: Transportanalyse
+  name_en: Transport analysis
+  description: Een berekening van energietransport voor de dagelijkse voorbereiding
+    van dat transport.
+- id: onderbreking
+  name: Onderbreking
+  name_en: Outage
+  description: Een interruptie of beperking van het transport van energie bij één
+    of meer afnemers.
+- id: niet-beschikbaarheid
+  name: Niet-beschikbaarheid
+  name_en: Non-availability
+  description: Een situatie waarbij een of meer netfuncties tijdelijk niet kunnen
+    worden gebruikt.
+- id: bedieningsplan
+  name: Bedieningsplan
+  name_en: Switching plan
+  description: Een omschrijving van de bedieningshandelingen die uitgevoerd moeten
+    worden en die leiden tot een gewenste bedrijfssituatie.
+- id: energienet
+  name: Energienet
+  name_en: Energy grid
+  description: Een stelsel van leidingen en daarmee verbonden hulpmiddelen ten behoeve
+    van transport van energie.
+- id: netberekening
+  name: Netberekening
+  name_en: Grid calculation
+  description: Een kwantitatieve analyse om te bepalen of energietransporten in de
+    toekomst met het huidige energienet zijn te realiseren.
+- id: capaciteitsknelpunt
+  name: Capaciteitsknelpunt
+  name_en: Capacity bottleneck
+  description: Delen van het energienet waarvan wordt verwacht dat zij vanwege een
+    tekort aan transportcapaciteit of functionaliteit een aanzienlijk risico vormen
+    voor een goede uitvoering van de bij of krachtens de wet aan de netbeheerder toegekende
+    taken.
+- id: capaciteitsmaatregel
+  name: Capaciteitsmaatregel
+  name_en: Capacity measure
+  description: Een besluit over hoe een risico vanwege een tekort aan capaciteit of
+    functionaliteit in het energienet wordt gemitigeerd.
+- id: investeringsplan
+  name: Investeringsplan
+  name_en: Investment plan
+  description: Een door de netbeheerder periodiek opgesteld plan waarin alle noodzakelijke
+    uitbreidings- en vervangingsinvesteringen worden beschreven en onderbouwd.
+- id: netfunctie
+  name: Netfunctie
+  name_en: Grid function
+  description: Een afgebakende eenheid van functionaliteit op een bepaalde plaats
+    in het energienet.
+- id: functioneel-ontwerp
+  name: Functioneel ontwerp
+  name_en: Grid design
+  description: Een specificatie van eisen aan een netaanpassing en de gekozen oplossingsrichting.
+- id: omgevingsanalyse
+  name: Omgevingsanalyse
+  name_en: Environmental analysis
+  description: Een omschrijving van de fysieke leefomgeving en het eigenaarschap van
+    de grond, waar rekening mee moet worden gehouden bij de uitvoering van de bedrijfsactiviteiten.
+- id: zakelijk-recht-of-trac-vergunning
+  name: Zakelijk recht of tracévergunning
+  name_en: Right in rem or route permit
+  description: Een (volledig of beperkt) recht op een stuk grond (zakelijk recht),
+    of een toestemming van het bevoegd gezag (vergunning), om in een bepaald tracé
+    netcomponenten in bezit te hebben.
+- id: netaanpassingsopdracht
+  name: Netaanpassingsopdracht
+  name_en: Grid modification order
+  description: Een autorisatie voor de functionele wijziging van een energienet.
+- id: netcomponent
+  name: Netcomponent
+  name_en: Grid component
+  description: Een fysiek onderdeel van het energienet.
+- id: netkwaliteit
+  name: Netkwaliteit
+  name_en: Grid quality
+  description: De mate waarin het energienet voldoet aan bepaalde normen.
+- id: netcomponentconditie
+  name: Netcomponentconditie
+  name_en: Grid component condition
+  description: (Technische) toestand waarin een netcomponent verkeert.
+- id: kwaliteitsknelpunt
+  name: Kwaliteitsknelpunt
+  name_en: Quality bottleneck
+  description: Delen van het energienet waarvan wordt verwacht dat zij vanwege afnemende
+    functionaliteit, betrouwbaarheid of veroudering een aanzienlijk risico vormen
+    voor een goede uitvoering van de bij of krachtens de wet aan de netbeheerder toegekende
+    taken.
+- id: kwaliteitsmaatregel
+  name: Kwaliteitsmaatregel
+  name_en: Quality measure
+  description: Een besluit over hoe fysieke netcomponenten worden aangepast om kwaliteitsknelpunten
+    in het energienet te mitigeren.
+- id: onderhouds-of-inspectieplan
+  name: Onderhouds- of inspectieplan
+  name_en: Maintenance or inspection plan
+  description: Een omschrijving van de beoogde activiteiten aan netcomponenten die
+    nodig zijn om het energienet in aanvaardbare conditie te houden.
+- id: onderhouds-of-inspectieopdracht
+  name: Onderhouds- of inspectieopdracht
+  name_en: Maintenance or inspection order
+  description: Een autorisatie voor activiteiten die als doel hebben het in een voor
+    de netbeheerder aanvaardbare conditie houden (of terugbrengen) van netcomponenten
+    teneinde de gevraagde mate van functionaliteit te borgen.
+- id: storingsgrondoorzaak
+  name: Storingsgrondoorzaak
+  name_en: Disturbance root cause
+  description: Een fundamentele reden voor het optreden van een of meer storingen.
+- id: graafbericht
+  name: Graafbericht
+  name_en: Digging message
+  description: Een bericht aan de netbeheerder van de Dienst voor het kadaster en
+    de openbare registers nadat deze een oriëntatieverzoek of graafmelding heeft ontvangen.
+- id: netstrategie
+  name: Netstrategie
+  name_en: Grid strategy
+  description: Een algemene aanpak die een organisatie hanteert om de ontwikkeling
+    en instandhouding van energienetten te besturen zodat zij haar doelstellingen
+    realiseert.
+- id: technische-bedrijfsstandaard
+  name: Technische bedrijfsstandaard
+  name_en: Technical business standard
+  description: Een norm die aangeeft waaraan een bepaald product in technisch opzicht
+    zou moeten voldoen.
+- id: meting
+  name: Meting
+  name_en: Measurement
+  description: Een aan het energienet gerelateerde waardebepaling met behulp van een
+    meetinstrument.
+- id: werk
+  name: Werk
+  name_en: Work
+  description: Het ter plaatse aanbrengen van wenselijk geachte veranderingen aan
+    energienetten.
+- id: werkportfolio
+  name: Werkportfolio
+  name_en: Work portfolio
+  description: Een globale planning van werkzaamheden aan energienetten.
+- id: werkopdracht
+  name: Werkopdracht
+  name_en: Work order
+  description: Een autorisatie voor het uitvoeren van werk aan een energienet.
+- id: werkactiviteit
+  name: Werkactiviteit
+  name_en: Work activity
+  description: Het aanbrengen van wenselijk geachte veranderingen aan energienetten
+    door menselijke activiteit.
+- id: voorlopig-of-definitief-ontwerp
+  name: Voorlopig of definitief ontwerp
+  name_en: Preliminary or final design
+  description: Een omschrijving die laat zien hoe een netaanpassing er technisch uit
+    gaat zien.
+- id: uitvoeringsvergunning
+  name: Uitvoeringsvergunning
+  name_en: Execution permit
+  description: Een beschikking op een aanvraag, die toestaat voorgenomen activiteiten
+    voor bepaalde tijd te verrichten die in de wet- of regelgeving verboden zijn.
+- id: werkplan
+  name: Werkplan
+  name_en: Work plan
+  description: Een omschrijving van alle werkzaamheden die uitgevoerd moeten worden.
+- id: medewerkerinzet
+  name: Medewerkerinzet
+  name_en: Worker deployment
+  description: Het (gevraagde, geplande of daadwerkelijke) verbruik van de capaciteit
+    van medewerkers.
+- id: netrevisie-of-bevinding
+  name: Netrevisie of bevinding
+  name_en: Grid revision or finding
+  description: Een weergave van een ter plaatse aangebrachte of geconstateerde wijziging
+    van het energienet.
+- id: werkmiddel
+  name: Werkmiddel
+  name_en: Work resource
+  description: Een niet-menselijk object dat wordt gebruikt bij het uitvoeren van
+    werk aan een energienet.
+- id: standaard-werkproduct
+  name: Standaard werkproduct
+  name_en: Standard work product
+  description: Regelmatig terugkerend werk, met een norm voor de benodigde uren, materialen
+    en/of instructies.
+- id: uitvoeringscapaciteit
+  name: Uitvoeringscapaciteit
+  name_en: Execution capacity
+  description: De hoeveelheid werk aan het energienet die door medewerkers ter plaatse
+    kan worden uitgevoerd op basis van hun kwalificaties.
+- id: materiaal
+  name: Materiaal
+  name_en: Material
+  description: Een product bestemd om verwerkt te worden tot netcomponent.
+- id: goederenbeweging
+  name: Goederenbeweging
+  name_en: Goods movement
+  description: Een verplaatsing van goederen.
+- id: energiemarkt
+  name: Energiemarkt
+  name_en: Energy market
+  description: Een stelsel van afspraken en processen dat de uitwisseling van energie
+    tussen marktpartijen faciliteert.
+- id: marktpartij
+  name: Marktpartij
+  name_en: Market participant
+  description: Een partij die een rol vervult binnen de energiemarkt.
+- id: marktverzoek
+  name: Marktverzoek
+  name_en: Market request
+  description: Een vraag van een marktpartij aan een netbeheerder die voortvloeit
+    uit de uitvoering van een gereguleerd marktproces.
+- id: aansluiting
+  name: Aansluiting
+  name_en: Connection
+  description: Een recht op het gebruik van één of meer verbindingen tussen een energienet
+    en een onroerende zaak.
+- id: installatie
+  name: Installatie
+  name_en: Facility
+  description: Het samenstel van energietechnisch materiaal en leidingen van een aangeslotene,
+    te rekenen na het overdrachtspunt van de aansluiting.
+- id: congestiegebied
+  name: Congestiegebied
+  name_en: Congestion area
+  description: Een gebied waarin de te verwachten behoefte aan transport redelijkerwijs
+    kan leiden tot een structureel tekort aan transportcapaciteit.
+- id: marktproces
+  name: Marktproces
+  name_en: Market process
+  description: Een ordening van terugkerende activiteiten op de energiemarkt.
+- id: marktactiviteit
+  name: Marktactiviteit
+  name_en: Market activity
+  description: Het verrichten van een dienst door een marktpartij op een aansluiting.
+- id: energieplanning
+  name: Energieplanning
+  name_en: Energy prediction
+  description: Een voor de dagelijkse voorbereiding van transport met de netbeheerder
+    uitgewisselde planning van energiestromen en de daarvoor benodigde transportcapaciteit.
+- id: energie-uitwisseling
+  name: Energie-uitwisseling
+  name_en: Energy exchange
+  description: Een afname dan wel invoeding van energie op een energienet.
+- id: energietoerekening
+  name: Energietoerekening
+  name_en: Energy attribution
+  description: Een formele verklaring dat uitgewisselde energie een marktpartij toebehoort.
+- id: transportvrijgave
+  name: Transportvrijgave
+  name_en: Transport release
+  description: Het tijdelijk beschikbaar stellen van transportcapaciteit voor een
+    aansluiting met een volledig variabel recht op transport.
+- id: capaciteitsdienst
+  name: Capaciteitsdienst
+  name_en: Capacity service
+  description: Het op verzoek van de netbeheerder aanpassen van energiestromen om
+    het energienet beschikbaar te houden.
+- id: netbeheerdataverstrekking
+  name: Netbeheerdataverstrekking
+  name_en: Grid operator data provision
+  description: Een handeling waarbij de netbeheerder gegevens toegankelijk maakt,
+    buiten de reguliere bedrijfsactiviteiten om.
+- id: toestemming-van-aangeslotene
+  name: Toestemming van aangeslotene
+  name_en: Consent from system user
+  description: Een goedkeuring door een (natuurlijk of niet-natuurlijk) persoon die
+    beschikt over een aansluiting, aan een marktpartij om gegevens op te vragen of
+    te verstrekken voor een bepaald doel.
+- id: richting
+  name: Richting
+  name_en: Direction
+  description: Een strategische koers van een organisatie.
+- id: bedrijfsstrategie
+  name: Bedrijfsstrategie
+  name_en: Business strategy
+  description: Een algemene aanpak die een organisatie hanteert om haar missie, visie,
+    kernwaarden en doelstellingen te realiseren.
+- id: bedrijfsplan
+  name: Bedrijfsplan
+  name_en: Business plan
+  description: Een door een organisatie in detail voorgenomen handelswijze om haar
+    doelstellingen te realiseren.
+- id: bedrijfsprestatie
+  name: Bedrijfsprestatie
+  name_en: Business performance
+  description: De mate waarin een organisatie een gesteld doel of verplichting volbrengt.
+- id: stakeholderafstemming
+  name: Stakeholderafstemming
+  name_en: Stakeholder alignment
+  description: Iets in overeenstemming brengen met iemand die een belang heeft.
+- id: campagne
+  name: Campagne
+  name_en: Campaign
+  description: Een samenhangende reeks activiteiten in communicatie.
+- id: rechtsregel
+  name: Rechtsregel
+  name_en: Legal rule
+  description: Een algemene bepaling in het recht die in beginsel een bindende werking
+    heeft.
+- id: samenwerkingsverband
+  name: Samenwerkingsverband
+  name_en: Collaboration agreement
+  description: Een afspraak tussen partijen in of rond de energiesector om een gemeenschappelijk
+    doel na te streven.
+- id: verantwoordingsrapport
+  name: Verantwoordingsrapport
+  name_en: Accountability report
+  description: Officiële uitleg of verklaring van de activiteiten van de netbeheerder
+    aan een niet-financiële regulator.
+- id: transformatie
+  name: Transformatie
+  name_en: Transformation
+  description: Een doelbewuste verandering in de bedrijfsinrichting.
+- id: architectuurproduct
+  name: Architectuurproduct
+  name_en: Architecture product
+  description: Een beschrijving van de huidige en/of toekomstige structuur en werking
+    van een organisatie om deze te begrijpen, te communiceren en te beheren.
+- id: veranderportfolio
+  name: Veranderportfolio
+  name_en: Change portfolio
+  description: Een globale planning van gewenste veranderingen.
+- id: veranderinitiatief
+  name: Veranderinitiatief
+  name_en: Change initiative
+  description: Een verandering van de structuur en/of werkwijze van een organisatie.
+- id: innovatie
+  name: Innovatie
+  name_en: Innovation
+  description: Een idee voor een nieuw goed, dienst of proces, of combinatie daarvan.
+- id: risico
+  name: Risico
+  name_en: Risk
+  description: Een effect van onzekerheid ten aanzien van doelstellingen of resultaten.
+- id: bedrijfsrisico
+  name: Bedrijfsrisico
+  name_en: Business risk
+  description: Een effect van onzekerheid ten aanzien van de doelstellingen of resultaten
+    van een organisatie.
+- id: informatiebeveiligingsrisico
+  name: Informatiebeveiligingsrisico
+  name_en: Information security risk
+  description: Een effect van onzekerheid ten aanzien van het behoud van de vertrouwelijkheid,
+    de integriteit en de beschikbaarheid van informatie.
+- id: privacyrisico
+  name: Privacyrisico
+  name_en: Privacy risk
+  description: Een effect van onzekerheid ten aanzien van de beperking van rechten
+    en vrijheden van personen als gevolg van de verwerking van hun persoonsgegevens.
+- id: bedrijfscontinu-teitsplan
+  name: Bedrijfscontinuïteitsplan
+  name_en: Business continuity plan
+  description: Een document dat een organisatie gebruikt om haar activiteiten te herstellen
+    na een ontwrichtend incident.
+- id: vgmk-incident
+  name: VGMK-incident
+  name_en: SHEQ incident
+  description: Een ongewenst voorval dat voortvloeit uit bedrijfsactiviteiten en mogelijk
+    schade of letsel tot gevolg heeft.
+- id: vgmk-richtlijn
+  name: VGMK-richtlijn
+  name_en: SHEQ guideline
+  description: Een voorschrift ter bescherming van de veiligheid, de gezondheid, het
+    milieu en/of de kwaliteit van werk.
+- id: aanwijzing
+  name: Aanwijzing
+  name_en: Designation
+  description: Een formele toekenning van bevoegdheden en verantwoordelijkheden, gebaseerd
+    op aangetoonde deskundigheid, om specifieke werkzaamheden veilig en volgens geldende
+    normen uit te voeren.
+- id: juridisch-advies
+  name: Juridisch advies
+  name_en: Legal advice
+  description: Een raadgeving die primair verband houdt met het recht.
+- id: crisis
+  name: Crisis
+  name_en: Crisis
+  description: Een noodsituatie waarbij het energietransport ernstig verstoord kan
+    raken.
+- id: proces-en-data
+  name: Proces en data
+  name_en: Process and data
+  description: Een ordening van activiteiten, een vastgelegde uitdrukking van feiten.
+- id: proces
+  name: Proces
+  name_en: Process
+  description: Een ordening van activiteiten.
+- id: case
+  name: Case
+  name_en: Case
+  description: Een samenhangende hoeveelheid werk met een welgedefinieerde aanleiding
+    en een welgedefinieerd eindresultaat, waarvan kwaliteit en doorlooptijd bewaakt
+    moeten worden.
+- id: data
+  name: Data
+  name_en: Data
+  description: Een vastgelegde uitdrukking van feiten.
+- id: dataset
+  name: Dataset
+  name_en: Dataset
+  description: Een verzameling gegevens die als geheel wordt verwerkt.
+- id: datakwaliteitsregel
+  name: Datakwaliteitsregel
+  name_en: Data quality rule
+  description: Een beperking waar een dataset aan moet voldoen.
+- id: dataservice
+  name: Dataservice
+  name_en: Data service
+  description: Een verzameling handelingen die toegang biedt tot één of meer datasets.
+- id: data-analysemodel
+  name: Data-analysemodel
+  name_en: Data analysis model
+  description: Een algoritme bedoeld om bij toepassing op een dataset waardevolle
+    informatie te genereren.
+- id: archiefstuk
+  name: Archiefstuk
+  name_en: Archival document
+  description: Een document dat bestemd is om te bewaren door de organisatie die het
+    heeft gemaakt of ontvangen bij de uitvoering van haar activiteiten.
+- id: medewerker
+  name: Medewerker
+  name_en: Worker
+  description: Een natuurlijk persoon die activiteiten uitvoert in opdracht van een
+    organisatie.
+- id: medewerkersstrategie
+  name: Medewerkersstrategie
+  name_en: Human resource strategy
+  description: Een algemene aanpak die een organisatie hanteert om medewerkers te
+    werven en inzetbaar te houden zodat zij haar doelstellingen realiseert.
+- id: medewerkersplan
+  name: Medewerkersplan
+  name_en: Human resource plan
+  description: Een door een organisatie in detail voorgenomen handelswijze om medewerkers
+    te werven en inzetbaar te houden zodat zij haar doelstellingen realiseert.
+- id: organisatieonderdeel
+  name: Organisatieonderdeel
+  name_en: Organisational unit
+  description: Een groep mensen binnen een organisatie die een gezamenlijk doel nastreven.
+- id: arbeidsplaats
+  name: Arbeidsplaats
+  name_en: Position
+  description: Een functie binnen een organisatieonderdeel, te vervullen door één
+    medewerker.
+- id: medewerkersovereenkomst
+  name: Medewerkersovereenkomst
+  name_en: Worker agreement
+  description: Een afspraak waarbij een natuurlijk persoon, niet als onderneming,
+    zich verbindt in opdracht van een organisatie werk te verrichten.
+- id: wervingsactie
+  name: Wervingsactie
+  name_en: Recruitment
+  description: Een activiteit gericht op het aantrekken van nieuwe medewerkers.
+- id: uitdiensttreding
+  name: Uitdiensttreding
+  name_en: Offboarding
+  description: De beëindiging van een dienstverband.
+- id: medewerkersbeloning
+  name: Medewerkersbeloning
+  name_en: Worker remuneration
+  description: Een (meestal financiële) vergoeding voor arbeid en de daaraan verbonden
+    onkosten.
+- id: ziekteverzuim
+  name: Ziekteverzuim
+  name_en: Sick leave
+  description: Afwezigheid op het werk als gevolg van ziekte of gezondheidsproblemen.
+- id: verlof
+  name: Verlof
+  name_en: Leave of absence
+  description: Een toestemming om gedurende een bepaalde periode afwezig te zijn op
+    het werk.
+- id: medewerkersprestatie
+  name: Medewerkersprestatie
+  name_en: Worker performance
+  description: De mate waarin een medewerker gestelde doelen of verplichtingen volbrengt.
+- id: persoonscertificaat
+  name: Persoonscertificaat
+  name_en: Personal certificate
+  description: Een document dat bevestigt dat een natuurlijk persoon kennis, vaardigheden,
+    competenties of kwalificaties heeft behaald.
+- id: competentie
+  name: Competentie
+  name_en: Competency
+  description: Een verzameling van kennis, ervaring en persoonlijke vaardigheden om
+    een functie, taak of rol met succes te vervullen.
+- id: vitaliteitsprogramma
+  name: Vitaliteitsprogramma
+  name_en: Vitality programme
+  description: Een gestructureerd en georganiseerd initiatief gericht op het bevorderen
+    van de algehele gezondheid, welzijn en veerkracht van medewerkers.
+- id: digitaal-product
+  name: Digitaal product
+  name_en: Digital product
+  description: Een dienst voor het leveren van beheerde software.
+- id: digitaalproductstrategie
+  name: Digitaalproductstrategie
+  name_en: Digital product strategy
+  description: Een algemene aanpak die een organisatie hanteert om digitale producten
+    te ontwikkelen en beheren zodat zij haar doelstellingen realiseert.
+- id: digitaalproductwijziging
+  name: Digitaalproductwijziging
+  name_en: Digital product release
+  description: Een verandering van een digitaal product.
+- id: digitaalproductinstantie
+  name: Digitaalproductinstantie
+  name_en: Digital product instance
+  description: Een levering van een digitaal product.
+- id: digitaalproductprestatie
+  name: Digitaalproductprestatie
+  name_en: Digital product performance
+  description: De mate waarin de instantie van een digitaal product afgesproken prestatiedoelen
+    behaalt.
+- id: inkoopproduct
+  name: Inkoopproduct
+  name_en: Purchase product
+  description: Een tegen betaling verkregen product of dienst.
+- id: inkoopstrategie
+  name: Inkoopstrategie
+  name_en: Purchasing strategy
+  description: Een algemene aanpak die een organisatie hanteert om goederen en diensten
+    te verkrijgen zodat zij haar doelstellingen realiseert.
+- id: inkoopplan
+  name: Inkoopplan
+  name_en: Purchasing plan
+  description: Een door een organisatie in detail voorgenomen handelswijze om goederen
+    en diensten te verkrijgen zodat zij haar doelstellingen realiseert.
+- id: inkoopovereenkomst
+  name: Inkoopovereenkomst
+  name_en: Purchase agreement
+  description: Een afspraak over het leveren van goederen of diensten aan de netbeheerder.
+- id: inkoopleverancier
+  name: Inkoopleverancier
+  name_en: Purchasing supplier
+  description: Een partij die tegen betaling goederen of diensten levert aan de netbeheerder.
+- id: inkooporder
+  name: Inkooporder
+  name_en: Purchase order
+  description: Een afspraak om goederen of diensten te leveren aan de netbeheerder
+    tegen een overeengekomen prijs, eventueel onder de voorwaarden van een inkoopovereenkomst.
+- id: inkoopleveranciersprestatie
+  name: Inkoopleveranciersprestatie
+  name_en: Purchasing supplier performance
+  description: De mate waarin een inkoopleverancier gestelde doelen of verplichtingen
+    volbrengt.
+- id: bedrijfsgebouw
+  name: Bedrijfsgebouw
+  name_en: Company building
+  description: Een gebouw waar duurzame uitoefening van de activiteiten van de netbeheerder
+    plaatsvindt, niet zijnde een gebouw dat onderdeel uitmaakt van het energienet.
+- id: bedrijfsgebouwenstrategie
+  name: Bedrijfsgebouwenstrategie
+  name_en: Company building strategy
+  description: Een algemene aanpak die een organisatie hanteert om bedrijfsgebouwen
+    en faciliteiten te beheren zodat zij haar doelstellingen realiseert.
+- id: facilitair-product
+  name: Facilitair product
+  name_en: Facility product
+  description: Een voorwerp of dienst die het gebruik van een bedrijfsgebouw ondersteunt.
+- id: reisbeweging
+  name: Reisbeweging
+  name_en: Travel movement
+  description: Een vrijwillige verplaatsing van een persoon van een bepaalde locatie
+    naar een andere locatie.
+- id: financi-n
+  name: Financiën
+  name_en: Finance
+  description: Een geheel aan geldmiddelen en de zaken die daarop betrekking hebben.
+- id: financi-le-strategie
+  name: Financiële strategie
+  name_en: Finance strategy
+  description: Een algemene aanpak die een organisatie hanteert om financiën te besturen
+    zodat zij haar doelstellingen realiseert.
+- id: financieel-plan
+  name: Financieel plan
+  name_en: Financial plan
+  description: Een door een organisatie in detail voorgenomen handelswijze om financiën
+    te besturen zodat zij haar doelstellingen realiseert.
+- id: financieel-advies
+  name: Financieel advies
+  name_en: Financial advice
+  description: Een raadgeving die primair verband houdt met de financiën.
+- id: financieel-verslag
+  name: Financieel verslag
+  name_en: Financial report
+  description: Een overzicht van de financiële situatie van een organisatie.
+- id: vermogen-en-liquiditeit
+  name: Vermogen en liquiditeit
+  name_en: Capital and liquidity
+  description: Een geheel aan bezittingen, schulden en de mogelijkheden om aan kortlopende
+    betaalverplichtingen te kunnen voldoen.
+- id: financiering
+  name: Financiering
+  name_en: Financing
+  description: Een verstrekking van benodigde geldmiddelen.
+- id: waardering
+  name: Waardering
+  name_en: Valuation
+  description: Een vaststelling van de geldelijke waarde van bezittingen.
+- id: liquide-middel
+  name: Liquide middel
+  name_en: Liquid asset
+  description: Direct beschikbaar geld of direct opeisbaar tegoed.
+- id: betalingsopdracht
+  name: Betalingsopdracht
+  name_en: Payment order
+  description: Een opdracht aan een financiële instelling om geld over te dragen.
+- id: financieel-feit
+  name: Financieel feit
+  name_en: Financial fact
+  description: De geldelijke waardering van een gebeurtenis.
+- id: financi-le-stand
+  name: Financiële stand
+  name_en: Financial status
+  description: De geldelijke waardering van een toestand.
+- id: financi-le-beheersmaatregel
+  name: Financiële beheersmaatregel
+  name_en: Financial control
+  description: Een handeling waarmee een organisatie het gebruik van haar financiële
+    middelen bewaakt.
+relations:
+- type: canTransform
+  source_id: C.1
+  target_id: klant
+- type: canTransform
+  source_id: C.1.1
+  target_id: klant
+- type: canTransform
+  source_id: C.1.1.1
+  target_id: klantnotificatie
+- type: canTransform
+  source_id: C.1.1.1
+  target_id: klantcontactmoment
+- type: canTransform
+  source_id: C.1.1.2
+  target_id: klantverzoek
+- type: canTransform
+  source_id: C.1.1.3
+  target_id: klant
+- type: canTransform
+  source_id: C.1.1.4
+  target_id: klant
+- type: canTransform
+  source_id: C.1.1.5
+  target_id: transportbehoefte
+- type: canTransform
+  source_id: C.1.1.6
+  target_id: klantervaring
+- type: canTransform
+  source_id: C.1.2
+  target_id: klantovereenkomst
+- type: canTransform
+  source_id: C.1.2.1
+  target_id: klantofferte
+- type: canTransform
+  source_id: C.1.2.2
+  target_id: klantovereenkomst
+- type: canTransform
+  source_id: C.1.2.3
+  target_id: klantproduct
+- type: canTransform
+  source_id: C.1.3
+  target_id: klantfactuur
+- type: canTransform
+  source_id: C.1.3.1
+  target_id: klantfactuur
+- type: canTransform
+  source_id: C.1.3.2
+  target_id: klantfactuur
+- type: canTransform
+  source_id: C.1.3.3
+  target_id: klantfactuur
+- type: canTransform
+  source_id: C.1.4
+  target_id: inkomstenverlies
+- type: canTransform
+  source_id: C.1.4.1
+  target_id: schadeverhaal
+- type: canTransform
+  source_id: C.1.4.2
+  target_id: storingscompensatie
+- type: canTransform
+  source_id: C.1.4.3
+  target_id: schadevergoeding
+- type: canTransform
+  source_id: C.1.4.4
+  target_id: contractloze-situatie
+- type: canTransform
+  source_id: C.1.4.5
+  target_id: energiediefstal
+- type: canTransform
+  source_id: C.1.4.6
+  target_id: netverliescompensatie
+- type: canTransform
+  source_id: C.2
+  target_id: energietransport
+- type: canTransform
+  source_id: C.2.1
+  target_id: energietransport
+- type: canTransform
+  source_id: C.2.1.1
+  target_id: energietransport
+- type: canTransform
+  source_id: C.2.1.2
+  target_id: netcomponentconfiguratie
+- type: canTransform
+  source_id: C.2.1.2
+  target_id: netcomponentprestatie
+- type: canTransform
+  source_id: C.2.1.3
+  target_id: capaciteitsinzetbesluit
+- type: canTransform
+  source_id: C.2.1.3
+  target_id: bedieningsopdracht
+- type: canTransform
+  source_id: C.2.1.4
+  target_id: bedieningssituatie
+- type: canTransform
+  source_id: C.2.1.5
+  target_id: bedieningssituatie
+- type: canTransform
+  source_id: C.2.2
+  target_id: storing
+- type: canTransform
+  source_id: C.2.2.1
+  target_id: storing
+- type: canTransform
+  source_id: C.2.2.2
+  target_id: storing
+- type: canTransform
+  source_id: C.2.2.3
+  target_id: storing
+- type: canTransform
+  source_id: C.2.2.4
+  target_id: storing
+- type: canTransform
+  source_id: C.2.2.5
+  target_id: storing
+- type: canTransform
+  source_id: C.2.3
+  target_id: transportplanning
+- type: canTransform
+  source_id: C.2.3.1
+  target_id: transportanalyse
+- type: canTransform
+  source_id: C.2.3.2
+  target_id: onderbreking
+- type: canTransform
+  source_id: C.2.3.2
+  target_id: niet-beschikbaarheid
+- type: canTransform
+  source_id: C.2.3.3
+  target_id: bedieningsplan
+- type: canTransform
+  source_id: C.3
+  target_id: energienet
+- type: canTransform
+  source_id: C.3.1
+  target_id: energienet
+- type: canTransform
+  source_id: C.3.1.1
+  target_id: netberekening
+- type: canTransform
+  source_id: C.3.1.2
+  target_id: capaciteitsknelpunt
+- type: canTransform
+  source_id: C.3.1.3
+  target_id: capaciteitsmaatregel
+- type: canTransform
+  source_id: C.3.1.4
+  target_id: investeringsplan
+- type: canTransform
+  source_id: C.3.1.5
+  target_id: netfunctie
+- type: canTransform
+  source_id: C.3.1.5
+  target_id: functioneel-ontwerp
+- type: canTransform
+  source_id: C.3.1.6
+  target_id: omgevingsanalyse
+- type: canTransform
+  source_id: C.3.1.7
+  target_id: zakelijk-recht-of-trac-vergunning
+- type: canTransform
+  source_id: C.3.1.8
+  target_id: netaanpassingsopdracht
+- type: canTransform
+  source_id: C.3.1.9
+  target_id: netcomponent
+- type: canTransform
+  source_id: C.3.2
+  target_id: netkwaliteit
+- type: canTransform
+  source_id: C.3.2.1
+  target_id: netcomponentconditie
+- type: canTransform
+  source_id: C.3.2.2
+  target_id: kwaliteitsknelpunt
+- type: canTransform
+  source_id: C.3.2.3
+  target_id: kwaliteitsmaatregel
+- type: canTransform
+  source_id: C.3.2.4
+  target_id: onderhouds-of-inspectieplan
+- type: canTransform
+  source_id: C.3.2.5
+  target_id: onderhouds-of-inspectieopdracht
+- type: canTransform
+  source_id: C.3.2.6
+  target_id: storingsgrondoorzaak
+- type: canTransform
+  source_id: C.3.2.7
+  target_id: graafbericht
+- type: canTransform
+  source_id: C.3.3
+  target_id: netstrategie
+- type: canTransform
+  source_id: C.3.3.1
+  target_id: netstrategie
+- type: canTransform
+  source_id: C.3.3.2
+  target_id: netstrategie
+- type: canTransform
+  source_id: C.3.3.3
+  target_id: netstrategie
+- type: canTransform
+  source_id: C.3.3.4
+  target_id: technische-bedrijfsstandaard
+- type: canTransform
+  source_id: C.3.3.5
+  target_id: technische-bedrijfsstandaard
+- type: canTransform
+  source_id: C.3.3.6
+  target_id: technische-bedrijfsstandaard
+- type: canTransform
+  source_id: C.4
+  target_id: meting
+- type: canTransform
+  source_id: C.4.1
+  target_id: meting
+- type: canTransform
+  source_id: C.4.1.1
+  target_id: meting
+- type: canTransform
+  source_id: C.4.1.2
+  target_id: meting
+- type: canTransform
+  source_id: C.4.2
+  target_id: meting
+- type: canTransform
+  source_id: C.4.2.1
+  target_id: meting
+- type: canTransform
+  source_id: C.4.2.2
+  target_id: meting
+- type: canTransform
+  source_id: C.4.2.3
+  target_id: meting
+- type: canTransform
+  source_id: C.5
+  target_id: werk
+- type: canTransform
+  source_id: C.5.1
+  target_id: werkportfolio
+- type: canTransform
+  source_id: C.5.1.1
+  target_id: werkportfolio
+- type: canTransform
+  source_id: C.5.2
+  target_id: werkopdracht
+- type: canTransform
+  source_id: C.5.2.1
+  target_id: werkopdracht
+- type: canTransform
+  source_id: C.5.2.2
+  target_id: werkopdracht
+- type: canTransform
+  source_id: C.5.2.3
+  target_id: werkopdracht
+- type: canTransform
+  source_id: C.5.2.4
+  target_id: werkopdracht
+- type: canTransform
+  source_id: C.5.3
+  target_id: werkactiviteit
+- type: canTransform
+  source_id: C.5.3.1
+  target_id: voorlopig-of-definitief-ontwerp
+- type: canTransform
+  source_id: C.5.3.2
+  target_id: uitvoeringsvergunning
+- type: canTransform
+  source_id: C.5.3.2
+  target_id: werkplan
+- type: canTransform
+  source_id: C.5.3.2
+  target_id: werkactiviteit
+- type: canTransform
+  source_id: C.5.3.3
+  target_id: medewerkerinzet
+- type: canTransform
+  source_id: C.5.3.4
+  target_id: werkactiviteit
+- type: canTransform
+  source_id: C.5.3.5
+  target_id: werkactiviteit
+- type: canTransform
+  source_id: C.5.3.6
+  target_id: werkactiviteit
+- type: canTransform
+  source_id: C.5.3.7
+  target_id: netrevisie-of-bevinding
+- type: canTransform
+  source_id: C.5.3.7
+  target_id: werkactiviteit
+- type: canTransform
+  source_id: C.5.4
+  target_id: werkmiddel
+- type: canTransform
+  source_id: C.5.4.1
+  target_id: standaard-werkproduct
+- type: canTransform
+  source_id: C.5.4.2
+  target_id: uitvoeringscapaciteit
+- type: canTransform
+  source_id: C.5.4.3
+  target_id: materiaal
+- type: canTransform
+  source_id: C.5.4.4
+  target_id: goederenbeweging
+- type: canTransform
+  source_id: C.5.4.5
+  target_id: werkmiddel
+- type: canTransform
+  source_id: C.6
+  target_id: energiemarkt
+- type: canTransform
+  source_id: C.6.1
+  target_id: marktpartij
+- type: canTransform
+  source_id: C.6.1.1
+  target_id: marktpartij
+- type: canTransform
+  source_id: C.6.1.2
+  target_id: marktverzoek
+- type: canTransform
+  source_id: C.6.1.3
+  target_id: energiemarkt
+- type: canTransform
+  source_id: C.6.2
+  target_id: aansluiting
+- type: canTransform
+  source_id: C.6.2.1
+  target_id: aansluiting
+- type: canTransform
+  source_id: C.6.2.2
+  target_id: installatie
+- type: canTransform
+  source_id: C.6.2.3
+  target_id: congestiegebied
+- type: canTransform
+  source_id: C.6.3
+  target_id: marktproces
+- type: canTransform
+  source_id: C.6.3.1
+  target_id: marktactiviteit
+- type: canTransform
+  source_id: C.6.3.2
+  target_id: energieplanning
+- type: canTransform
+  source_id: C.6.3.3
+  target_id: energie-uitwisseling
+- type: canTransform
+  source_id: C.6.3.4
+  target_id: energietoerekening
+- type: canTransform
+  source_id: C.6.3.5
+  target_id: transportvrijgave
+- type: canTransform
+  source_id: C.6.3.5
+  target_id: capaciteitsdienst
+- type: canTransform
+  source_id: C.6.4
+  target_id: netbeheerdataverstrekking
+- type: canTransform
+  source_id: C.6.4.1
+  target_id: netbeheerdataverstrekking
+- type: canTransform
+  source_id: C.6.4.2
+  target_id: toestemming-van-aangeslotene
+- type: canTransform
+  source_id: E.1
+  target_id: richting
+- type: canTransform
+  source_id: E.1.1
+  target_id: bedrijfsstrategie
+- type: canTransform
+  source_id: E.1.1.1
+  target_id: bedrijfsstrategie
+- type: canTransform
+  source_id: E.1.1.2
+  target_id: bedrijfsstrategie
+- type: canTransform
+  source_id: E.1.1.3
+  target_id: bedrijfsstrategie
+- type: canTransform
+  source_id: E.1.1.4
+  target_id: bedrijfsplan
+- type: canTransform
+  source_id: E.1.1.5
+  target_id: bedrijfsprestatie
+- type: canTransform
+  source_id: E.1.2
+  target_id: stakeholderafstemming
+- type: canTransform
+  source_id: E.1.2.1
+  target_id: campagne
+- type: canTransform
+  source_id: E.1.2.2
+  target_id: rechtsregel
+- type: canTransform
+  source_id: E.1.2.3
+  target_id: samenwerkingsverband
+- type: canTransform
+  source_id: E.1.2.4
+  target_id: verantwoordingsrapport
+- type: canTransform
+  source_id: E.1.3
+  target_id: transformatie
+- type: canTransform
+  source_id: E.1.3.1
+  target_id: architectuurproduct
+- type: canTransform
+  source_id: E.1.3.2
+  target_id: veranderportfolio
+- type: canTransform
+  source_id: E.1.3.3
+  target_id: veranderinitiatief
+- type: canTransform
+  source_id: E.1.3.4
+  target_id: innovatie
+- type: canTransform
+  source_id: E.1.4
+  target_id: risico
+- type: canTransform
+  source_id: E.1.4.1
+  target_id: bedrijfsrisico
+- type: canTransform
+  source_id: E.1.4.2
+  target_id: informatiebeveiligingsrisico
+- type: canTransform
+  source_id: E.1.4.3
+  target_id: privacyrisico
+- type: canTransform
+  source_id: E.1.4.4
+  target_id: bedrijfscontinu-teitsplan
+- type: canTransform
+  source_id: E.1.4.5
+  target_id: vgmk-incident
+- type: canTransform
+  source_id: E.1.4.5
+  target_id: vgmk-richtlijn
+- type: canTransform
+  source_id: E.1.4.5
+  target_id: aanwijzing
+- type: canTransform
+  source_id: E.1.4.6
+  target_id: juridisch-advies
+- type: canTransform
+  source_id: E.1.4.7
+  target_id: crisis
+- type: canTransform
+  source_id: E.2
+  target_id: proces-en-data
+- type: canTransform
+  source_id: E.2.1
+  target_id: proces
+- type: canTransform
+  source_id: E.2.1.1
+  target_id: proces
+- type: canTransform
+  source_id: E.2.1.2
+  target_id: case
+- type: canTransform
+  source_id: E.2.2
+  target_id: data
+- type: canTransform
+  source_id: E.2.2.1
+  target_id: dataset
+- type: canTransform
+  source_id: E.2.2.2
+  target_id: datakwaliteitsregel
+- type: canTransform
+  source_id: E.2.2.3
+  target_id: dataservice
+- type: canTransform
+  source_id: E.2.2.4
+  target_id: data-analysemodel
+- type: canTransform
+  source_id: E.2.2.5
+  target_id: archiefstuk
+- type: canTransform
+  source_id: E.3
+  target_id: medewerker
+- type: canTransform
+  source_id: E.3.1
+  target_id: medewerkersstrategie
+- type: canTransform
+  source_id: E.3.1.1
+  target_id: medewerkersstrategie
+- type: canTransform
+  source_id: E.3.1.2
+  target_id: medewerkersplan
+- type: canTransform
+  source_id: E.3.1.3
+  target_id: organisatieonderdeel
+- type: canTransform
+  source_id: E.3.1.3
+  target_id: arbeidsplaats
+- type: canTransform
+  source_id: E.3.2
+  target_id: medewerkersovereenkomst
+- type: canTransform
+  source_id: E.3.2.1
+  target_id: wervingsactie
+- type: canTransform
+  source_id: E.3.2.2
+  target_id: medewerkersovereenkomst
+- type: canTransform
+  source_id: E.3.2.3
+  target_id: uitdiensttreding
+- type: canTransform
+  source_id: E.3.3
+  target_id: medewerker
+- type: canTransform
+  source_id: E.3.3.1
+  target_id: medewerker
+- type: canTransform
+  source_id: E.3.3.2
+  target_id: medewerker
+- type: canTransform
+  source_id: E.3.3.3
+  target_id: medewerkersbeloning
+- type: canTransform
+  source_id: E.3.3.4
+  target_id: ziekteverzuim
+- type: canTransform
+  source_id: E.3.3.5
+  target_id: verlof
+- type: canTransform
+  source_id: E.3.4
+  target_id: medewerkersprestatie
+- type: canTransform
+  source_id: E.3.4.1
+  target_id: medewerkersprestatie
+- type: canTransform
+  source_id: E.3.4.2
+  target_id: persoonscertificaat
+- type: canTransform
+  source_id: E.3.4.2
+  target_id: competentie
+- type: canTransform
+  source_id: E.3.4.3
+  target_id: vitaliteitsprogramma
+- type: canTransform
+  source_id: E.4
+  target_id: digitaal-product
+- type: canTransform
+  source_id: E.4.1
+  target_id: digitaal-product
+- type: canTransform
+  source_id: E.4.1.1
+  target_id: digitaalproductstrategie
+- type: canTransform
+  source_id: E.4.1.2
+  target_id: digitaal-product
+- type: canTransform
+  source_id: E.4.2
+  target_id: digitaalproductwijziging
+- type: canTransform
+  source_id: E.4.2.1
+  target_id: digitaalproductwijziging
+- type: canTransform
+  source_id: E.4.2.2
+  target_id: digitaalproductwijziging
+- type: canTransform
+  source_id: E.4.3
+  target_id: digitaalproductinstantie
+- type: canTransform
+  source_id: E.4.3.1
+  target_id: digitaalproductinstantie
+- type: canTransform
+  source_id: E.4.3.2
+  target_id: digitaalproductinstantie
+- type: canTransform
+  source_id: E.4.4
+  target_id: digitaalproductprestatie
+- type: canTransform
+  source_id: E.4.4.1
+  target_id: digitaalproductprestatie
+- type: canTransform
+  source_id: E.4.4.2
+  target_id: digitaalproductprestatie
+- type: canTransform
+  source_id: E.5
+  target_id: inkoopproduct
+- type: canTransform
+  source_id: E.5.1
+  target_id: inkoopstrategie
+- type: canTransform
+  source_id: E.5.1.1
+  target_id: inkoopstrategie
+- type: canTransform
+  source_id: E.5.1.2
+  target_id: inkoopplan
+- type: canTransform
+  source_id: E.5.2
+  target_id: inkoopovereenkomst
+- type: canTransform
+  source_id: E.5.2.1
+  target_id: inkoopleverancier
+- type: canTransform
+  source_id: E.5.2.2
+  target_id: inkoopovereenkomst
+- type: canTransform
+  source_id: E.5.2.2
+  target_id: inkooporder
+- type: canTransform
+  source_id: E.5.2.3
+  target_id: inkoopleveranciersprestatie
+- type: canTransform
+  source_id: E.6
+  target_id: bedrijfsgebouw
+- type: canTransform
+  source_id: E.6.1
+  target_id: bedrijfsgebouw
+- type: canTransform
+  source_id: E.6.1.1
+  target_id: bedrijfsgebouwenstrategie
+- type: canTransform
+  source_id: E.6.1.2
+  target_id: bedrijfsgebouw
+- type: canTransform
+  source_id: E.6.1.3
+  target_id: bedrijfsgebouw
+- type: canTransform
+  source_id: E.6.2
+  target_id: facilitair-product
+- type: canTransform
+  source_id: E.6.2.1
+  target_id: facilitair-product
+- type: canTransform
+  source_id: E.6.2.2
+  target_id: reisbeweging
+- type: canTransform
+  source_id: E.7
+  target_id: financi-n
+- type: canTransform
+  source_id: E.7.1
+  target_id: financi-le-strategie
+- type: canTransform
+  source_id: E.7.1.1
+  target_id: financi-le-strategie
+- type: canTransform
+  source_id: E.7.1.2
+  target_id: financieel-plan
+- type: canTransform
+  source_id: E.7.1.3
+  target_id: financieel-advies
+- type: canTransform
+  source_id: E.7.1.4
+  target_id: financieel-verslag
+- type: canTransform
+  source_id: E.7.2
+  target_id: vermogen-en-liquiditeit
+- type: canTransform
+  source_id: E.7.2.1
+  target_id: financiering
+- type: canTransform
+  source_id: E.7.2.2
+  target_id: waardering
+- type: canTransform
+  source_id: E.7.2.3
+  target_id: liquide-middel
+- type: canTransform
+  source_id: E.7.2.4
+  target_id: betalingsopdracht
+- type: canTransform
+  source_id: E.7.3
+  target_id: financieel-feit
+- type: canTransform
+  source_id: E.7.3.1
+  target_id: financieel-feit
+- type: canTransform
+  source_id: E.7.3.2
+  target_id: financi-le-stand
+- type: canTransform
+  source_id: E.7.3.3
+  target_id: financi-le-beheersmaatregel
